@@ -1,0 +1,3299 @@
+{
+    "chunks": [
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 0.0,
+            "end": 4.48,
+            "text": " Guys, I had made a playlist of a Python practice program before."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 4.48,
+            "end": 7.44,
+            "text": " And some of you liked it very much."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 7.44,
+            "end": 12.56,
+            "text": " So, in my playlist of Python practice programs, I had put some exciting Python programs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 12.56,
+            "end": 20.96,
+            "text": " If you don't know, I will continue that series and make some of the best Python programs in this series."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 20.96,
+            "end": 23.36,
+            "text": " And today's program is very exciting."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 23.36,
+            "end": 26.48,
+            "text": " And that is a use case that you can read."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 26.48,
+            "end": 28.48,
+            "text": " And I have named it as clear the clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 28.48,
+            "end": 30.48,
+            "text": " So, how can the clutter be?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 30.48,
+            "end": 34.08,
+            "text": " The clutter can be that you will have a lot of files here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 34.08,
+            "end": 38.64,
+            "text": " Like HTML files, JPG files, PNG files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 38.64,
+            "end": 43.36,
+            "text": " And what you have to do is that you have to arrange all the files in a folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 43.36,
+            "end": 45.68,
+            "text": " For example, I have a file here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 45.68,
+            "end": 48.64,
+            "text": " I am making a new text document here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 48.64,
+            "end": 51.2,
+            "text": " And this will be, I have this.txt."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 51.2,
+            "end": 53.2,
+            "text": " And I will have PNG file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 53.2,
+            "end": 56.0,
+            "text": " And then I will have a lot of different types of files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 56.0,
+            "end": 61.6,
+            "text": " And after putting all those files here, I would like them to be their own folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 61.6,
+            "end": 67.92,
+            "text": " And after being folders, what will happen is that I will make a folder of txt files and text files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 67.92,
+            "end": 69.92,
+            "text": " And put all the txt files in it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 69.92,
+            "end": 76.32,
+            "text": " And then I will make a folder of images and put all the images files in it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 76.32,
+            "end": 78.32,
+            "text": " And you may need to do this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 78.32,
+            "end": 80.32,
+            "text": " You can run this program in your computer."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 80.32,
+            "end": 82.32,
+            "text": " And it will be very clean."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 82.32,
+            "end": 84.32,
+            "text": " I am telling you in your computer."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 84.63999999999999,
+            "end": 90.63999999999999,
+            "text": " So I am going to start with a lot of files here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 90.63999999999999,
+            "end": 92.63999999999999,
+            "text": " Which I will drop in this folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 92.63999999999999,
+            "end": 94.63999999999999,
+            "text": " And also open this folder in VS Code."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 94.63999999999999,
+            "end": 98.63999999999999,
+            "text": " So these are the files that I have copied here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 98.63999999999999,
+            "end": 102.63999999999999,
+            "text": " And after copying, we are going to use OS module here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 102.63999999999999,
+            "end": 104.63999999999999,
+            "text": " I want to tell you something."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 104.63999999999999,
+            "end": 106.63999999999999,
+            "text": " The Python program that I am going to make here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 106.63999999999999,
+            "end": 112.63999999999999,
+            "text": " And also, the functions that I will tell you here, I am not getting them."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 112.96,
+            "end": 114.96,
+            "text": " So I am going to take an internet reference."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 114.96,
+            "end": 118.96000000000001,
+            "text": " So first of all, I will make a main.py here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 118.96000000000001,
+            "end": 120.96000000000001,
+            "text": " I have made the main.py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 120.96000000000001,
+            "end": 124.96000000000001,
+            "text": " And after making the main.py, I will arrange all the folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 124.96000000000001,
+            "end": 126.96000000000001,
+            "text": " The files here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 126.96000000000001,
+            "end": 128.96,
+            "text": " I will first list them here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 128.96,
+            "end": 132.96,
+            "text": " And after that, I will arrange them."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 132.96,
+            "end": 134.96,
+            "text": " So here, I am asking you to select Python interpreter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 134.96,
+            "end": 136.96,
+            "text": " I have installed multiple versions of Python."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 136.96,
+            "end": 140.96,
+            "text": " So if you ever want to make a folder of Python, you can do it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 141.28,
+            "end": 145.28,
+            "text": " So if you ever have such an error, then click below."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 145.28,
+            "end": 147.28,
+            "text": " Select Python. Everything will be fine."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 147.28,
+            "end": 149.28,
+            "text": " So first of all, let me tell you something."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 149.28,
+            "end": 151.28,
+            "text": " The OS that I am going to do here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 151.28,
+            "end": 155.28,
+            "text": " The operating system module of Python in OS."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 155.28,
+            "end": 159.28,
+            "text": " It is so user friendly that you might need to see the documentation."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 159.28,
+            "end": 163.28,
+            "text": " But if you study it, feel free to search."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 163.28,
+            "end": 165.28,
+            "text": " You can search on the internet."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 165.28,
+            "end": 167.28,
+            "text": " How do you do this and how do you do that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 167.28,
+            "end": 169.28,
+            "text": " And you will get everything."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 169.6,
+            "end": 179.6,
+            "text": " Here if I write files is equal to os.listdir."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 179.6,
+            "end": 183.6,
+            "text": " And after doing this, I will print the files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 183.6,
+            "end": 185.6,
+            "text": " You can't do this and that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 185.6,
+            "end": 187.6,
+            "text": " You can't do that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 187.6,
+            "end": 189.6,
+            "text": " Or you can't do that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 189.6,
+            "end": 191.6,
+            "text": " I want to tell you something."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 191.6,
+            "end": 197.6,
+            "text": " All the modules, you have to do a course of a module."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 197.92,
+            "end": 201.92,
+            "text": " So any new module, you have to see the documentation and it will start."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 201.92,
+            "end": 203.92,
+            "text": " So I did this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 203.92,
+            "end": 205.92,
+            "text": " I ran the listdir function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 205.92,
+            "end": 207.92,
+            "text": " And here I ran it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 207.92,
+            "end": 213.92,
+            "text": " So all the vscode, apng file, rr file, js file, all the files are here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 213.92,
+            "end": 215.92,
+            "text": " And here it lists all the files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 215.92,
+            "end": 217.92,
+            "text": " And it also lists this script."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 217.92,
+            "end": 219.92,
+            "text": " It also lists main.py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 219.92,
+            "end": 223.92,
+            "text": " So for now I will remove this Python file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 223.92,
+            "end": 231.92,
+            "text": " And after removing this Python file, I will copy all the files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 231.92,
+            "end": 233.92,
+            "text": " So I will do this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 233.92,
+            "end": 235.92,
+            "text": " I will put my files in different folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 235.92,
+            "end": 239.92,
+            "text": " So first of all, if I write."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 239.92,
+            "end": 247.92,
+            "text": " I will write os.makedir."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 247.92,
+            "end": 249.92,
+            "text": " So I wrote os.ma."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 249.92,
+            "end": 251.92,
+            "text": " So I don't need to remember this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 251.92,
+            "end": 253.92,
+            "text": " I don't need to remember this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 253.92,
+            "end": 255.92,
+            "text": " Makedir function should be remembered."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 255.92,
+            "end": 257.91999999999996,
+            "text": " Nothing like that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 257.91999999999996,
+            "end": 259.91999999999996,
+            "text": " So I will write here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 259.91999999999996,
+            "end": 261.91999999999996,
+            "text": " Suppose images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 261.91999999999996,
+            "end": 263.91999999999996,
+            "text": " os.makedir images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 263.91999999999996,
+            "end": 265.91999999999996,
+            "text": " So it will list these files and make an image folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 265.91999999999996,
+            "end": 267.91999999999996,
+            "text": " But look, an image folder is here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 267.91999999999996,
+            "end": 269.91999999999996,
+            "text": " So what happens with makedir is that your folder becomes."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 269.91999999999996,
+            "end": 271.91999999999996,
+            "text": " So what can we do here?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 271.91999999999996,
+            "end": 273.91999999999996,
+            "text": " We can make a folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 273.91999999999996,
+            "end": 275.91999999999996,
+            "text": " So I will make images folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 275.91999999999996,
+            "end": 277.91999999999996,
+            "text": " And along with making images folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 277.91999999999996,
+            "end": 279.91999999999996,
+            "text": " Now here see."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 279.92,
+            "end": 283.92,
+            "text": " If you click on the control on your makedir."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 283.92,
+            "end": 289.92,
+            "text": " It tells you that create a leaf directory and all intermediate ones."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 289.92,
+            "end": 295.92,
+            "text": " Works like mkdir except that any intermediate path segment will be created."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 295.92,
+            "end": 297.92,
+            "text": " So here it says that it will make all your directories."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 297.92,
+            "end": 301.92,
+            "text": " So I will write only os.makedir images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 301.92,
+            "end": 303.92,
+            "text": " And after that what I will do here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 303.92,
+            "end": 307.92,
+            "text": " Along with images, I will make a dox name."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 307.92,
+            "end": 309.92,
+            "text": " And I will make a media name folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 309.92,
+            "end": 311.92,
+            "text": " So I will make these three folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 311.92,
+            "end": 313.92,
+            "text": " I will run it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 313.92,
+            "end": 315.92,
+            "text": " And here see."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 315.92,
+            "end": 317.92,
+            "text": " There is a problem."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 317.92,
+            "end": 319.92,
+            "text": " It says that your images folder is created."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 319.92,
+            "end": 321.92,
+            "text": " So my program is throwing error."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 321.92,
+            "end": 323.92,
+            "text": " So what I have to do here is I will have to write an if statement."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 323.92,
+            "end": 329.92,
+            "text": " I will have to say that if os.part.exists."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 329.92,
+            "end": 331.92,
+            "text": " If images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 331.92,
+            "end": 333.92,
+            "text": " If it does not do it then make it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 333.92,
+            "end": 335.92,
+            "text": " If not of os.part.exists."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 335.92,
+            "end": 337.92,
+            "text": " If it does not do it then make it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 337.92,
+            "end": 343.92,
+            "text": " If I wrap this thing in a function then it will be very good for me."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 343.92,
+            "end": 347.92,
+            "text": " So I will write def and after that I will write the name of the function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 347.92,
+            "end": 351.92,
+            "text": " Create if not exists."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 351.92,
+            "end": 355.92,
+            "text": " I will keep it as an existing single."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 355.92,
+            "end": 359.92,
+            "text": " And what I will do here is I will write folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 359.92,
+            "end": 363.92,
+            "text": " And what I will do here is I will say that if this folder does not exist."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 363.92,
+            "end": 365.92,
+            "text": " Then make it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 365.92,
+            "end": 367.92,
+            "text": " And this will be the folder in the place of images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 367.92,
+            "end": 369.92,
+            "text": " And I will run it by giving the argument of images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 369.92,
+            "end": 375.92,
+            "text": " So I will write it like this by doing the folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 375.92,
+            "end": 379.92,
+            "text": " Now I have done here create if not exists folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 379.92,
+            "end": 383.92,
+            "text": " I have said here that if this folder does not exist then make it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 383.92,
+            "end": 387.92,
+            "text": " After making more, do not return anything."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 387.92,
+            "end": 389.92,
+            "text": " Because I have to make it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 389.92,
+            "end": 391.92,
+            "text": " So I have made new os.micdir."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 391.92,
+            "end": 395.92,
+            "text": " The name of which I have named it create image if not exists."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 395.92,
+            "end": 399.92,
+            "text": " So any image that I want to make, if it does not exist."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 399.92,
+            "end": 403.92,
+            "text": " If I want to make any folder then create if not exists function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 403.92,
+            "end": 405.92,
+            "text": " It will make it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 405.92,
+            "end": 409.92,
+            "text": " So here you can see that I made a new function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 409.92,
+            "end": 413.92,
+            "text": " In which I used the os module's mmicdir."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 413.92,
+            "end": 415.92,
+            "text": " So here I have run it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 415.92,
+            "end": 419.92,
+            "text": " So my program was successfully without error and it was an exit."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 419.92,
+            "end": 425.92,
+            "text": " The first problem I was getting was that here you see images that I was already existing."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 425.92,
+            "end": 431.92,
+            "text": " So if any of my files are already existing then what will happen?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 431.92,
+            "end": 433.92,
+            "text": " That will throw an error."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 433.92,
+            "end": 439.92,
+            "text": " So here I have made images, docs and media here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 439.92,
+            "end": 447.92,
+            "text": " Now what I will do is what I have to put in images, docs and media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 447.92,
+            "end": 459.92,
+            "text": " So what I will do is if extension.jpg or png is there then classify it as image."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 459.92,
+            "end": 473.92,
+            "text": " So I will write images is equal to file for file in files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 473.92,
+            "end": 479.92,
+            "text": " Now I am writing in list comprehension."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 479.92,
+            "end": 481.92,
+            "text": " I am writing in list comprehension."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 481.92,
+            "end": 491.92,
+            "text": " I will say that the files in which I had files, if the file is in the files,"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 491.92,
+            "end": 501.92,
+            "text": " If it is extension then I will see how to get extension in os module."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 501.92,
+            "end": 504.92,
+            "text": " For extracting extension from file name."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 504.92,
+            "end": 516.9200000000001,
+            "text": " So here os.part.split ext is something and if you do split ext then extension comes here as its second argument."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 516.9200000000001,
+            "end": 529.9200000000001,
+            "text": " So I will say that if os.part.split ext file 0, sorry 0 not 1 equals to equals to."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 529.92,
+            "end": 531.92,
+            "text": " What should happen?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 531.92,
+            "end": 541.92,
+            "text": " Here I will say in and after that I will write imgext which is image extension."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 541.92,
+            "end": 550.92,
+            "text": " So I am writing image extension which is my .png and then my .jpg."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 550.92,
+            "end": 558.92,
+            "text": " And along with that jpeg and jpeg is joint photographic expert group if I am not wrong."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 558.92,
+            "end": 562.92,
+            "text": " And you can add more extension from these three."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 562.92,
+            "end": 564.92,
+            "text": " I am considering these three for images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 564.92,
+            "end": 566.92,
+            "text": " Now here comes a problem."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 566.92,
+            "end": 572.92,
+            "text": " Look at the image extension in capital PNG and here look at this small PNG."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 572.92,
+            "end": 575.92,
+            "text": " So how to solve this problem here?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 575.92,
+            "end": 580.92,
+            "text": " We will solve this problem and we will say this in lower case."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 580.92,
+            "end": 583.92,
+            "text": " So how do we convert this in lower case in Python?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 584.92,
+            "end": 591.92,
+            "text": " So I will lower this and if I lower this then it will come in lower case."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 591.92,
+            "end": 597.92,
+            "text": " So I am saying that if its extension is converted to lower case then this is an image."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 597.92,
+            "end": 600.92,
+            "text": " So I will get all the files in images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 600.92,
+            "end": 609.92,
+            "text": " So I will print and see the images and I will run it here and look at this PNG and jpeg and jpeg and jpeg."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 610.92,
+            "end": 618.92,
+            "text": " Then I will say that my docs, I will classify them."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 618.92,
+            "end": 620.92,
+            "text": " I will say that I have to classify docs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 620.92,
+            "end": 638.92,
+            "text": " So I will write doc extensions is equal to .dxt and along with that .docx and along with that .doc and what documents we have here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 638.92,
+            "end": 641.92,
+            "text": " We have extensions, PDF is there."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 641.92,
+            "end": 654.92,
+            "text": " So I will save this and I will write docs is equal to .file for file in files if os.par.split.ext"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 654.92,
+            "end": 663.92,
+            "text": " The first file of split.ext is also lower in .doc.ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 663.92,
+            "end": 669.92,
+            "text": " And if I print docs here then all docs will be available."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 669.92,
+            "end": 671.92,
+            "text": " See this is .dxt here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 671.92,
+            "end": 673.92,
+            "text": " So here I will get this .dxt."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 673.92,
+            "end": 677.92,
+            "text": " So I have collected all docs here and after that I will collect media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 677.92,
+            "end": 684.92,
+            "text": " I will write that the extensions of media will be my extension."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 684.92,
+            "end": 688.92,
+            "text": " One will be mp4 and the media will be extension."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 688.92,
+            "end": 694.92,
+            "text": " If mp3 is done then you can see that the files are in your folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 694.92,
+            "end": 696.92,
+            "text": " You can include them here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 696.92,
+            "end": 704.92,
+            "text": " mp4, mp3 and along with that .flv are also there."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 704.92,
+            "end": 706.92,
+            "text": " There are many extensions."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 706.92,
+            "end": 711.92,
+            "text": " You can write that here and the commonly used ones that you can get in your computer."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 711.92,
+            "end": 714.92,
+            "text": " If you write them then maybe it will be better."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 714.92,
+            "end": 719.92,
+            "text": " So here I will write media is equal to media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 719.92,
+            "end": 721.92,
+            "text": " And I will copy it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 721.92,
+            "end": 723.92,
+            "text": " There are many typing here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 723.92,
+            "end": 725.92,
+            "text": " We should not need this much typing practice."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 725.92,
+            "end": 732.92,
+            "text": " And I will write in media.ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 732.92,
+            "end": 735.92,
+            "text": " So I have done media.ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 735.92,
+            "end": 738.92,
+            "text": " Image extensions, doc extensions, media extensions."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 738.92,
+            "end": 740.92,
+            "text": " So I have made three things here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 740.92,
+            "end": 744.92,
+            "text": " One is my image, one is my media and one is my doc."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 744.92,
+            "end": 747.92,
+            "text": " You can make more in all the categories you want to break."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 747.92,
+            "end": 749.92,
+            "text": " You can break others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 749.92,
+            "end": 751.92,
+            "text": " You can make others folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 751.92,
+            "end": 756.92,
+            "text": " The rest of your extensions can be in others folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 756.92,
+            "end": 759.92,
+            "text": " So I will make others folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 759.92,
+            "end": 761.92,
+            "text": " I will make others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 761.92,
+            "end": 763.92,
+            "text": " And I will do one thing here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 763.92,
+            "end": 766.92,
+            "text": " I will remove my files from that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 766.92,
+            "end": 768.92,
+            "text": " I will do one thing here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 768.92,
+            "end": 771.92,
+            "text": " I will write files is equal to os.list here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 771.92,
+            "end": 774.92,
+            "text": " .remove and main.py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 774.92,
+            "end": 777.92,
+            "text": " I do not want to play with this file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 777.92,
+            "end": 779.92,
+            "text": " This is the file that is doing all this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 779.92,
+            "end": 782.92,
+            "text": " So here it says none type object is not retrieable."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 782.92,
+            "end": 785.92,
+            "text": " I have done some mistakes here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 785.92,
+            "end": 788.92,
+            "text": " I am trying to see where I have made mistakes."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 788.92,
+            "end": 793.92,
+            "text": " So it says none type object is not retrieable."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 793.92,
+            "end": 795.92,
+            "text": " So what is none?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 795.92,
+            "end": 797.92,
+            "text": " So files are also none."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 797.92,
+            "end": 799.92,
+            "text": " So it does not return anything."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 799.92,
+            "end": 801.92,
+            "text": " So I will have to do one thing here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 801.92,
+            "end": 803.92,
+            "text": " I will have to write files.remove."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 803.92,
+            "end": 805.92,
+            "text": " And now I will run it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 805.92,
+            "end": 808.92,
+            "text": " So here in this, what is it?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 808.92,
+            "end": 810.92,
+            "text": " Main.py is not there."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 810.92,
+            "end": 812.92,
+            "text": " There is one thing here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 812.92,
+            "end": 814.92,
+            "text": " This is my .vs code."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 814.92,
+            "end": 816.92,
+            "text": " So you have to keep that in mind."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 816.92,
+            "end": 818.92,
+            "text": " What do you want to move?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 818.92,
+            "end": 820.92,
+            "text": " What do you want to not move?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 820.92,
+            "end": 822.92,
+            "text": " I have removed the files.remove."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 822.92,
+            "end": 824.92,
+            "text": " Main.py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 824.92,
+            "end": 826.92,
+            "text": " Please do not do anything with this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 826.92,
+            "end": 828.92,
+            "text": " I have told this to my Python interpreter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 828.92,
+            "end": 830.92,
+            "text": " Through script."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 830.92,
+            "end": 836.92,
+            "text": " Now I will tell you that the other files will come in other files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 836.92,
+            "end": 840.92,
+            "text": " So I will tell you that if"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 840.92,
+            "end": 846.92,
+            "text": " If our files do not exist in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 846.92,
+            "end": 848.92,
+            "text": " In this media ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 848.92,
+            "end": 850.92,
+            "text": " So which one will come in this?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 850.92,
+            "end": 852.92,
+            "text": " So it will come in my other files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 852.92,
+            "end": 854.92,
+            "text": " So I will do one thing here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 854.92,
+            "end": 856.92,
+            "text": " I will do all the files in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 856.92,
+            "end": 860.92,
+            "text": " And I will tell you that if that file is not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 860.92,
+            "end": 862.92,
+            "text": " In this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 862.92,
+            "end": 864.92,
+            "text": " In this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 864.92,
+            "end": 866.92,
+            "text": " In this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 866.92,
+            "end": 870.92,
+            "text": " So I will tell you that if file is not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 870.92,
+            "end": 872.92,
+            "text": " Sorry."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 872.92,
+            "end": 874.92,
+            "text": " I want the extension of this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 874.92,
+            "end": 876.92,
+            "text": " So I will tell you that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 876.92,
+            "end": 878.92,
+            "text": " This file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 878.92,
+            "end": 884.92,
+            "text": " Its extension is not in this media ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 884.92,
+            "end": 886.92,
+            "text": " And I will do one thing."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 886.92,
+            "end": 888.92,
+            "text": " I will make a variable named ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 888.92,
+            "end": 890.92,
+            "text": " The typing will be longer."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 890.92,
+            "end": 892.92,
+            "text": " So I am telling you that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 892.92,
+            "end": 896.92,
+            "text": " If ext is not in media ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 896.92,
+            "end": 898.92,
+            "text": " Not in media ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 898.92,
+            "end": 900.92,
+            "text": " And"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 900.92,
+            "end": 902.92,
+            "text": " Not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 902.92,
+            "end": 904.92,
+            "text": " Write more or write more."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 904.92,
+            "end": 906.92,
+            "text": " Write more or write more."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 906.92,
+            "end": 908.92,
+            "text": " Not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 908.92,
+            "end": 910.92,
+            "text": " Or ext not in."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 910.92,
+            "end": 912.92,
+            "text": " If any of these things are true."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 912.92,
+            "end": 914.92,
+            "text": " Then what will happen?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 914.92,
+            "end": 916.92,
+            "text": " Then this will be my executable."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 916.92,
+            "end": 918.92,
+            "text": " If it is in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 918.92,
+            "end": 920.92,
+            "text": " It is not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 920.92,
+            "end": 922.92,
+            "text": " It is not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 922.92,
+            "end": 924.92,
+            "text": " I will add it in other."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 924.92,
+            "end": 926.92,
+            "text": " So I will write it in the end."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 926.92,
+            "end": 928.92,
+            "text": " So I will tell you that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 928.92,
+            "end": 930.92,
+            "text": " It is not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 930.92,
+            "end": 932.92,
+            "text": " It is not in this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 932.92,
+            "end": 934.92,
+            "text": " For example,"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 934.92,
+            "end": 936.92,
+            "text": " We have created .mp8 file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 936.92,
+            "end": 938.92,
+            "text": " We have made it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 938.92,
+            "end": 940.92,
+            "text": " Then .mp5 is the file of Matlab."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 940.92,
+            "end": 942.92,
+            "text": " What will you do?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 942.92,
+            "end": 944.92,
+            "text": " You have to come to the code."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 944.92,
+            "end": 946.92,
+            "text": " You cannot put the document."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 946.92,
+            "end": 948.92,
+            "text": " Or .js file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 948.92,
+            "end": 950.92,
+            "text": " So what will happen?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 950.92,
+            "end": 952.92,
+            "text": " It will not be in media ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 952.92,
+            "end": 954.92,
+            "text": " Not in media ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 954.92,
+            "end": 956.92,
+            "text": " Not in dog ext."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 956.92,
+            "end": 958.92,
+            "text": " And"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 958.92,
+            "end": 960.92,
+            "text": " Along with that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 960.92,
+            "end": 962.92,
+            "text": " I will write it in"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 962.92,
+            "end": 964.92,
+            "text": " imgxt."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 964.92,
+            "end": 966.92,
+            "text": " Then what will we do?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 966.92,
+            "end": 968.92,
+            "text": " Then we will say"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 968.92,
+            "end": 970.92,
+            "text": " Put it in others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 970.92,
+            "end": 972.92,
+            "text": " So we will say"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 972.92,
+            "end": 974.92,
+            "text": " append that file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 974.92,
+            "end": 976.92,
+            "text": " And before that we will make a folder with others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 976.92,
+            "end": 978.92,
+            "text": " Others is equal to"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 978.92,
+            "end": 980.92,
+            "text": " A blank list."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 980.92,
+            "end": 982.92,
+            "text": " So we will say"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 982.92,
+            "end": 984.92,
+            "text": " Others is equal to blank."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 984.92,
+            "end": 986.92,
+            "text": " So now if at this point"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 986.92,
+            "end": 988.92,
+            "text": " I print others here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 988.92,
+            "end": 990.92,
+            "text": " So you see"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 990.92,
+            "end": 992.92,
+            "text": " Three of my different"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 992.92,
+            "end": 994.92,
+            "text": " Others are here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 994.92,
+            "end": 996.92,
+            "text": " Codotrar,"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 996.92,
+            "end": 998.92,
+            "text": " JS"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 998.92,
+            "end": 1000.92,
+            "text": " Now a problem is that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1000.92,
+            "end": 1002.92,
+            "text": " Dogs, images, media and others"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1002.92,
+            "end": 1004.92,
+            "text": " This is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1004.92,
+            "end": 1006.92,
+            "text": " I have come."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1006.92,
+            "end": 1008.92,
+            "text": " This is also here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1008.92,
+            "end": 1010.92,
+            "text": " I do not want this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1010.92,
+            "end": 1012.92,
+            "text": " I do not want to move folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1012.92,
+            "end": 1014.92,
+            "text": " I just want to move files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1014.92,
+            "end": 1016.92,
+            "text": " So a file is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1016.92,
+            "end": 1018.92,
+            "text": " How to check the folder in os."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1018.92,
+            "end": 1020.92,
+            "text": " Let's look up this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1020.92,
+            "end": 1022.92,
+            "text": " How to check"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1022.92,
+            "end": 1024.92,
+            "text": " for file and folder in"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1024.92,
+            "end": 1026.92,
+            "text": " os module in python."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1026.92,
+            "end": 1028.92,
+            "text": " So we will write this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1028.92,
+            "end": 1030.92,
+            "text": " So"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1030.92,
+            "end": 1032.92,
+            "text": " Here see"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1032.92,
+            "end": 1034.92,
+            "text": " The first link is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1034.92,
+            "end": 1036.92,
+            "text": " os.part.is file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1036.92,
+            "end": 1038.92,
+            "text": " So it is enough for me."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1038.92,
+            "end": 1040.92,
+            "text": " So os.part.is file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1040.92,
+            "end": 1042.92,
+            "text": " So here I will do that."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1042.92,
+            "end": 1044.92,
+            "text": " This is in others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1044.92,
+            "end": 1046.92,
+            "text": " So here is os.part.is file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1046.92,
+            "end": 1048.92,
+            "text": " file"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1048.92,
+            "end": 1050.92,
+            "text": " file is also necessary."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1050.92,
+            "end": 1052.92,
+            "text": " Then it will be added."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1052.92,
+            "end": 1054.92,
+            "text": " So codotrar"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1054.92,
+            "end": 1056.92,
+            "text": " and delete.js is here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1056.92,
+            "end": 1058.92,
+            "text": " First I got my vscode."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1058.92,
+            "end": 1060.92,
+            "text": " And many things were here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1060.92,
+            "end": 1062.92,
+            "text": " So I show you vscode."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1062.92,
+            "end": 1064.92,
+            "text": " And folders are also here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1064.92,
+            "end": 1066.92,
+            "text": " So now I am ready"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1066.92,
+            "end": 1068.92,
+            "text": " To move my files"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1068.92,
+            "end": 1070.92,
+            "text": " in corresponding folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1070.92,
+            "end": 1072.92,
+            "text": " So what will I do?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1072.92,
+            "end": 1074.92,
+            "text": " I will write on my internet."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1074.92,
+            "end": 1076.92,
+            "text": " How to move files"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1076.92,
+            "end": 1078.92,
+            "text": " and folders using os module"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1078.92,
+            "end": 1080.92,
+            "text": " in python."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1080.92,
+            "end": 1082.92,
+            "text": " And here"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1082.92,
+            "end": 1084.92,
+            "text": " I will write in os module"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1084.92,
+            "end": 1086.92,
+            "text": " in os module"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1090.92,
+            "end": 1092.92,
+            "text": " python."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1092.92,
+            "end": 1094.92,
+            "text": " So here it says more copy directories."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1094.92,
+            "end": 1096.92,
+            "text": " Now"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1096.92,
+            "end": 1098.92,
+            "text": " Here see moving files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1098.92,
+            "end": 1100.92,
+            "text": " See here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1100.92,
+            "end": 1102.92,
+            "text": " Here is os.replacing function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1102.92,
+            "end": 1104.92,
+            "text": " We will use os.replace"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1104.92,
+            "end": 1106.92,
+            "text": " and will replace"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1106.92,
+            "end": 1108.92,
+            "text": " and move this file."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1108.92,
+            "end": 1110.92,
+            "text": " Here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1110.92,
+            "end": 1112.92,
+            "text": " So what I will do here is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1112.92,
+            "end": 1114.92,
+            "text": " I will write that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1114.92,
+            "end": 1116.92,
+            "text": " replace os.replace in corresponding folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1116.92,
+            "end": 1118.92,
+            "text": " So if"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1118.92,
+            "end": 1120.92,
+            "text": " I will put this media folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1120.92,
+            "end": 1122.92,
+            "text": " So"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1122.92,
+            "end": 1124.92,
+            "text": " what I will do here is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1124.92,
+            "end": 1126.92,
+            "text": " I will write"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1126.92,
+            "end": 1128.92,
+            "text": " for media in"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1128.92,
+            "end": 1130.92,
+            "text": " media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1130.92,
+            "end": 1132.92,
+            "text": " And I will say that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1132.92,
+            "end": 1134.92,
+            "text": " what I will do with the files"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1134.92,
+            "end": 1136.92,
+            "text": " with those files"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1136.92,
+            "end": 1138.92,
+            "text": " I will move them."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1138.92,
+            "end": 1140.92,
+            "text": " So I will replace os.replace"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1140.92,
+            "end": 1142.92,
+            "text": " and I will say that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1142.92,
+            "end": 1144.92,
+            "text": " what I will do with the media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1144.92,
+            "end": 1146.92,
+            "text": " I will make an app string."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1146.92,
+            "end": 1148.92,
+            "text": " I will say that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1148.92,
+            "end": 1150.92,
+            "text": " in media folder"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1150.92,
+            "end": 1152.92,
+            "text": " move it there."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1152.92,
+            "end": 1154.92,
+            "text": " So there it will move."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1154.92,
+            "end": 1156.92,
+            "text": " So if I"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1156.92,
+            "end": 1158.92,
+            "text": " run it"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1158.92,
+            "end": 1160.92,
+            "text": " run it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1160.92,
+            "end": 1162.92,
+            "text": " So here see"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1162.92,
+            "end": 1164.92,
+            "text": " my video.mp4 is in media folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1164.92,
+            "end": 1166.92,
+            "text": " So the files of media"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1166.92,
+            "end": 1168.92,
+            "text": " are in media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1168.92,
+            "end": 1170.92,
+            "text": " And what I will do here is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1170.92,
+            "end": 1172.92,
+            "text": " I will do with the other folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1172.92,
+            "end": 1174.92,
+            "text": " So as I have done with the media"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1174.92,
+            "end": 1176.92,
+            "text": " I will do with others"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1176.92,
+            "end": 1178.92,
+            "text": " and with"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1178.92,
+            "end": 1180.92,
+            "text": " others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1180.92,
+            "end": 1182.92,
+            "text": " So this is the principle"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1182.92,
+            "end": 1184.92,
+            "text": " in programming."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1184.92,
+            "end": 1186.92,
+            "text": " So here we say"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1186.92,
+            "end": 1188.92,
+            "text": " do not repeat os.replace."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1188.92,
+            "end": 1190.92,
+            "text": " I will make a function"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1190.92,
+            "end": 1192.92,
+            "text": " by using dry."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1192.92,
+            "end": 1194.92,
+            "text": " And I will write"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1194.92,
+            "end": 1196.92,
+            "text": " move function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1196.92,
+            "end": 1198.92,
+            "text": " And I will put"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1198.92,
+            "end": 1200.92,
+            "text": " these things in the move function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1200.92,
+            "end": 1202.92,
+            "text": " I will put it in the move."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1202.92,
+            "end": 1204.92,
+            "text": " And"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1204.92,
+            "end": 1206.92,
+            "text": " I"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1206.92,
+            "end": 1208.92,
+            "text": " will give it"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1208.92,
+            "end": 1210.92,
+            "text": " two things."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1210.92,
+            "end": 1212.92,
+            "text": " Folder name and files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1212.92,
+            "end": 1214.92,
+            "text": " So the media"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1214.92,
+            "end": 1216.92,
+            "text": " will be files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1216.92,
+            "end": 1218.92,
+            "text": " And here I will"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1218.92,
+            "end": 1220.92,
+            "text": " file it just to"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1220.92,
+            "end": 1222.92,
+            "text": " know"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1222.92,
+            "end": 1224.92,
+            "text": " what is our name."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1224.92,
+            "end": 1226.92,
+            "text": " It should be good."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1226.92,
+            "end": 1228.92,
+            "text": " So here I have made an app string."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1228.92,
+            "end": 1230.92,
+            "text": " Folder name."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1230.92,
+            "end": 1232.92,
+            "text": " And here I have moved it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1232.92,
+            "end": 1234.92,
+            "text": " First I will do the files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1234.92,
+            "end": 1236.92,
+            "text": " So I will write the move function."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1236.92,
+            "end": 1238.92,
+            "text": " And I will say that the name of the folder is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1238.92,
+            "end": 1240.92,
+            "text": " media"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1240.92,
+            "end": 1242.92,
+            "text": " and the file is media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1242.92,
+            "end": 1244.92,
+            "text": " Similarly"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1244.92,
+            "end": 1246.92,
+            "text": " I have made the media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1246.92,
+            "end": 1248.92,
+            "text": " So I will write images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1248.92,
+            "end": 1250.92,
+            "text": " So I will say"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1250.92,
+            "end": 1252.92,
+            "text": " here"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1252.92,
+            "end": 1254.92,
+            "text": " images"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1256.92,
+            "end": 1258.92,
+            "text": " images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1258.92,
+            "end": 1260.92,
+            "text": " And after that"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1260.92,
+            "end": 1262.92,
+            "text": " here I will write"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1262.92,
+            "end": 1264.92,
+            "text": " docs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1264.92,
+            "end": 1266.92,
+            "text": " And after that I will write"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1266.92,
+            "end": 1268.92,
+            "text": " docs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1268.92,
+            "end": 1270.92,
+            "text": " After docs"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1270.92,
+            "end": 1272.92,
+            "text": " there was media and then there was"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1272.92,
+            "end": 1274.92,
+            "text": " ads."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1274.92,
+            "end": 1276.92,
+            "text": " I should have made it as ad."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1276.92,
+            "end": 1278.92,
+            "text": " I don't know why I made it as ad."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1278.92,
+            "end": 1280.92,
+            "text": " It would have been better if I had made it as ad."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1280.92,
+            "end": 1282.92,
+            "text": " So I will do one thing. I will rename it as ad."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1282.92,
+            "end": 1284.92,
+            "text": " And here I will do ad."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1284.92,
+            "end": 1286.92,
+            "text": " Ok."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1286.92,
+            "end": 1288.92,
+            "text": " Everything is in s."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1288.92,
+            "end": 1290.92,
+            "text": " Let's put it in s."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1290.92,
+            "end": 1292.92,
+            "text": " And what I will do here"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1292.92,
+            "end": 1294.92,
+            "text": " I will do ad."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1294.92,
+            "end": 1296.92,
+            "text": " So here I will do s."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1296.92,
+            "end": 1298.92,
+            "text": " Now I will run it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1298.92,
+            "end": 1300.92,
+            "text": " See all the clutters are clear."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1300.92,
+            "end": 1302.92,
+            "text": " Corresponding folders are in s."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1302.92,
+            "end": 1304.92,
+            "text": " PNG"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1304.92,
+            "end": 1306.92,
+            "text": " Docs are in my doc."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1306.92,
+            "end": 1308.92,
+            "text": " So all these clutters are clear."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1308.92,
+            "end": 1310.92,
+            "text": " So I have to clear the clutters of my files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1310.92,
+            "end": 1312.92,
+            "text": " So what I will do?"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1312.92,
+            "end": 1314.92,
+            "text": " This is the main dot py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1314.92,
+            "end": 1316.92,
+            "text": " I will copy the main dot py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1316.92,
+            "end": 1318.92,
+            "text": " I will run it in that folder."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1318.92,
+            "end": 1320.92,
+            "text": " And all the folders will reach"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1320.92,
+            "end": 1322.92,
+            "text": " their destination."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1322.92,
+            "end": 1324.92,
+            "text": " Ok."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1324.92,
+            "end": 1326.92,
+            "text": " I will remove the main dot py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1326.92,
+            "end": 1328.92,
+            "text": " You can log in here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1328.92,
+            "end": 1330.92,
+            "text": " You can log in here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1330.92,
+            "end": 1332.92,
+            "text": " But it is so fast"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1332.92,
+            "end": 1334.92,
+            "text": " that you don't need to log in."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1334.92,
+            "end": 1336.92,
+            "text": " Ok."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1336.92,
+            "end": 1338.92,
+            "text": " So if I run it again, then nothing will happen."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1338.92,
+            "end": 1340.92,
+            "text": " Now you can do this too."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1340.92,
+            "end": 1342.92,
+            "text": " To make it smart, you can add a count."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1342.92,
+            "end": 1344.92,
+            "text": " So many files and folders are in here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1344.92,
+            "end": 1346.92,
+            "text": " Your clutters are clear."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1346.92,
+            "end": 1348.92,
+            "text": " So you can show me the kind of creativity."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1348.92,
+            "end": 1350.92,
+            "text": " Show me too."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1350.92,
+            "end": 1352.92,
+            "text": " Tell me in the comments what you have done."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1352.92,
+            "end": 1354.92,
+            "text": " So I am making it a little bit"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1354.92,
+            "end": 1356.92,
+            "text": " beautiful."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1356.92,
+            "end": 1358.92,
+            "text": " To make it beautiful, I have"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1358.92,
+            "end": 1360.92,
+            "text": " put it in the main."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1362.92,
+            "end": 1364.92,
+            "text": " And I am"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1364.92,
+            "end": 1366.92,
+            "text": " fixing it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1366.92,
+            "end": 1368.92,
+            "text": " Now you can write here"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1368.92,
+            "end": 1370.92,
+            "text": " what you have done."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1370.92,
+            "end": 1372.92,
+            "text": " I will leave all these things here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1372.92,
+            "end": 1374.92,
+            "text": " Save it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1374.92,
+            "end": 1376.92,
+            "text": " After saving it,"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1376.92,
+            "end": 1378.92,
+            "text": " you can take it anywhere and clear the clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1378.92,
+            "end": 1380.92,
+            "text": " So I will do one thing."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1380.92,
+            "end": 1382.92,
+            "text": " I will make a clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1382.92,
+            "end": 1384.92,
+            "text": " And see if it works."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1384.92,
+            "end": 1386.92,
+            "text": " So guys, as you can see, I have made a clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1386.92,
+            "end": 1388.92,
+            "text": " I have made the whole project."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1388.92,
+            "end": 1390.92,
+            "text": " I have made the whole band."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1390.92,
+            "end": 1392.92,
+            "text": " I will go to the media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1392.92,
+            "end": 1394.92,
+            "text": " I have put the video."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1394.92,
+            "end": 1396.92,
+            "text": " And I have put some images in it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1396.92,
+            "end": 1398.92,
+            "text": " But here I have put another clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1398.92,
+            "end": 1400.92,
+            "text": " I will run my main.py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1400.92,
+            "end": 1402.92,
+            "text": " And see if my main.py"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1402.92,
+            "end": 1404.92,
+            "text": " does the main work."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1404.92,
+            "end": 1406.92,
+            "text": " Or not."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1406.92,
+            "end": 1408.92,
+            "text": " So I will do it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1408.92,
+            "end": 1410.92,
+            "text": " If I don't want to open the vscode,"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1410.92,
+            "end": 1412.92,
+            "text": " I will click shift and right click."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1412.92,
+            "end": 1414.92,
+            "text": " Open the PowerShell window here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1414.92,
+            "end": 1416.92,
+            "text": " And I will do python main.py."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1416.92,
+            "end": 1418.92,
+            "text": " I will enter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1418.92,
+            "end": 1420.92,
+            "text": " And see this whole clutter is clear."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1420.92,
+            "end": 1422.92,
+            "text": " I have gone to my corresponding folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1422.92,
+            "end": 1424.92,
+            "text": " So now I will open the docs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1424.92,
+            "end": 1426.92,
+            "text": " See all the documents have come to me."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1426.92,
+            "end": 1428.92,
+            "text": " Open the images."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1428.92,
+            "end": 1430.92,
+            "text": " See all the images have come here."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1430.92,
+            "end": 1432.92,
+            "text": " And after that I will open the media."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1432.92,
+            "end": 1434.92,
+            "text": " So the media has come. And something else has come in the address."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1434.92,
+            "end": 1436.92,
+            "text": " Maybe you will feel some folders of others."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1436.92,
+            "end": 1438.92,
+            "text": " Dot lock is a document."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1438.92,
+            "end": 1440.92,
+            "text": " It is not a document."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1440.92,
+            "end": 1442.92,
+            "text": " But if you feel it is, you can put it in your documents."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1442.92,
+            "end": 1444.92,
+            "text": " If you want to make a folder of zips"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1444.92,
+            "end": 1446.92,
+            "text": " with a lot of zip files."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1446.92,
+            "end": 1448.92,
+            "text": " You can do that too."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1448.92,
+            "end": 1450.92,
+            "text": " So what you have to do is"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1450.92,
+            "end": 1452.92,
+            "text": " follow the same method."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1452.92,
+            "end": 1454.92,
+            "text": " Follow the same method."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1454.92,
+            "end": 1456.92,
+            "text": " Follow the same method."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1456.92,
+            "end": 1458.92,
+            "text": " And you will be able to"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1458.92,
+            "end": 1460.92,
+            "text": " easily copy your files"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1460.92,
+            "end": 1462.92,
+            "text": " in the corresponding folders."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1462.92,
+            "end": 1464.92,
+            "text": " And you will be able to clear your clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1464.92,
+            "end": 1466.92,
+            "text": " So quickly we have cleared our clutter."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1466.92,
+            "end": 1468.92,
+            "text": " Clutter never feels good in the computer."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1468.92,
+            "end": 1470.92,
+            "text": " And a simple Python program."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1470.92,
+            "end": 1472.92,
+            "text": " When you use your program"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1472.92,
+            "end": 1474.92,
+            "text": " and clear your clutter"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1474.92,
+            "end": 1476.92,
+            "text": " of your computer."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1476.92,
+            "end": 1478.92,
+            "text": " Then something else comes in the fun."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1478.92,
+            "end": 1480.92,
+            "text": " Give it to your friends too."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1480.92,
+            "end": 1482.92,
+            "text": " I have made this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1482.92,
+            "end": 1484.92,
+            "text": " See Azma."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1484.92,
+            "end": 1486.92,
+            "text": " So I hope you understood this."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1486.92,
+            "end": 1488.92,
+            "text": " You must have understood it."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1488.92,
+            "end": 1490.92,
+            "text": " If you do not access this playlist."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1490.92,
+            "end": 1492.92,
+            "text": " So do access this playlist."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1492.92,
+            "end": 1494.92,
+            "text": " And do practice Python programs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1494.92,
+            "end": 1496.92,
+            "text": " We will take more programs."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1496.92,
+            "end": 1498.92,
+            "text": " And all the practices will be"
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1498.92,
+            "end": 1500.92,
+            "text": " here with us."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1500.92,
+            "end": 1502.92,
+            "text": " So that's all for now."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1502.92,
+            "end": 1504.92,
+            "text": " Do not forget to like this video."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1504.92,
+            "end": 1506.92,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1506.92,
+            "end": 1508.92,
+            "text": " And I will see you next time."
+        },
+        {
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1522.92,
+            "end": 1526.92,
+            "text": " Subscribe to our channel."
+        }
+    ],
+    "text": " Guys, I had made a playlist of a Python practice program before. And some of you liked it very much. So, in my playlist of Python practice programs, I had put some exciting Python programs. If you don't know, I will continue that series and make some of the best Python programs in this series. And today's program is very exciting. And that is a use case that you can read. And I have named it as clear the clutter. So, how can the clutter be? The clutter can be that you will have a lot of files here. Like HTML files, JPG files, PNG files. And what you have to do is that you have to arrange all the files in a folder. For example, I have a file here. I am making a new text document here. And this will be, I have this.txt. And I will have PNG file. And then I will have a lot of different types of files. And after putting all those files here, I would like them to be their own folders. And after being folders, what will happen is that I will make a folder of txt files and text files. And put all the txt files in it. And then I will make a folder of images and put all the images files in it. And you may need to do this. You can run this program in your computer. And it will be very clean. I am telling you in your computer. So I am going to start with a lot of files here. Which I will drop in this folder. And also open this folder in VS Code. So these are the files that I have copied here. And after copying, we are going to use OS module here. I want to tell you something. The Python program that I am going to make here. And also, the functions that I will tell you here, I am not getting them. So I am going to take an internet reference. So first of all, I will make a main.py here. I have made the main.py. And after making the main.py, I will arrange all the folders. The files here. I will first list them here. And after that, I will arrange them. So here, I am asking you to select Python interpreter. I have installed multiple versions of Python. So if you ever want to make a folder of Python, you can do it. So if you ever have such an error, then click below. Select Python. Everything will be fine. So first of all, let me tell you something. The OS that I am going to do here. The operating system module of Python in OS. It is so user friendly that you might need to see the documentation. But if you study it, feel free to search. You can search on the internet. How do you do this and how do you do that. And you will get everything. Here if I write files is equal to os.listdir. And after doing this, I will print the files. You can't do this and that. You can't do that. Or you can't do that. I want to tell you something. All the modules, you have to do a course of a module. So any new module, you have to see the documentation and it will start. So I did this. I ran the listdir function. And here I ran it. So all the vscode, apng file, rr file, js file, all the files are here. And here it lists all the files. And it also lists this script. It also lists main.py. So for now I will remove this Python file. And after removing this Python file, I will copy all the files. So I will do this. I will put my files in different folders. So first of all, if I write. I will write os.makedir. So I wrote os.ma. So I don't need to remember this. I don't need to remember this. Makedir function should be remembered. Nothing like that. So I will write here. Suppose images. os.makedir images. So it will list these files and make an image folder. But look, an image folder is here. So what happens with makedir is that your folder becomes. So what can we do here? We can make a folder. So I will make images folder. And along with making images folder. Now here see. If you click on the control on your makedir. It tells you that create a leaf directory and all intermediate ones. Works like mkdir except that any intermediate path segment will be created. So here it says that it will make all your directories. So I will write only os.makedir images. And after that what I will do here. Along with images, I will make a dox name. And I will make a media name folder. So I will make these three folders. I will run it. And here see. There is a problem. It says that your images folder is created. So my program is throwing error. So what I have to do here is I will have to write an if statement. I will have to say that if os.part.exists. If images. If it does not do it then make it. If not of os.part.exists. If it does not do it then make it. If I wrap this thing in a function then it will be very good for me. So I will write def and after that I will write the name of the function. Create if not exists. I will keep it as an existing single. And what I will do here is I will write folder. And what I will do here is I will say that if this folder does not exist. Then make it. And this will be the folder in the place of images. And I will run it by giving the argument of images. So I will write it like this by doing the folder. Now I have done here create if not exists folder. I have said here that if this folder does not exist then make it. After making more, do not return anything. Because I have to make it. So I have made new os.micdir. The name of which I have named it create image if not exists. So any image that I want to make, if it does not exist. If I want to make any folder then create if not exists function. It will make it. So here you can see that I made a new function. In which I used the os module's mmicdir. So here I have run it. So my program was successfully without error and it was an exit. The first problem I was getting was that here you see images that I was already existing. So if any of my files are already existing then what will happen? That will throw an error. So here I have made images, docs and media here. Now what I will do is what I have to put in images, docs and media. So what I will do is if extension.jpg or png is there then classify it as image. So I will write images is equal to file for file in files. Now I am writing in list comprehension. I am writing in list comprehension. I will say that the files in which I had files, if the file is in the files, If it is extension then I will see how to get extension in os module. For extracting extension from file name. So here os.part.split ext is something and if you do split ext then extension comes here as its second argument. So I will say that if os.part.split ext file 0, sorry 0 not 1 equals to equals to. What should happen? Here I will say in and after that I will write imgext which is image extension. So I am writing image extension which is my .png and then my .jpg. And along with that jpeg and jpeg is joint photographic expert group if I am not wrong. And you can add more extension from these three. I am considering these three for images. Now here comes a problem. Look at the image extension in capital PNG and here look at this small PNG. So how to solve this problem here? We will solve this problem and we will say this in lower case. So how do we convert this in lower case in Python? So I will lower this and if I lower this then it will come in lower case. So I am saying that if its extension is converted to lower case then this is an image. So I will get all the files in images. So I will print and see the images and I will run it here and look at this PNG and jpeg and jpeg and jpeg. Then I will say that my docs, I will classify them. I will say that I have to classify docs. So I will write doc extensions is equal to .dxt and along with that .docx and along with that .doc and what documents we have here. We have extensions, PDF is there. So I will save this and I will write docs is equal to .file for file in files if os.par.split.ext The first file of split.ext is also lower in .doc.ext. And if I print docs here then all docs will be available. See this is .dxt here. So here I will get this .dxt. So I have collected all docs here and after that I will collect media. I will write that the extensions of media will be my extension. One will be mp4 and the media will be extension. If mp3 is done then you can see that the files are in your folder. You can include them here. mp4, mp3 and along with that .flv are also there. There are many extensions. You can write that here and the commonly used ones that you can get in your computer. If you write them then maybe it will be better. So here I will write media is equal to media. And I will copy it. There are many typing here. We should not need this much typing practice. And I will write in media.ext. So I have done media.ext. Image extensions, doc extensions, media extensions. So I have made three things here. One is my image, one is my media and one is my doc. You can make more in all the categories you want to break. You can break others. You can make others folders. The rest of your extensions can be in others folder. So I will make others folders. I will make others. And I will do one thing here. I will remove my files from that. I will do one thing here. I will write files is equal to os.list here. .remove and main.py. I do not want to play with this file. This is the file that is doing all this. So here it says none type object is not retrieable. I have done some mistakes here. I am trying to see where I have made mistakes. So it says none type object is not retrieable. So what is none? So files are also none. So it does not return anything. So I will have to do one thing here. I will have to write files.remove. And now I will run it. So here in this, what is it? Main.py is not there. There is one thing here. This is my .vs code. So you have to keep that in mind. What do you want to move? What do you want to not move? I have removed the files.remove. Main.py. Please do not do anything with this. I have told this to my Python interpreter. Through script. Now I will tell you that the other files will come in other files. So I will tell you that if If our files do not exist in this. In this media ext. So which one will come in this? So it will come in my other files. So I will do one thing here. I will do all the files in this. And I will tell you that if that file is not in this. In this. In this. In this. So I will tell you that if file is not in this. Sorry. I want the extension of this. So I will tell you that This file. Its extension is not in this media ext. And I will do one thing. I will make a variable named ext. The typing will be longer. So I am telling you that If ext is not in media ext. Not in media ext. And Not in this. Write more or write more. Write more or write more. Not in this. Or ext not in. If any of these things are true. Then what will happen? Then this will be my executable. If it is in this. It is not in this. It is not in this. I will add it in other. So I will write it in the end. So I will tell you that It is not in this. It is not in this. For example, We have created .mp8 file. We have made it. Then .mp5 is the file of Matlab. What will you do? You have to come to the code. You cannot put the document. Or .js file. So what will happen? It will not be in media ext. Not in media ext. Not in dog ext. And Along with that I will write it in imgxt. Then what will we do? Then we will say Put it in others. So we will say append that file. And before that we will make a folder with others. Others is equal to A blank list. So we will say Others is equal to blank. So now if at this point I print others here. So you see Three of my different Others are here. Codotrar, JS Now a problem is that Dogs, images, media and others This is I have come. This is also here. I do not want this. I do not want to move folders. I just want to move files. So a file is How to check the folder in os. Let's look up this. How to check for file and folder in os module in python. So we will write this. So Here see The first link is os.part.is file. So it is enough for me. So os.part.is file. So here I will do that. This is in others. So here is os.part.is file. file file is also necessary. Then it will be added. So codotrar and delete.js is here. First I got my vscode. And many things were here. So I show you vscode. And folders are also here. So now I am ready To move my files in corresponding folders. So what will I do? I will write on my internet. How to move files and folders using os module in python. And here I will write in os module in os module python. So here it says more copy directories. Now Here see moving files. See here. Here is os.replacing function. We will use os.replace and will replace and move this file. Here. So what I will do here is I will write that replace os.replace in corresponding folders. So if I will put this media folder. So what I will do here is I will write for media in media. And I will say that what I will do with the files with those files I will move them. So I will replace os.replace and I will say that what I will do with the media. I will make an app string. I will say that in media folder move it there. So there it will move. So if I run it run it. So here see my video.mp4 is in media folder. So the files of media are in media. And what I will do here is I will do with the other folders. So as I have done with the media I will do with others and with others. So this is the principle in programming. So here we say do not repeat os.replace. I will make a function by using dry. And I will write move function. And I will put these things in the move function. I will put it in the move. And I will give it two things. Folder name and files. So the media will be files. And here I will file it just to know what is our name. It should be good. So here I have made an app string. Folder name. And here I have moved it. First I will do the files. So I will write the move function. And I will say that the name of the folder is media and the file is media. Similarly I have made the media. So I will write images. So I will say here images images. And after that here I will write docs. And after that I will write docs. After docs there was media and then there was ads. I should have made it as ad. I don't know why I made it as ad. It would have been better if I had made it as ad. So I will do one thing. I will rename it as ad. And here I will do ad. Ok. Everything is in s. Let's put it in s. And what I will do here I will do ad. So here I will do s. Now I will run it. See all the clutters are clear. Corresponding folders are in s. PNG Docs are in my doc. So all these clutters are clear. So I have to clear the clutters of my files. So what I will do? This is the main dot py. I will copy the main dot py. I will run it in that folder. And all the folders will reach their destination. Ok. I will remove the main dot py. You can log in here. You can log in here. But it is so fast that you don't need to log in. Ok. So if I run it again, then nothing will happen. Now you can do this too. To make it smart, you can add a count. So many files and folders are in here. Your clutters are clear. So you can show me the kind of creativity. Show me too. Tell me in the comments what you have done. So I am making it a little bit beautiful. To make it beautiful, I have put it in the main. And I am fixing it. Now you can write here what you have done. I will leave all these things here. Save it. After saving it, you can take it anywhere and clear the clutter. So I will do one thing. I will make a clutter. And see if it works. So guys, as you can see, I have made a clutter. I have made the whole project. I have made the whole band. I will go to the media. I have put the video. And I have put some images in it. But here I have put another clutter. I will run my main.py. And see if my main.py does the main work. Or not. So I will do it. If I don't want to open the vscode, I will click shift and right click. Open the PowerShell window here. And I will do python main.py. I will enter. And see this whole clutter is clear. I have gone to my corresponding folders. So now I will open the docs. See all the documents have come to me. Open the images. See all the images have come here. And after that I will open the media. So the media has come. And something else has come in the address. Maybe you will feel some folders of others. Dot lock is a document. It is not a document. But if you feel it is, you can put it in your documents. If you want to make a folder of zips with a lot of zip files. You can do that too. So what you have to do is follow the same method. Follow the same method. Follow the same method. And you will be able to easily copy your files in the corresponding folders. And you will be able to clear your clutter. So quickly we have cleared our clutter. Clutter never feels good in the computer. And a simple Python program. When you use your program and clear your clutter of your computer. Then something else comes in the fun. Give it to your friends too. I have made this. See Azma. So I hope you understood this. You must have understood it. If you do not access this playlist. So do access this playlist. And do practice Python programs. We will take more programs. And all the practices will be here with us. So that's all for now. Do not forget to like this video. Thank you so much guys for watching this video. And I will see you next time. Subscribe to our channel."
+}

@@ -1,0 +1,551 @@
+{
+    "chunks": [
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 0.0,
+            "end": 16.4,
+            "text": " Alright guys, I got a lot of requests for this video  I made a video where we can practice  So I have already made 103 videos in my Python basic course  And I have made a lot of videos where you can practice and learn  If you see the playlist there"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 16.4,
+            "end": 27.2,
+            "text": " I have put the whole course in free  And I have given all the exercises there  I have given the solution of the exercise  I have given shout out to you  I have done everything and I have been seeing it with a lot of pressure"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 27.2,
+            "end": 42.96,
+            "text": " But even then some people wanted me to make some exercises separately  Where we can talk about Python  Some people like to talk and I appreciate it a lot  I mean I go somewhere and catch someone  And that program is there but there is no interest in programming"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 42.96,
+            "end": 54.72,
+            "text": " So I talk to them  I have done this, I have done that, I am doing this, I am doing that  How many users can come if you use SQLite database  If there are no things in Python  They get bored"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 54.8,
+            "end": 64.64,
+            "text": " Now what is there, if people want to talk like this  I feel very good, I am just telling you  What will I do here?  I will go to my PyCharm and make a new project  And I will keep the name Practice Python"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 64.64,
+            "end": 76.4,
+            "text": " And this Practice Python will remain a new series here  And it will continue to run  And I will continue to give the Python programs to everyone  So I will make a simple program here  I will gradually increase the difficulty level"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 76.4,
+            "end": 87.44,
+            "text": " There are a lot of people  They say, bring something like this in practice  And in a slow pace, read it slowly  So okay, I have my coffee in front of me  So I drink coffee"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 87.44,
+            "end": 98.64,
+            "text": " I will practice Python very easily  And what do I use in my workflow  What do I recommend  I will try to cover all those things here  So this tea is kept down here"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 98.64,
+            "end": 110.32000000000001,
+            "text": " Coffee  And I don't know why I don't even say coffee  Anyways, I will write here Practice Python  Practice Python  Start from number 1, start from 0"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 110.32000000000001,
+            "end": 122.64,
+            "text": " Okay  Now here I want to give you this problem in practice Python 1  And I want you to post the problem there  In the comment section below  Write the first comment, accept it and then solve it"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 122.64,
+            "end": 133.04,
+            "text": " Okay  And then see what is the solution  Now listen to the problem here  The problem is that you are a shopkeeper  Look, I will try to make things practical"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 133.04,
+            "end": 141.67999999999998,
+            "text": " Because if I make things practical, then you will understand  This is a good problem  So how to solve it  If I say, take it out  Take out the derivative"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 141.67999999999998,
+            "end": 153.6,
+            "text": " Integration  What is the use of it  If you understand the use, you will be able to do it very well  So let me keep the coffee here and give you the problem  You are a shopkeeper"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 153.6,
+            "end": 165.12,
+            "text": " What you have to do is make a program  That you write the price of items  Price price price price price price  It is a calculator, basically simple  And then finally, as soon as you press enter"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 165.12,
+            "end": 173.44,
+            "text": " What will happen  Your display will be total  Or something like this  You have to make it a utility  Basically, to sum up the numbers in Python"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 173.44,
+            "end": 182.48,
+            "text": " Till when to sum up  Until the press of enter is not done  Okay  So how will we make it  Post it, comment below, like the video"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 182.48,
+            "end": 192.07999999999998,
+            "text": " You will see a little  You are a person who is watching the video  Give me a little response  If you have a response, I will feel very good  I will also see that there is someone who is appreciating all these things"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 192.07999999999998,
+            "end": 204.32,
+            "text": " Which I am bringing with me from the initiatives courses  Okay, I will drink tea  You post it and comment below  So the coffee is very hot  But still it is good"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 204.32,
+            "end": 216.08,
+            "text": " What I will do is  I will write a simple problem statement  Till you write it below the challenge except here  And you solve it  So I will say that keep adding a"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 216.08,
+            "end": 225.6,
+            "text": " One minute, write up Python program  I will write the problem statement well  I will write you here  Write up Python program  Which will keep adding"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 227.51999999999998,
+            "end": 243.92,
+            "text": " A stream of numbers  Input it by the user  The adding stops as soon as  user presses quit  Or Q"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 243.92,
+            "end": 252.56,
+            "text": " Q key on the keyboard  Fair enough  Okay, now you guys start here  After that I will tell you how to solve it  It is very simple"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 252.56,
+            "end": 262.4,
+            "text": " I am starting with simple  Otherwise if I will take a big problem  Then how did you guys start  I have just started the basic Python course  And if you guys have not done this course"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 262.4,
+            "end": 268.4,
+            "text": " Then do this course  And if you want to continue this course  Then you can come here  You can come here and learn  Okay"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 269.2,
+            "end": 278.08,
+            "text": " So what is the strategy here  First of all, how to add the number  In Python, you can add two numbers  Simply  You can do it by putting plus"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 278.08,
+            "end": 288.15999999999997,
+            "text": " Now I will write the first one here  I know that my infinite while loop is going to run  Okay  I wrote the while loop here  I will write input is equal to"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 289.2,
+            "end": 298.79999999999995,
+            "text": " I will write the number is equal to  Input  Enter your  Enter the price  Because we are in a shop"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 298.79999999999995,
+            "end": 305.59999999999997,
+            "text": " Enter the price  So tell me in the comments below  How did you guys feel about the video  I want the full feedback on the series  And as I am telling you"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 305.59999999999997,
+            "end": 312.32,
+            "text": " While drinking coffee  How did you feel about me  Okay  Number is equal to  Try to solve it with ease"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 312.32,
+            "end": 318.96,
+            "text": " Try to listen to it  Try to slowly absorb the information  Which I am giving you  Absorb  Absorb"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 318.96,
+            "end": 326.32,
+            "text": " Here I have written the number is equal to  Input enter the price  Along with that, I will tell you one thing  In every video, there will be some knowledge  Okay"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 326.32,
+            "end": 333.76,
+            "text": " So here what is here  If I add this number to any number  Then I will get an error  So I will do one thing  First of all, I will make the sum equal to zero"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 333.76,
+            "end": 342.4,
+            "text": " Okay, number is equal to  I will have to cast it in the integer  Because whatever the user takes input  Input function is taken as string  I will repeat"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 342.4,
+            "end": 351.59999999999997,
+            "text": " Whatever I have selected  Will come in a string form  So I will put it in int  As soon as I put it in int  This number will be converted into integer"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 351.59999999999997,
+            "end": 359.2,
+            "text": " And after that I will do  Sum is equal to sum plus number  Okay  Now my sum has been updated  Okay"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 359.2,
+            "end": 368.4,
+            "text": " And I will do sum is equal to sum plus number  I will do this  If number  I will not do int of input  I will see that first"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 368.4,
+            "end": 376.8,
+            "text": " If someone has not quit  If I cast it in int  Then I will get an error  This is not integer  So I will have to see that too"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 376.8,
+            "end": 384.0,
+            "text": " So I will write here  And I will not write the number  I will write user input  I will write here  If user input"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 384.0,
+            "end": 392.4,
+            "text": " Not equals to  If the user has not pressed the key  Then what should I do  Then here  Sum is equal to"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 392.4,
+            "end": 400.8,
+            "text": " Else  Else what should I do  Else I will write here  Else  What should I do here"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 400.8,
+            "end": 408.8,
+            "text": " Write sum  I will wrap up here after that  If someone has pressed the key  Then I will wrap up  Then why I will add"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 408.8,
+            "end": 418.8,
+            "text": " So I will add user input  I will do int of user input  I have not cast it in integer  Okay and I will simply do it  After that I will write else"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 418.8,
+            "end": 428.8,
+            "text": " If someone has pressed the key  I will do one thing  I will give one message  Thanks for using  Our calculator"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 428.8,
+            "end": 438.8,
+            "text": " Thank you very much for using our calculator  Thank you very much for using our calculator  If you call customers like this  Then they say the same  So basically I have done the same"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 438.8,
+            "end": 448.8,
+            "text": " Now what is here  Thanks for using our calculator  I will run it like this  I will have to break it  Else this will keep on running"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 448.8,
+            "end": 458.8,
+            "text": " I will run it and see  If it is running right  I am telling you once  If you are running  Then I will run it perfectly"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 458.8,
+            "end": 468.8,
+            "text": " Else you will not be connected  With any remote database  Else all those things will remain  Exceptions but when you write a basic program  Then you can test it easily"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 468.8,
+            "end": 478.8,
+            "text": " I have written 7  Enter the price  I have written 5  Then I have written 1  Then I have done Q"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 478.8,
+            "end": 488.8,
+            "text": " I have done some trouble  I have not done any trouble  I will use your build total  I will use f string  Let's leave it for another video"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 488.8,
+            "end": 498.8,
+            "text": " Your build total  I will use it here  I have already told you that if you don't know f string  Then write f here and you can  Put variables like this"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 498.8,
+            "end": 508.8,
+            "text": " I will write sum here  And after this I will write  Thanks for using our calculator  Thanks for using our calculator  Thanks for using our calculator"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 508.8,
+            "end": 520.8,
+            "text": " Thanks for  Shopping with us  I will write like this and remove it  And along with that  What I will do here"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 520.8,
+            "end": 530.8,
+            "text": " Like this sum will come  Your order total so far  I will print it here  I will put an f string  Order total so far"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 530.8,
+            "end": 540.8,
+            "text": " And after that I will write sum here  That is it  And enter the price  Order total so far is 34  I have written 5"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 540.8,
+            "end": 550.8,
+            "text": " I have written 39  I have written 7  So I have used it on the shop  If you know someone who runs a shop  You can do this"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 550.8,
+            "end": 560.8,
+            "text": " Build total 150  Now I will do one more improvement  What will I do in the improvement  I had thought I will forget  I have written enter the price"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 560.8,
+            "end": 570.8,
+            "text": " Enter the item price  Enter the price  And press Q to quit  Ok  Here I will write like this"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 570.8,
+            "end": 580.8,
+            "text": " Item and press Q to quit  I had bought 5 rupees  I had bought 10 rupees milk packet  I had bought 5 rupees egg  And along with that"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 580.8,
+            "end": 590.8,
+            "text": " I had bought 26 rupees bread  And after that why I did it  Build total is 46  Take 46 rupees from the customer  Give it all"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 590.8,
+            "end": 600.8,
+            "text": " Ok  Now here we can do more things  By naming the item  Or we can generate bills  Sometimes you go to a local shop"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 600.8,
+            "end": 610.8,
+            "text": " So it only writes the number  It says you will get a dredel  Means they don't make bills  Take a small piece of paper  And write on it"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 610.8,
+            "end": 620.8,
+            "text": " They will hold you  See what is the price  To print a summary  You can push these items in the list  And finally you can write in a file"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 620.8,
+            "end": 630.8,
+            "text": " And in that  We can put a hook  That we can print it  From a receipt printer  You must have heard about receipt printer"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 630.8,
+            "end": 640.8,
+            "text": " If you haven't heard it, then search on Flipkart  What is receipt printer  I will write  Receipt printer  This is a very amazing thing"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 640.8,
+            "end": 650.8,
+            "text": " Receipt printer is cheap  And you can generate bills  In the coming videos  If I get time, I will tell you  How to do this in practice fight and make"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 650.8,
+            "end": 660.8,
+            "text": " But I have a quiz for you  Like this video  Write in the comments below  I should know who is with us  Who is with me in this series"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 660.8,
+            "end": 670.8,
+            "text": " And who is not  Now those who are serious  Those who want to interact  Who like to give me knowledge  And who like to take my knowledge"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 670.8,
+            "end": 680.8,
+            "text": " I also take knowledge from you  You must have thought that this is one sided  I also learn new things daily  And I feel that I am sharing  I share that with you"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 680.8,
+            "end": 690.8,
+            "text": " What you have to do is generate a bill  In this case  This series of events  We should do something like this  So something like this"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 690.8,
+            "end": 700.8,
+            "text": " Then 2  10  I don't know how many  And what I had 4  26"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 700.8,
+            "end": 712.8,
+            "text": " So 5 was 10  So 5 was 5  And you can write  Shri Ram Verma stores  And this is not a bill"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 712.8,
+            "end": 722.8,
+            "text": " Just for your customer  To see what is the cost  You can tear it apart  To see what is the cost  If you want to write an item"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 722.8,
+            "end": 732.8,
+            "text": " You will get some hectic  We will also make it  We can do it according to the code  Or we can do some look up  Shri Ram Verma stores"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 732.8,
+            "end": 742.8,
+            "text": " I have written  5, 10, 15, 26  You have to print it like this  I will give you the code  I will give you the code"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 742.8,
+            "end": 752.8,
+            "text": " There is nothing much in the code  But I will give you the link in the description  For now  That is all for this video  Do tell me how you felt"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 752.8,
+            "end": 762.8,
+            "text": " How you felt  Are you with me in this  Will we put it in front of the big ones  So that you can practice  For 100,000 videos"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 762.8,
+            "end": 772.8,
+            "text": " So that you can feel confident  If you can't practice  Then open the video  And you will get a lot of help  So that is all for this video"
+        },
+        {
+            "number": null,
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 772.8,
+            "end": 790.8,
+            "text": " Thank you so much guys for watching this video  And I will see you next time  Bye"
+        }
+    ],
+    "text": " Alright guys, I got a lot of requests for this video I made a video where we can practice So I have already made 103 videos in my Python basic course And I have made a lot of videos where you can practice and learn If you see the playlist there I have put the whole course in free And I have given all the exercises there I have given the solution of the exercise I have given shout out to you I have done everything and I have been seeing it with a lot of pressure But even then some people wanted me to make some exercises separately Where we can talk about Python Some people like to talk and I appreciate it a lot I mean I go somewhere and catch someone And that program is there but there is no interest in programming So I talk to them I have done this, I have done that, I am doing this, I am doing that How many users can come if you use SQLite database If there are no things in Python They get bored Now what is there, if people want to talk like this I feel very good, I am just telling you What will I do here? I will go to my PyCharm and make a new project And I will keep the name Practice Python And this Practice Python will remain a new series here And it will continue to run And I will continue to give the Python programs to everyone So I will make a simple program here I will gradually increase the difficulty level There are a lot of people They say, bring something like this in practice And in a slow pace, read it slowly So okay, I have my coffee in front of me So I drink coffee I will practice Python very easily And what do I use in my workflow What do I recommend I will try to cover all those things here So this tea is kept down here Coffee And I don't know why I don't even say coffee Anyways, I will write here Practice Python Practice Python Start from number 1, start from 0 Okay Now here I want to give you this problem in practice Python 1 And I want you to post the problem there In the comment section below Write the first comment, accept it and then solve it Okay And then see what is the solution Now listen to the problem here The problem is that you are a shopkeeper Look, I will try to make things practical Because if I make things practical, then you will understand This is a good problem So how to solve it If I say, take it out Take out the derivative Integration What is the use of it If you understand the use, you will be able to do it very well So let me keep the coffee here and give you the problem You are a shopkeeper What you have to do is make a program That you write the price of items Price price price price price price It is a calculator, basically simple And then finally, as soon as you press enter What will happen Your display will be total Or something like this You have to make it a utility Basically, to sum up the numbers in Python Till when to sum up Until the press of enter is not done Okay So how will we make it Post it, comment below, like the video You will see a little You are a person who is watching the video Give me a little response If you have a response, I will feel very good I will also see that there is someone who is appreciating all these things Which I am bringing with me from the initiatives courses Okay, I will drink tea You post it and comment below So the coffee is very hot But still it is good What I will do is I will write a simple problem statement Till you write it below the challenge except here And you solve it So I will say that keep adding a One minute, write up Python program I will write the problem statement well I will write you here Write up Python program Which will keep adding A stream of numbers Input it by the user The adding stops as soon as user presses quit Or Q Q key on the keyboard Fair enough Okay, now you guys start here After that I will tell you how to solve it It is very simple I am starting with simple Otherwise if I will take a big problem Then how did you guys start I have just started the basic Python course And if you guys have not done this course Then do this course And if you want to continue this course Then you can come here You can come here and learn Okay So what is the strategy here First of all, how to add the number In Python, you can add two numbers Simply You can do it by putting plus Now I will write the first one here I know that my infinite while loop is going to run Okay I wrote the while loop here I will write input is equal to I will write the number is equal to Input Enter your Enter the price Because we are in a shop Enter the price So tell me in the comments below How did you guys feel about the video I want the full feedback on the series And as I am telling you While drinking coffee How did you feel about me Okay Number is equal to Try to solve it with ease Try to listen to it Try to slowly absorb the information Which I am giving you Absorb Absorb Here I have written the number is equal to Input enter the price Along with that, I will tell you one thing In every video, there will be some knowledge Okay So here what is here If I add this number to any number Then I will get an error So I will do one thing First of all, I will make the sum equal to zero Okay, number is equal to I will have to cast it in the integer Because whatever the user takes input Input function is taken as string I will repeat Whatever I have selected Will come in a string form So I will put it in int As soon as I put it in int This number will be converted into integer And after that I will do Sum is equal to sum plus number Okay Now my sum has been updated Okay And I will do sum is equal to sum plus number I will do this If number I will not do int of input I will see that first If someone has not quit If I cast it in int Then I will get an error This is not integer So I will have to see that too So I will write here And I will not write the number I will write user input I will write here If user input Not equals to If the user has not pressed the key Then what should I do Then here Sum is equal to Else Else what should I do Else I will write here Else What should I do here Write sum I will wrap up here after that If someone has pressed the key Then I will wrap up Then why I will add So I will add user input I will do int of user input I have not cast it in integer Okay and I will simply do it After that I will write else If someone has pressed the key I will do one thing I will give one message Thanks for using Our calculator Thank you very much for using our calculator Thank you very much for using our calculator If you call customers like this Then they say the same So basically I have done the same Now what is here Thanks for using our calculator I will run it like this I will have to break it Else this will keep on running I will run it and see If it is running right I am telling you once If you are running Then I will run it perfectly Else you will not be connected With any remote database Else all those things will remain Exceptions but when you write a basic program Then you can test it easily I have written 7 Enter the price I have written 5 Then I have written 1 Then I have done Q I have done some trouble I have not done any trouble I will use your build total I will use f string Let's leave it for another video Your build total I will use it here I have already told you that if you don't know f string Then write f here and you can Put variables like this I will write sum here And after this I will write Thanks for using our calculator Thanks for using our calculator Thanks for using our calculator Thanks for Shopping with us I will write like this and remove it And along with that What I will do here Like this sum will come Your order total so far I will print it here I will put an f string Order total so far And after that I will write sum here That is it And enter the price Order total so far is 34 I have written 5 I have written 39 I have written 7 So I have used it on the shop If you know someone who runs a shop You can do this Build total 150 Now I will do one more improvement What will I do in the improvement I had thought I will forget I have written enter the price Enter the item price Enter the price And press Q to quit Ok Here I will write like this Item and press Q to quit I had bought 5 rupees I had bought 10 rupees milk packet I had bought 5 rupees egg And along with that I had bought 26 rupees bread And after that why I did it Build total is 46 Take 46 rupees from the customer Give it all Ok Now here we can do more things By naming the item Or we can generate bills Sometimes you go to a local shop So it only writes the number It says you will get a dredel Means they don't make bills Take a small piece of paper And write on it They will hold you See what is the price To print a summary You can push these items in the list And finally you can write in a file And in that We can put a hook That we can print it From a receipt printer You must have heard about receipt printer If you haven't heard it, then search on Flipkart What is receipt printer I will write Receipt printer This is a very amazing thing Receipt printer is cheap And you can generate bills In the coming videos If I get time, I will tell you How to do this in practice fight and make But I have a quiz for you Like this video Write in the comments below I should know who is with us Who is with me in this series And who is not Now those who are serious Those who want to interact Who like to give me knowledge And who like to take my knowledge I also take knowledge from you You must have thought that this is one sided I also learn new things daily And I feel that I am sharing I share that with you What you have to do is generate a bill In this case This series of events We should do something like this So something like this Then 2 10 I don't know how many And what I had 4 26 So 5 was 10 So 5 was 5 And you can write Shri Ram Verma stores And this is not a bill Just for your customer To see what is the cost You can tear it apart To see what is the cost If you want to write an item You will get some hectic We will also make it We can do it according to the code Or we can do some look up Shri Ram Verma stores I have written 5, 10, 15, 26 You have to print it like this I will give you the code I will give you the code There is nothing much in the code But I will give you the link in the description For now That is all for this video Do tell me how you felt How you felt Are you with me in this Will we put it in front of the big ones So that you can practice For 100,000 videos So that you can feel confident If you can't practice Then open the video And you will get a lot of help So that is all for this video Thank you so much guys for watching this video And I will see you next time Bye"
+}

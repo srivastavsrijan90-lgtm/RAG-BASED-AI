@@ -1,0 +1,334 @@
+{
+    "chunks": [
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 0.0,
+            "end": 22.0,
+            "text": " What is up, I will show you a currency converter in this video  First I will give you a problem and then you will solve it yourself  After that I will tell you how to solve it  Now I will open my project and I will sing a song  It is open now, you have to listen to my song"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 22.0,
+            "end": 49.0,
+            "text": " Now I will write a new and send a python file  I will write practice python and after writing practice python  I will write dash and currency converter  So I have a website in currency converter  I will tell you how to convert Indian rupee in any currency"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 49.0,
+            "end": 78.0,
+            "text": " So basically we will get data from here  I got a very good website, I will copy it from here  I have selected control C and will also add its link  I will add it in the program so that you can get it from there  I have pasted it here"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 78.0,
+            "end": 103.0,
+            "text": " Now there are three values here  One is fake space and one is tab  I will do control F and one is edit  I am trying to do something like this  I will paste the tab that I have placed"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 103.0,
+            "end": 123.0,
+            "text": " I have not taken the tab  I will save it from control  I have copied it wrong  I will make a text file  I will make currency data.txt"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 123.0,
+            "end": 144.0,
+            "text": " I will add all the data in it  After adding all the data I will read it from python  There is a tab here  I will write a program here  I will open this file"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 144.0,
+            "end": 163.0,
+            "text": " I will open with open and this is my file  currency data.txt as F  I told you in my python course that it is in default mode  So you don't need to mention it  I will write A is equal to F dot"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 163.0,
+            "end": 183.0,
+            "text": " I will read all the lines  I will write print A  I will do this much  I should take a small step  I am solving this problem"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 183.0,
+            "end": 203.0,
+            "text": " What we have to do is  I will write a program that I will add value  I will tell you how much is equal to what  I will make a currency conversion app  You can try it and tell me in the comment"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 203.0,
+            "end": 223.0,
+            "text": " I will tell you that you are doing something  If you have done something good then you can do it  I will write F for line  I will tell you the name of the variable  I will try to pass one line"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 223.0,
+            "end": 243.0,
+            "text": " I will think only about one line  If I take this much data  I will make a dictionary  I will write Argentine money  I will ignore the number 30"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 243.0,
+            "end": 263.0,
+            "text": " I will not store the redundant data  I will write line dot split  What does split do?  It splits  I will write"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 263.0,
+            "end": 283.0,
+            "text": " Our currency is equal to  I will write parsed  I will print it  I can do it directly  But I will tell you how it is done"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 283.0,
+            "end": 303.0,
+            "text": " I have one and one  I will write parsed 0  I will write the currency name  I will write the currency value  I will write the currency dict"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 303.0,
+            "end": 323.0,
+            "text": " I will make it empty  I will tell you the currency dict  Set the past 0  Set the past 1  I will print it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 323.0,
+            "end": 343.0,
+            "text": " If I pass it  I will write the currency dict  I have not put anything else  I have made a dictionary  Argentine money"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 343.0,
+            "end": 363.0,
+            "text": " I have passed the data  I have taken the data  I will play with the currency dictionary  I have printed the currency dict  I will write it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 363.0,
+            "end": 383.0,
+            "text": " I will tell you which currency you want to convert  I will tell you  I will tell you which of  I will print it  Enter the name of currency"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 383.0,
+            "end": 403.0,
+            "text": " You want to convert  This amount  I will ask you how much amount I will enter  I will write amount is equal to  Enter amount"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 403.0,
+            "end": 423.0,
+            "text": " I am assuming that everything will go right  The user will input the amount  I am assuming that everything is right  Enter the name of currency  I will write"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 423.0,
+            "end": 443.0,
+            "text": " Available  Available options  I will print the keys of our dictionary  I will print all keys  I will show you how much amount I will print"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 443.0,
+            "end": 463.0,
+            "text": " I will remove the amount  I will rerun the currency  I am asking for the amount  Enter the name of currency  I did not see the available options"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 463.0,
+            "end": 483.0,
+            "text": " I will remove the name of currency  I will remove the name of currency  I will write a new print statement  I will write a list  I will write a list"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 483.0,
+            "end": 503.0,
+            "text": " Print item  I will write the number of keys  I will write the number of keys  I will not print the value  I am printing the value already"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 503.0,
+            "end": 523.0,
+            "text": " I will write the number of keys  I will write the number of keys  I will write the currency  I will write the currency  Please enter one of these values"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 523.0,
+            "end": 543.0,
+            "text": " Please enter one of these values  Now copy you and paste that value  After that you will be able to get the value  I will write the serial number  I will write the scriptures"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 543.0,
+            "end": 562.0,
+            "text": " Don't worry  and then currency  how much currency?  how much currency will be?  I will take exchange rate from my dictionary"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 562.0,
+            "end": 580.0,
+            "text": " so I will take exchange rate of currency from my dictionary  and I will multiply it with amount  and this is the work  let me run this  enter amount"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 580.0,
+            "end": 594.0,
+            "text": " I will take 180 rupees  and then enter one of these values  so I want to convert it to 180 rupees  in Nepalese  so I will copy it and paste it here"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 594.0,
+            "end": 611.0,
+            "text": " enter  so it says 180 inar is equal to 1.67001  so why is this happening?  so here I should have typed it in integer  I didn't do that so I will type it in integer"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 611.0,
+            "end": 627.0,
+            "text": " and I will run it again  and I want to fix one more thing here  I have not given backslash here  so I will run it again  so I will take 180 rupees and then I will put Singapore dollars"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 627.0,
+            "end": 638.0,
+            "text": " and Singapore dollars is very expensive  when I was there, the weather was very bad  I was eating anything  so I am saying that amount and interest is equal to amount  multiply with this"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 638.0,
+            "end": 649.0,
+            "text": " so it says in value letter foreign base 10  so it says in integer  so obviously I will do it in float  so what I did?  I should have converted it to float"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 649.0,
+            "end": 656.0,
+            "text": " I am making this mistake  no problem  I want to show you that  I also make mistakes  people think I do it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 656.0,
+            "end": 669.0,
+            "text": " so if you put 180 rupees then you will get 3.44 Singapore dollars  so I hope you liked the program  you got to learn something new  and you will know what is the use of python  so there are such uses of python"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 669.0,
+            "end": 681.0,
+            "text": " so comment below and tell me  if you want to write a specific program here  and I will give it a little bit  sound currency gun water  and if you have any program"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 681.0,
+            "end": 693.0,
+            "text": " then tell me  that you should make this  I will make this program  I will try not to disappoint you  but sometimes it is difficult to entertain everyone's request"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 693.0,
+            "end": 704.0,
+            "text": " but whatever I think is important  I will make it and put it  at least this is done  as my python course was delayed a lot  so I made it and put it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 704.0,
+            "end": 714.0,
+            "text": " 103 videos  and if you don't watch this  then you will miss a lot  all these things that I have worked so hard  made it and made it free"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 714.0,
+            "end": 723.0,
+            "text": " you didn't  see 73,229 people have done it  and I want from my heart  why are you saying this  because do it do it do it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 723.0,
+            "end": 733.0,
+            "text": " because friends I want from my heart  that you do this course  because I have worked hard in it  I want you to learn from it  and wherever there are many questions here"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 733.0,
+            "end": 744.0,
+            "text": " I don't want to take any name  but I don't teach anything for 1-2 lakh rupees  and 100-200 people are given a seat  in a class and the course is finished  and the money is taken from you"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 744.0,
+            "end": 753.0,
+            "text": " but that time has gone  YouTube has come, Harry has come  you should not have any excuse  basically  so do open 2-3 videos"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 753.0,
+            "end": 767.0,
+            "text": " do not watch anything  and I have made a whole pathway  learning how to learn  I have put everything along with learning path  and in the end of these videos"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 767.0,
+            "end": 772.0,
+            "text": " there is also learning path  of web development  of G.O.I development  of machine learning  if you want to learn machine learning"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 772.0,
+            "end": 782.0,
+            "text": " then there are videos of pi game  and I have also made general discussion  so do not miss these videos  and do like it  that's all for now"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Currency Converter",
+            "start": 782.0,
+            "end": 800.0,
+            "text": " thank you so much guys for watching this video  and I will see you next time  subscribe to our channel"
+        }
+    ],
+    "text": " What is up, I will show you a currency converter in this video First I will give you a problem and then you will solve it yourself After that I will tell you how to solve it Now I will open my project and I will sing a song It is open now, you have to listen to my song Now I will write a new and send a python file I will write practice python and after writing practice python I will write dash and currency converter So I have a website in currency converter I will tell you how to convert Indian rupee in any currency So basically we will get data from here I got a very good website, I will copy it from here I have selected control C and will also add its link I will add it in the program so that you can get it from there I have pasted it here Now there are three values here One is fake space and one is tab I will do control F and one is edit I am trying to do something like this I will paste the tab that I have placed I have not taken the tab I will save it from control I have copied it wrong I will make a text file I will make currency data.txt I will add all the data in it After adding all the data I will read it from python There is a tab here I will write a program here I will open this file I will open with open and this is my file currency data.txt as F I told you in my python course that it is in default mode So you don't need to mention it I will write A is equal to F dot I will read all the lines I will write print A I will do this much I should take a small step I am solving this problem What we have to do is I will write a program that I will add value I will tell you how much is equal to what I will make a currency conversion app You can try it and tell me in the comment I will tell you that you are doing something If you have done something good then you can do it I will write F for line I will tell you the name of the variable I will try to pass one line I will think only about one line If I take this much data I will make a dictionary I will write Argentine money I will ignore the number 30 I will not store the redundant data I will write line dot split What does split do? It splits I will write Our currency is equal to I will write parsed I will print it I can do it directly But I will tell you how it is done I have one and one I will write parsed 0 I will write the currency name I will write the currency value I will write the currency dict I will make it empty I will tell you the currency dict Set the past 0 Set the past 1 I will print it If I pass it I will write the currency dict I have not put anything else I have made a dictionary Argentine money I have passed the data I have taken the data I will play with the currency dictionary I have printed the currency dict I will write it I will tell you which currency you want to convert I will tell you I will tell you which of I will print it Enter the name of currency You want to convert This amount I will ask you how much amount I will enter I will write amount is equal to Enter amount I am assuming that everything will go right The user will input the amount I am assuming that everything is right Enter the name of currency I will write Available Available options I will print the keys of our dictionary I will print all keys I will show you how much amount I will print I will remove the amount I will rerun the currency I am asking for the amount Enter the name of currency I did not see the available options I will remove the name of currency I will remove the name of currency I will write a new print statement I will write a list I will write a list Print item I will write the number of keys I will write the number of keys I will not print the value I am printing the value already I will write the number of keys I will write the number of keys I will write the currency I will write the currency Please enter one of these values Please enter one of these values Now copy you and paste that value After that you will be able to get the value I will write the serial number I will write the scriptures Don't worry and then currency how much currency? how much currency will be? I will take exchange rate from my dictionary so I will take exchange rate of currency from my dictionary and I will multiply it with amount and this is the work let me run this enter amount I will take 180 rupees and then enter one of these values so I want to convert it to 180 rupees in Nepalese so I will copy it and paste it here enter so it says 180 inar is equal to 1.67001 so why is this happening? so here I should have typed it in integer I didn't do that so I will type it in integer and I will run it again and I want to fix one more thing here I have not given backslash here so I will run it again so I will take 180 rupees and then I will put Singapore dollars and Singapore dollars is very expensive when I was there, the weather was very bad I was eating anything so I am saying that amount and interest is equal to amount multiply with this so it says in value letter foreign base 10 so it says in integer so obviously I will do it in float so what I did? I should have converted it to float I am making this mistake no problem I want to show you that I also make mistakes people think I do it so if you put 180 rupees then you will get 3.44 Singapore dollars so I hope you liked the program you got to learn something new and you will know what is the use of python so there are such uses of python so comment below and tell me if you want to write a specific program here and I will give it a little bit sound currency gun water and if you have any program then tell me that you should make this I will make this program I will try not to disappoint you but sometimes it is difficult to entertain everyone's request but whatever I think is important I will make it and put it at least this is done as my python course was delayed a lot so I made it and put it 103 videos and if you don't watch this then you will miss a lot all these things that I have worked so hard made it and made it free you didn't see 73,229 people have done it and I want from my heart why are you saying this because do it do it do it because friends I want from my heart that you do this course because I have worked hard in it I want you to learn from it and wherever there are many questions here I don't want to take any name but I don't teach anything for 1-2 lakh rupees and 100-200 people are given a seat in a class and the course is finished and the money is taken from you but that time has gone YouTube has come, Harry has come you should not have any excuse basically so do open 2-3 videos do not watch anything and I have made a whole pathway learning how to learn I have put everything along with learning path and in the end of these videos there is also learning path of web development of G.O.I development of machine learning if you want to learn machine learning then there are videos of pi game and I have also made general discussion so do not miss these videos and do like it that's all for now thank you so much guys for watching this video and I will see you next time subscribe to our channel"
+}

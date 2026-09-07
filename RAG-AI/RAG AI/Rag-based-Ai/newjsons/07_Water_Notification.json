@@ -1,0 +1,362 @@
+{
+    "chunks": [
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 0.0,
+            "end": 29.0,
+            "text": " In this video we will talk about how to make desktop notification system with the help of python  and in that we will talk about a very specific case which is very important for our health  and that is whether you are drinking water or not  so here if I write human body water requirement  ok per day if I write per day here you can see"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 29.0,
+            "end": 60.0,
+            "text": " 3.7 liters of fluid for men and 11.5 cups 2.7 liters of fluid a day for women  ok if you are not drinking this much water then you will understand that it is a problem  ok so what we have to do is that this water has to be applied as a reminder to drink  so for this I am going to use a player which we will use for notifications  if you have not seen notifications in windows then I will show you"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 60.0,
+            "end": 85.0,
+            "text": " but all of you must have seen the notifications of windows  because I want to show you the playlist in which I am going to add this video  and if you want to see more practice programs then add this playlist  and this is my separate playlist from python course  I have only focused on fundamentals and projects in python course"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 85.0,
+            "end": 106.0,
+            "text": " here we will do such projects like python practice mini projects  so you must access this playlist ok  so let's move ahead and quickly open your folder in visual studio code  I would like to say something here first let's open visual studio code  and the thing is that many people say use the item"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 106.0,
+            "end": 122.0,
+            "text": " many people say use the sublime text  many people say notepad plus plus but again I want to tell you one thing  source code editor does not matter  you can use any source code editor  many people use sublime text editor"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 122.0,
+            "end": 144.0,
+            "text": " I will use visual studio code  if I am using visual studio code then if I do something like I am doing control decker  I have made a video of my visual studio code  I am doing any work in my text editor  so you should know about your text editor"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 144.0,
+            "end": 163.0,
+            "text": " the point is you should know about any text editor  or if you are using my text editor then what you have to do  you will have to see my videos which I have made on this specific text editor  and I have designed this text editor  and explained how you can do it"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 163.0,
+            "end": 180.0,
+            "text": " let's move to the point now we are making a practice program  so let's focus on the practice program  and that is our practice program drinking water notification  system which keeps us notified  every hour that we have to drink water"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 180.0,
+            "end": 200.0,
+            "text": " so what I will do here is I will write  import and time  time is very important  time is important  because we will know how much time has passed"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 200.0,
+            "end": 219.0,
+            "text": " and we will invoke the program  as per the notification  ideally we will schedule this Python program  so if you don't know about schedule in windows  then you can open this task schedule"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 219.0,
+            "end": 237.0,
+            "text": " and you can see many things  and this is a very easy discussion  schedule task  you can schedule a task  and it can be done every hour"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 237.0,
+            "end": 257.0,
+            "text": " so here I have made the import time  now I will write the name equals to equals to main  as I have told in my Python course  so the usage I have told you that if you import  then this line doesn't run"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 257.0,
+            "end": 277.0,
+            "text": " if you import this file from outside  so I will write here  and I will tell you the program  if you are going to schedule with windows schedule  then you have to do this"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 277.0,
+            "end": 297.0,
+            "text": " so in that case I don't need time module  I will write here from player  import notification  do you think this is player  install player"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 297.0,
+            "end": 317.0,
+            "text": " and after that I can use notification  now in notification there is a notify function  which I can use  and I will write notification.notify  and in this there will be a title"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 317.0,
+            "end": 337.0,
+            "text": " title will be my please drink water  after that  message will be mine  so I will keep the benefits of drinking water  so remind me that this is the thing"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 337.0,
+            "end": 357.0,
+            "text": " so I will drink water  and there is an app icon  which you can set  and if you want to make it better  then I will write glass icon"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 357.0,
+            "end": 377.0,
+            "text": " so I am taking the icon of glasses  I need that glass  so I will write here  so it's not here  I don't need magnifying glass"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 377.0,
+            "end": 397.0,
+            "text": " so I will write glass of water  glass of water icon  so here it is  I hope I will get something free  I am not in the mood to make some account"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 397.0,
+            "end": 417.0,
+            "text": " so I searched google and found it on iconarchive.com  I downloaded this ICO file  so I will put it in my folder  and I will put it in icon.ico  so I will show it in folder"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 417.0,
+            "end": 437.0,
+            "text": " so I have brought it here  and I will change it's name to icon.ico  and I will copy the full path from here  here is the path  so I will copy it"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 437.0,
+            "end": 457.0,
+            "text": " so I will put the path I have given  so I will copy it  so I have got the message  and after that I will come to the timeout  and I will run it"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 457.0,
+            "end": 477.0,
+            "text": " so I have run it  so if I run the timeout  then what will happen  it has come for 1 second and ran  so it will be fun here"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 477.0,
+            "end": 495.0,
+            "text": " so I will make it now  and I will do it  so it will be more fun  the National Academy of Science Engineering and all that.  If you don't have any notification,"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 495.0,
+            "end": 508.0,
+            "text": " but the issue is that you should drink water.  Water is important. It will work.  So, you can add a message to your account.  And once this invokes,  what will happen?"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 508.0,
+            "end": 524.0,
+            "text": " It will stay here for 10 seconds.  You can keep it for 15-20 seconds.  And I assume that you are the main.py file  and you will invoke it from the window scheduler.  It is a task scheduler of our window."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 524.0,
+            "end": 542.0,
+            "text": " Now, I am not going to show windows talk scheduler here.  But I will tell you another way to run it on loop.  You can do it here while true.  After doing it, what should I do?  Write here time.sleep"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 542.0,
+            "end": 558.0,
+            "text": " and the second you want to do every hour,  you do it 60x60.  And once you get notification,  it will sleep for 36 seconds.  It means for 1 hour."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 558.0,
+            "end": 572.0,
+            "text": " 60 seconds, that is 1 minute, 60 minutes, 1 hour.  It will sleep for 1 hour.  So, you will remember every hour that you want to drink water.  So, as you are working on your computer,  and nowadays, everyone is sitting on the computer for a long time."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 572.0,
+            "end": 590.0,
+            "text": " If you are sitting in front of your computer,  then you should definitely leave this reminder app for drinking water.  Now, look at my exit.  If I exit, I will control it.  But it is still running."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 590.0,
+            "end": 607.0,
+            "text": " So, you can run it in the background.  Now, you will ask me how to run the application in the background in Python.  So, I will tell you this.  And the answer is pythonw.exe.  Like I have written here,"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 607.0,
+            "end": 617.0,
+            "text": " pythonw.exe main.py.  What should you do in your terminal?  Write it down.  Pythonw.exe main.py.  So, you start a terminal."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 617.0,
+            "end": 629.0,
+            "text": " And write here.  Pythonw.exe.  That is, if you write Pythonw,  then it will be the main.py.  This is my app in the background."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 629.0,
+            "end": 643.0,
+            "text": " Now, you will not see this.  I will do a timeout for 2 seconds.  And I will do this for 6 seconds.  Then you will see this.  But I have already run an app from Pythonw in the background."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 643.0,
+            "end": 654.0,
+            "text": " So, I will kill it.  It will be in the name of Python.  Look, I have done the end task.  And now, what I will do?  I will run it again."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 654.0,
+            "end": 666.0,
+            "text": " I have said to run in 6 seconds.  And the notification will keep running for 6 seconds.  And the timeout is 2 seconds.  I will show you the notification for 2 seconds.  So, look, I will keep coming in 6 seconds."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 666.0,
+            "end": 675.0,
+            "text": " Please drink water now.  You just wait for 6 seconds.  Listen to me for 6 seconds.  And look, it came again.  And if I close it,"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 675.0,
+            "end": 687.0,
+            "text": " look, it keeps coming.  It is not a problem.  My terminal does not even mean anything.  I will show you the entire terminal.  Look, I have deleted the entire terminal."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 687.0,
+            "end": 698.0,
+            "text": " You keep watching.  Look, this notification keeps coming.  So, I have put it in the background with the Wild True.  You can do this too.  If you want to use the scheduler of Windows,"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 698.0,
+            "end": 707.0,
+            "text": " you can do that too.  What we do quickly is,  I will kill it here.  Otherwise, I will get into my stomach.  Drink water."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 707.0,
+            "end": 717.0,
+            "text": " And it will be a problem.  So, don't drink so much water.  What will you get in your stomach?  What you have to do is,  drink this much water."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 717.0,
+            "end": 727.0,
+            "text": " I will show you how much you have to drink.  Look, you can read this.  You can read the entire page.  Look, you can take it from here.  Okay, let's go."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 727.0,
+            "end": 737.0,
+            "text": " Now, let's talk about programming.  Water, water, you will all know.  I hope this is clear.  How we used existing packages.  Python Plier Notification."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 737.0,
+            "end": 747.0,
+            "text": " By putting it like this,  you will get  the PYPI of the Plier.  And along with that,  there are many blogs."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 747.0,
+            "end": 757.0,
+            "text": " There are many resources.  You can see them there.  You can refer them.  And I have made this program here.  I will make it."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 757.0,
+            "end": 767.0,
+            "text": " I will do it again.  16 to 60 and I will do the timeout for 12 seconds.  So that,  what happens is,  that,"
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 767.0,
+            "end": 777.0,
+            "text": " this is my,  at least for 12 seconds,  that I can read it.  Please drink water now.  Process your brain."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 777.0,
+            "end": 787.0,
+            "text": " So I hope you all have understood this.  I have interrupted it.  After interrupting, I will tell you again,  that this is the play list of the Python practice program.  You have to access it."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 787.0,
+            "end": 797.0,
+            "text": " Bookmark it like this.  And click here to save it.  So that the play list becomes yours.  That's all for now.  Don't forget to like this video."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 797.0,
+            "end": 807.0,
+            "text": " When you like this video,  the platform will know that this video is good.  And it pushes it more.  So please like it.  That's all for now."
+        },
+        {
+            "number": null,
+            "title": "I Created a Drink Water Notification",
+            "start": 807.0,
+            "end": 825.0,
+            "text": " Thank you so much for watching this video.  And I will see you next time.  Thank you for watching this video."
+        }
+    ],
+    "text": " In this video we will talk about how to make desktop notification system with the help of python and in that we will talk about a very specific case which is very important for our health and that is whether you are drinking water or not so here if I write human body water requirement ok per day if I write per day here you can see 3.7 liters of fluid for men and 11.5 cups 2.7 liters of fluid a day for women ok if you are not drinking this much water then you will understand that it is a problem ok so what we have to do is that this water has to be applied as a reminder to drink so for this I am going to use a player which we will use for notifications if you have not seen notifications in windows then I will show you but all of you must have seen the notifications of windows because I want to show you the playlist in which I am going to add this video and if you want to see more practice programs then add this playlist and this is my separate playlist from python course I have only focused on fundamentals and projects in python course here we will do such projects like python practice mini projects so you must access this playlist ok so let's move ahead and quickly open your folder in visual studio code I would like to say something here first let's open visual studio code and the thing is that many people say use the item many people say use the sublime text many people say notepad plus plus but again I want to tell you one thing source code editor does not matter you can use any source code editor many people use sublime text editor I will use visual studio code if I am using visual studio code then if I do something like I am doing control decker I have made a video of my visual studio code I am doing any work in my text editor so you should know about your text editor the point is you should know about any text editor or if you are using my text editor then what you have to do you will have to see my videos which I have made on this specific text editor and I have designed this text editor and explained how you can do it let's move to the point now we are making a practice program so let's focus on the practice program and that is our practice program drinking water notification system which keeps us notified every hour that we have to drink water so what I will do here is I will write import and time time is very important time is important because we will know how much time has passed and we will invoke the program as per the notification ideally we will schedule this Python program so if you don't know about schedule in windows then you can open this task schedule and you can see many things and this is a very easy discussion schedule task you can schedule a task and it can be done every hour so here I have made the import time now I will write the name equals to equals to main as I have told in my Python course so the usage I have told you that if you import then this line doesn't run if you import this file from outside so I will write here and I will tell you the program if you are going to schedule with windows schedule then you have to do this so in that case I don't need time module I will write here from player import notification do you think this is player install player and after that I can use notification now in notification there is a notify function which I can use and I will write notification.notify and in this there will be a title title will be my please drink water after that message will be mine so I will keep the benefits of drinking water so remind me that this is the thing so I will drink water and there is an app icon which you can set and if you want to make it better then I will write glass icon so I am taking the icon of glasses I need that glass so I will write here so it's not here I don't need magnifying glass so I will write glass of water glass of water icon so here it is I hope I will get something free I am not in the mood to make some account so I searched google and found it on iconarchive.com I downloaded this ICO file so I will put it in my folder and I will put it in icon.ico so I will show it in folder so I have brought it here and I will change it's name to icon.ico and I will copy the full path from here here is the path so I will copy it so I will put the path I have given so I will copy it so I have got the message and after that I will come to the timeout and I will run it so I have run it so if I run the timeout then what will happen it has come for 1 second and ran so it will be fun here so I will make it now and I will do it so it will be more fun the National Academy of Science Engineering and all that. If you don't have any notification, but the issue is that you should drink water. Water is important. It will work. So, you can add a message to your account. And once this invokes, what will happen? It will stay here for 10 seconds. You can keep it for 15-20 seconds. And I assume that you are the main.py file and you will invoke it from the window scheduler. It is a task scheduler of our window. Now, I am not going to show windows talk scheduler here. But I will tell you another way to run it on loop. You can do it here while true. After doing it, what should I do? Write here time.sleep and the second you want to do every hour, you do it 60x60. And once you get notification, it will sleep for 36 seconds. It means for 1 hour. 60 seconds, that is 1 minute, 60 minutes, 1 hour. It will sleep for 1 hour. So, you will remember every hour that you want to drink water. So, as you are working on your computer, and nowadays, everyone is sitting on the computer for a long time. If you are sitting in front of your computer, then you should definitely leave this reminder app for drinking water. Now, look at my exit. If I exit, I will control it. But it is still running. So, you can run it in the background. Now, you will ask me how to run the application in the background in Python. So, I will tell you this. And the answer is pythonw.exe. Like I have written here, pythonw.exe main.py. What should you do in your terminal? Write it down. Pythonw.exe main.py. So, you start a terminal. And write here. Pythonw.exe. That is, if you write Pythonw, then it will be the main.py. This is my app in the background. Now, you will not see this. I will do a timeout for 2 seconds. And I will do this for 6 seconds. Then you will see this. But I have already run an app from Pythonw in the background. So, I will kill it. It will be in the name of Python. Look, I have done the end task. And now, what I will do? I will run it again. I have said to run in 6 seconds. And the notification will keep running for 6 seconds. And the timeout is 2 seconds. I will show you the notification for 2 seconds. So, look, I will keep coming in 6 seconds. Please drink water now. You just wait for 6 seconds. Listen to me for 6 seconds. And look, it came again. And if I close it, look, it keeps coming. It is not a problem. My terminal does not even mean anything. I will show you the entire terminal. Look, I have deleted the entire terminal. You keep watching. Look, this notification keeps coming. So, I have put it in the background with the Wild True. You can do this too. If you want to use the scheduler of Windows, you can do that too. What we do quickly is, I will kill it here. Otherwise, I will get into my stomach. Drink water. And it will be a problem. So, don't drink so much water. What will you get in your stomach? What you have to do is, drink this much water. I will show you how much you have to drink. Look, you can read this. You can read the entire page. Look, you can take it from here. Okay, let's go. Now, let's talk about programming. Water, water, you will all know. I hope this is clear. How we used existing packages. Python Plier Notification. By putting it like this, you will get the PYPI of the Plier. And along with that, there are many blogs. There are many resources. You can see them there. You can refer them. And I have made this program here. I will make it. I will do it again. 16 to 60 and I will do the timeout for 12 seconds. So that, what happens is, that, this is my, at least for 12 seconds, that I can read it. Please drink water now. Process your brain. So I hope you all have understood this. I have interrupted it. After interrupting, I will tell you again, that this is the play list of the Python practice program. You have to access it. Bookmark it like this. And click here to save it. So that the play list becomes yours. That's all for now. Don't forget to like this video. When you like this video, the platform will know that this video is good. And it pushes it more. So please like it. That's all for now. Thank you so much for watching this video. And I will see you next time. Thank you for watching this video."
+}

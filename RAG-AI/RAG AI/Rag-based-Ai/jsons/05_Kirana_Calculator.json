@@ -1,0 +1,2333 @@
+{
+    "chunks": [
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 0.0,
+            "end": 2.96,
+            "text": " Alright guys, I got a lot of requests for this video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 2.96,
+            "end": 5.6000000000000005,
+            "text": " I made a video where we can practice"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 5.6000000000000005,
+            "end": 9.36,
+            "text": " So I have already made 103 videos in my Python basic course"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 9.36,
+            "end": 13.76,
+            "text": " And I have made a lot of videos where you can practice and learn"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 13.76,
+            "end": 16.4,
+            "text": " If you see the playlist there"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 16.4,
+            "end": 18.6,
+            "text": " I have put the whole course in free"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 18.6,
+            "end": 21.04,
+            "text": " And I have given all the exercises there"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 21.04,
+            "end": 22.400000000000002,
+            "text": " I have given the solution of the exercise"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 22.400000000000002,
+            "end": 23.92,
+            "text": " I have given shout out to you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 23.92,
+            "end": 27.2,
+            "text": " I have done everything and I have been seeing it with a lot of pressure"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 27.2,
+            "end": 31.04,
+            "text": " But even then some people wanted me to make some exercises separately"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 31.04,
+            "end": 32.96,
+            "text": " Where we can talk about Python"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 32.96,
+            "end": 37.2,
+            "text": " Some people like to talk and I appreciate it a lot"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 37.2,
+            "end": 39.84,
+            "text": " I mean I go somewhere and catch someone"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 39.84,
+            "end": 42.96,
+            "text": " And that program is there but there is no interest in programming"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 42.96,
+            "end": 44.16,
+            "text": " So I talk to them"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 44.16,
+            "end": 47.36,
+            "text": " I have done this, I have done that, I am doing this, I am doing that"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 47.36,
+            "end": 50.879999999999995,
+            "text": " How many users can come if you use SQLite database"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 50.879999999999995,
+            "end": 53.120000000000005,
+            "text": " If there are no things in Python"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 53.120000000000005,
+            "end": 54.72,
+            "text": " They get bored"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 54.8,
+            "end": 57.28,
+            "text": " Now what is there, if people want to talk like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 57.28,
+            "end": 59.44,
+            "text": " I feel very good, I am just telling you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 59.44,
+            "end": 60.24,
+            "text": " What will I do here?"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 60.24,
+            "end": 62.48,
+            "text": " I will go to my PyCharm and make a new project"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 62.48,
+            "end": 64.64,
+            "text": " And I will keep the name Practice Python"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 64.64,
+            "end": 67.2,
+            "text": " And this Practice Python will remain a new series here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 67.2,
+            "end": 68.64,
+            "text": " And it will continue to run"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 68.64,
+            "end": 72.0,
+            "text": " And I will continue to give the Python programs to everyone"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 72.0,
+            "end": 74.72,
+            "text": " So I will make a simple program here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 74.72,
+            "end": 76.4,
+            "text": " I will gradually increase the difficulty level"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 76.4,
+            "end": 77.68,
+            "text": " There are a lot of people"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 77.68,
+            "end": 80.88,
+            "text": " They say, bring something like this in practice"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 80.88,
+            "end": 83.84,
+            "text": " And in a slow pace, read it slowly"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 83.92,
+            "end": 86.0,
+            "text": " So okay, I have my coffee in front of me"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 86.0,
+            "end": 87.44,
+            "text": " So I drink coffee"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 87.44,
+            "end": 89.52000000000001,
+            "text": " I will practice Python very easily"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 89.52000000000001,
+            "end": 91.84,
+            "text": " And what do I use in my workflow"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 91.84,
+            "end": 93.76,
+            "text": " What do I recommend"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 93.76,
+            "end": 96.64,
+            "text": " I will try to cover all those things here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 96.64,
+            "end": 98.64,
+            "text": " So this tea is kept down here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 98.64,
+            "end": 99.60000000000001,
+            "text": " Coffee"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 99.60000000000001,
+            "end": 102.48,
+            "text": " And I don't know why I don't even say coffee"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 102.48,
+            "end": 107.12,
+            "text": " Anyways, I will write here Practice Python"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 107.12,
+            "end": 108.24000000000001,
+            "text": " Practice Python"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 108.24000000000001,
+            "end": 110.32000000000001,
+            "text": " Start from number 1, start from 0"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 110.32000000000001,
+            "end": 111.44,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 111.44,
+            "end": 114.08,
+            "text": " Now here I want to give you this problem in practice Python 1"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 114.08,
+            "end": 118.24,
+            "text": " And I want you to post the problem there"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 118.24,
+            "end": 119.75999999999999,
+            "text": " In the comment section below"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 119.75999999999999,
+            "end": 122.64,
+            "text": " Write the first comment, accept it and then solve it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 122.64,
+            "end": 123.36,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 123.36,
+            "end": 125.36,
+            "text": " And then see what is the solution"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 125.36,
+            "end": 126.88,
+            "text": " Now listen to the problem here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 126.88,
+            "end": 129.2,
+            "text": " The problem is that you are a shopkeeper"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 129.2,
+            "end": 133.04,
+            "text": " Look, I will try to make things practical"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 133.04,
+            "end": 135.44,
+            "text": " Because if I make things practical, then you will understand"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 135.44,
+            "end": 136.8,
+            "text": " This is a good problem"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 136.8,
+            "end": 138.0,
+            "text": " So how to solve it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 138.0,
+            "end": 140.48,
+            "text": " If I say, take it out"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 140.56,
+            "end": 141.67999999999998,
+            "text": " Take out the derivative"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 141.67999999999998,
+            "end": 142.72,
+            "text": " Integration"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 142.72,
+            "end": 144.16,
+            "text": " What is the use of it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 144.16,
+            "end": 146.79999999999998,
+            "text": " If you understand the use, you will be able to do it very well"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 146.79999999999998,
+            "end": 151.76,
+            "text": " So let me keep the coffee here and give you the problem"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 151.76,
+            "end": 153.6,
+            "text": " You are a shopkeeper"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 153.6,
+            "end": 156.16,
+            "text": " What you have to do is make a program"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 156.16,
+            "end": 158.23999999999998,
+            "text": " That you write the price of items"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 158.23999999999998,
+            "end": 160.0,
+            "text": " Price price price price price price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 160.0,
+            "end": 162.0,
+            "text": " It is a calculator, basically simple"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 162.0,
+            "end": 165.12,
+            "text": " And then finally, as soon as you press enter"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 165.12,
+            "end": 166.07999999999998,
+            "text": " What will happen"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 166.07999999999998,
+            "end": 168.48,
+            "text": " Your display will be total"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 168.48,
+            "end": 169.67999999999998,
+            "text": " Or something like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 169.67999999999998,
+            "end": 170.88,
+            "text": " You have to make it a utility"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 170.88,
+            "end": 173.44,
+            "text": " Basically, to sum up the numbers in Python"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 173.44,
+            "end": 175.12,
+            "text": " Till when to sum up"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 175.12,
+            "end": 177.04,
+            "text": " Until the press of enter is not done"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 177.04,
+            "end": 178.07999999999998,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 178.07999999999998,
+            "end": 179.92,
+            "text": " So how will we make it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 179.92,
+            "end": 182.48,
+            "text": " Post it, comment below, like the video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 182.48,
+            "end": 183.83999999999997,
+            "text": " You will see a little"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 183.83999999999997,
+            "end": 185.6,
+            "text": " You are a person who is watching the video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 185.6,
+            "end": 187.35999999999999,
+            "text": " Give me a little response"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 187.35999999999999,
+            "end": 189.04,
+            "text": " If you have a response, I will feel very good"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 189.04,
+            "end": 192.07999999999998,
+            "text": " I will also see that there is someone who is appreciating all these things"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 192.07999999999998,
+            "end": 195.12,
+            "text": " Which I am bringing with me from the initiatives courses"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 195.20000000000002,
+            "end": 196.16,
+            "text": " Okay, I will drink tea"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 196.16,
+            "end": 198.48000000000002,
+            "text": " You post it and comment below"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 200.88,
+            "end": 202.32,
+            "text": " So the coffee is very hot"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 202.32,
+            "end": 204.32,
+            "text": " But still it is good"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 204.32,
+            "end": 205.76,
+            "text": " What I will do is"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 205.76,
+            "end": 207.28,
+            "text": " I will write a simple problem statement"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 207.28,
+            "end": 211.04,
+            "text": " Till you write it below the challenge except here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 211.04,
+            "end": 212.72,
+            "text": " And you solve it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 212.72,
+            "end": 216.08,
+            "text": " So I will say that keep adding a"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 216.08,
+            "end": 218.08,
+            "text": " One minute, write up Python program"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 218.08,
+            "end": 219.92000000000002,
+            "text": " I will write the problem statement well"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 219.92000000000002,
+            "end": 221.04000000000002,
+            "text": " I will write you here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 221.04000000000002,
+            "end": 223.76,
+            "text": " Write up Python program"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 223.76,
+            "end": 225.6,
+            "text": " Which will keep adding"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 227.51999999999998,
+            "end": 230.0,
+            "text": " A stream of numbers"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 230.88,
+            "end": 233.44,
+            "text": " Input it by the user"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 235.04,
+            "end": 239.2,
+            "text": " The adding stops as soon as"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 239.84,
+            "end": 243.12,
+            "text": " user presses quit"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 243.12,
+            "end": 243.92,
+            "text": " Or Q"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 243.92,
+            "end": 245.84,
+            "text": " Q key on the keyboard"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 246.64,
+            "end": 247.6,
+            "text": " Fair enough"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 247.6,
+            "end": 249.6,
+            "text": " Okay, now you guys start here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 249.6,
+            "end": 251.6,
+            "text": " After that I will tell you how to solve it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 251.6,
+            "end": 252.56,
+            "text": " It is very simple"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 252.56,
+            "end": 253.76,
+            "text": " I am starting with simple"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 253.76,
+            "end": 256.24,
+            "text": " Otherwise if I will take a big problem"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 256.24,
+            "end": 258.48,
+            "text": " Then how did you guys start"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 258.48,
+            "end": 260.4,
+            "text": " I have just started the basic Python course"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 260.4,
+            "end": 262.4,
+            "text": " And if you guys have not done this course"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 262.4,
+            "end": 263.28,
+            "text": " Then do this course"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 263.28,
+            "end": 264.64,
+            "text": " And if you want to continue this course"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 264.64,
+            "end": 266.0,
+            "text": " Then you can come here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 266.0,
+            "end": 268.0,
+            "text": " You can come here and learn"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 268.0,
+            "end": 268.4,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 269.2,
+            "end": 270.96,
+            "text": " So what is the strategy here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 270.96,
+            "end": 272.88,
+            "text": " First of all, how to add the number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 272.88,
+            "end": 275.36,
+            "text": " In Python, you can add two numbers"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 275.36,
+            "end": 276.15999999999997,
+            "text": " Simply"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 276.15999999999997,
+            "end": 278.08,
+            "text": " You can do it by putting plus"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 278.08,
+            "end": 279.84,
+            "text": " Now I will write the first one here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 279.91999999999996,
+            "end": 283.35999999999996,
+            "text": " I know that my infinite while loop is going to run"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 283.35999999999996,
+            "end": 283.84,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 284.47999999999996,
+            "end": 286.08,
+            "text": " I wrote the while loop here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 286.08,
+            "end": 288.15999999999997,
+            "text": " I will write input is equal to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 289.2,
+            "end": 292.15999999999997,
+            "text": " I will write the number is equal to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 292.96,
+            "end": 293.91999999999996,
+            "text": " Input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 293.91999999999996,
+            "end": 295.12,
+            "text": " Enter your"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 296.55999999999995,
+            "end": 297.44,
+            "text": " Enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 297.44,
+            "end": 298.79999999999995,
+            "text": " Because we are in a shop"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 298.79999999999995,
+            "end": 299.91999999999996,
+            "text": " Enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 300.47999999999996,
+            "end": 302.08,
+            "text": " So tell me in the comments below"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 302.08,
+            "end": 303.03999999999996,
+            "text": " How did you guys feel about the video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 303.03999999999996,
+            "end": 304.55999999999995,
+            "text": " I want the full feedback on the series"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 304.55999999999995,
+            "end": 305.59999999999997,
+            "text": " And as I am telling you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 305.59999999999997,
+            "end": 306.71999999999997,
+            "text": " While drinking coffee"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 306.71999999999997,
+            "end": 307.67999999999995,
+            "text": " How did you feel about me"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 307.67999999999995,
+            "end": 308.0,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 308.96,
+            "end": 310.16,
+            "text": " Number is equal to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 310.16,
+            "end": 312.32,
+            "text": " Try to solve it with ease"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 312.32,
+            "end": 313.92,
+            "text": " Try to listen to it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 313.92,
+            "end": 316.4,
+            "text": " Try to slowly absorb the information"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 316.4,
+            "end": 317.36,
+            "text": " Which I am giving you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 317.36,
+            "end": 318.32,
+            "text": " Absorb"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 318.32,
+            "end": 318.96,
+            "text": " Absorb"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 318.96,
+            "end": 320.8,
+            "text": " Here I have written the number is equal to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 320.8,
+            "end": 321.76,
+            "text": " Input enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 321.76,
+            "end": 323.76,
+            "text": " Along with that, I will tell you one thing"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 323.76,
+            "end": 325.76,
+            "text": " In every video, there will be some knowledge"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 325.76,
+            "end": 326.32,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 326.32,
+            "end": 327.36,
+            "text": " So here what is here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 327.36,
+            "end": 329.36,
+            "text": " If I add this number to any number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 329.36,
+            "end": 330.72,
+            "text": " Then I will get an error"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 330.72,
+            "end": 331.76,
+            "text": " So I will do one thing"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 331.76,
+            "end": 333.76,
+            "text": " First of all, I will make the sum equal to zero"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 333.76,
+            "end": 335.2,
+            "text": " Okay, number is equal to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 335.2,
+            "end": 337.2,
+            "text": " I will have to cast it in the integer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 337.2,
+            "end": 339.2,
+            "text": " Because whatever the user takes input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 339.2,
+            "end": 341.2,
+            "text": " Input function is taken as string"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 341.2,
+            "end": 342.4,
+            "text": " I will repeat"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 342.4,
+            "end": 344.4,
+            "text": " Whatever I have selected"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 344.4,
+            "end": 345.59999999999997,
+            "text": " Will come in a string form"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 345.59999999999997,
+            "end": 347.59999999999997,
+            "text": " So I will put it in int"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 347.59999999999997,
+            "end": 349.59999999999997,
+            "text": " As soon as I put it in int"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 349.59999999999997,
+            "end": 351.59999999999997,
+            "text": " This number will be converted into integer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 351.59999999999997,
+            "end": 353.59999999999997,
+            "text": " And after that I will do"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 353.59999999999997,
+            "end": 356.4,
+            "text": " Sum is equal to sum plus number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 356.4,
+            "end": 356.96,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 356.96,
+            "end": 358.4,
+            "text": " Now my sum has been updated"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 358.4,
+            "end": 359.2,
+            "text": " Okay"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 359.2,
+            "end": 362.0,
+            "text": " And I will do sum is equal to sum plus number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 362.0,
+            "end": 363.36,
+            "text": " I will do this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 363.36,
+            "end": 365.2,
+            "text": " If number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 365.2,
+            "end": 367.2,
+            "text": " I will not do int of input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 367.2,
+            "end": 368.4,
+            "text": " I will see that first"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 368.4,
+            "end": 370.4,
+            "text": " If someone has not quit"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 370.4,
+            "end": 371.59999999999997,
+            "text": " If I cast it in int"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 371.59999999999997,
+            "end": 372.8,
+            "text": " Then I will get an error"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 372.8,
+            "end": 374.8,
+            "text": " This is not integer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 374.8,
+            "end": 376.8,
+            "text": " So I will have to see that too"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 376.8,
+            "end": 377.59999999999997,
+            "text": " So I will write here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 377.59999999999997,
+            "end": 378.8,
+            "text": " And I will not write the number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 378.8,
+            "end": 380.8,
+            "text": " I will write user input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 380.8,
+            "end": 382.0,
+            "text": " I will write here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 382.0,
+            "end": 384.0,
+            "text": " If user input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 384.0,
+            "end": 386.0,
+            "text": " Not equals to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 386.0,
+            "end": 388.0,
+            "text": " If the user has not pressed the key"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " Then what should I do"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 390.0,
+            "end": 391.2,
+            "text": " Then here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 391.2,
+            "end": 392.4,
+            "text": " Sum is equal to"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 392.4,
+            "end": 393.59999999999997,
+            "text": " Else"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 393.59999999999997,
+            "end": 394.8,
+            "text": " Else what should I do"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 394.8,
+            "end": 396.8,
+            "text": " Else I will write here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 396.8,
+            "end": 398.8,
+            "text": " Else"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 398.8,
+            "end": 400.8,
+            "text": " What should I do here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 400.8,
+            "end": 402.8,
+            "text": " Write sum"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 402.8,
+            "end": 404.8,
+            "text": " I will wrap up here after that"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 404.8,
+            "end": 406.8,
+            "text": " If someone has pressed the key"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 406.8,
+            "end": 407.8,
+            "text": " Then I will wrap up"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 407.8,
+            "end": 408.8,
+            "text": " Then why I will add"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 408.8,
+            "end": 410.8,
+            "text": " So I will add user input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 410.8,
+            "end": 412.8,
+            "text": " I will do int of user input"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 412.8,
+            "end": 414.8,
+            "text": " I have not cast it in integer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 414.8,
+            "end": 416.8,
+            "text": " Okay and I will simply do it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 416.8,
+            "end": 418.8,
+            "text": " After that I will write else"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 418.8,
+            "end": 420.8,
+            "text": " If someone has pressed the key"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 420.8,
+            "end": 422.8,
+            "text": " I will do one thing"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 422.8,
+            "end": 424.8,
+            "text": " I will give one message"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 424.8,
+            "end": 426.8,
+            "text": " Thanks for using"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 426.8,
+            "end": 428.8,
+            "text": " Our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 428.8,
+            "end": 430.8,
+            "text": " Thank you very much for using our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 430.8,
+            "end": 432.8,
+            "text": " Thank you very much for using our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 432.8,
+            "end": 434.8,
+            "text": " If you call customers like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 434.8,
+            "end": 436.8,
+            "text": " Then they say the same"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 436.8,
+            "end": 438.8,
+            "text": " So basically I have done the same"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 438.8,
+            "end": 440.8,
+            "text": " Now what is here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 440.8,
+            "end": 442.8,
+            "text": " Thanks for using our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 442.8,
+            "end": 444.8,
+            "text": " I will run it like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 444.8,
+            "end": 446.8,
+            "text": " I will have to break it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 446.8,
+            "end": 448.8,
+            "text": " Else this will keep on running"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 448.8,
+            "end": 450.8,
+            "text": " I will run it and see"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 450.8,
+            "end": 452.8,
+            "text": " If it is running right"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 452.8,
+            "end": 454.8,
+            "text": " I am telling you once"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 454.8,
+            "end": 456.8,
+            "text": " If you are running"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 456.8,
+            "end": 458.8,
+            "text": " Then I will run it perfectly"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 458.8,
+            "end": 460.8,
+            "text": " Else you will not be connected"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 460.8,
+            "end": 462.8,
+            "text": " With any remote database"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 462.8,
+            "end": 464.8,
+            "text": " Else all those things will remain"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 464.8,
+            "end": 466.8,
+            "text": " Exceptions but when you write a basic program"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 466.8,
+            "end": 468.8,
+            "text": " Then you can test it easily"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 468.8,
+            "end": 470.8,
+            "text": " I have written 7"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 470.8,
+            "end": 472.8,
+            "text": " Enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 472.8,
+            "end": 474.8,
+            "text": " I have written 5"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 474.8,
+            "end": 476.8,
+            "text": " Then I have written 1"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 476.8,
+            "end": 478.8,
+            "text": " Then I have done Q"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 478.8,
+            "end": 480.8,
+            "text": " I have done some trouble"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 480.8,
+            "end": 482.8,
+            "text": " I have not done any trouble"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 482.8,
+            "end": 484.8,
+            "text": " I will use your build total"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 484.8,
+            "end": 486.8,
+            "text": " I will use f string"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 486.8,
+            "end": 488.8,
+            "text": " Let's leave it for another video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 488.8,
+            "end": 490.8,
+            "text": " Your build total"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 490.8,
+            "end": 492.8,
+            "text": " I will use it here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 492.8,
+            "end": 494.8,
+            "text": " I have already told you that if you don't know f string"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 494.8,
+            "end": 496.8,
+            "text": " Then write f here and you can"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 496.8,
+            "end": 498.8,
+            "text": " Put variables like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 498.8,
+            "end": 500.8,
+            "text": " I will write sum here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 500.8,
+            "end": 502.8,
+            "text": " And after this I will write"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 502.8,
+            "end": 504.8,
+            "text": " Thanks for using our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 504.8,
+            "end": 506.8,
+            "text": " Thanks for using our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 506.8,
+            "end": 508.8,
+            "text": " Thanks for using our calculator"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 508.8,
+            "end": 510.8,
+            "text": " Thanks for"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 510.8,
+            "end": 512.8,
+            "text": " Shopping with us"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 514.8,
+            "end": 516.8,
+            "text": " I will write like this and remove it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 516.8,
+            "end": 518.8,
+            "text": " And along with that"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 518.8,
+            "end": 520.8,
+            "text": " What I will do here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 520.8,
+            "end": 522.8,
+            "text": " Like this sum will come"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 522.8,
+            "end": 524.8,
+            "text": " Your order total so far"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 524.8,
+            "end": 526.8,
+            "text": " I will print it here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 526.8,
+            "end": 528.8,
+            "text": " I will put an f string"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 528.8,
+            "end": 530.8,
+            "text": " Order total so far"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 530.8,
+            "end": 532.8,
+            "text": " And after that I will write sum here"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 532.8,
+            "end": 534.8,
+            "text": " That is it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 534.8,
+            "end": 536.8,
+            "text": " And enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 536.8,
+            "end": 538.8,
+            "text": " Order total so far is 34"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 538.8,
+            "end": 540.8,
+            "text": " I have written 5"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 540.8,
+            "end": 542.8,
+            "text": " I have written 39"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 542.8,
+            "end": 544.8,
+            "text": " I have written 7"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 544.8,
+            "end": 546.8,
+            "text": " So I have used it on the shop"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 546.8,
+            "end": 548.8,
+            "text": " If you know someone who runs a shop"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 548.8,
+            "end": 550.8,
+            "text": " You can do this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 550.8,
+            "end": 552.8,
+            "text": " Build total 150"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 552.8,
+            "end": 554.8,
+            "text": " Now I will do one more improvement"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 554.8,
+            "end": 556.8,
+            "text": " What will I do in the improvement"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 556.8,
+            "end": 558.8,
+            "text": " I had thought I will forget"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 558.8,
+            "end": 560.8,
+            "text": " I have written enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 560.8,
+            "end": 562.8,
+            "text": " Enter the item price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 562.8,
+            "end": 564.8,
+            "text": " Enter the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 564.8,
+            "end": 566.8,
+            "text": " And press Q to quit"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 566.8,
+            "end": 568.8,
+            "text": " Ok"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 568.8,
+            "end": 570.8,
+            "text": " Here I will write like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 570.8,
+            "end": 572.8,
+            "text": " Item and press Q to quit"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 572.8,
+            "end": 574.8,
+            "text": " I had bought 5 rupees"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 574.8,
+            "end": 576.8,
+            "text": " I had bought 10 rupees milk packet"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 576.8,
+            "end": 578.8,
+            "text": " I had bought 5 rupees egg"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 578.8,
+            "end": 580.8,
+            "text": " And along with that"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 580.8,
+            "end": 582.8,
+            "text": " I had bought 26 rupees bread"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 582.8,
+            "end": 584.8,
+            "text": " And after that why I did it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 584.8,
+            "end": 586.8,
+            "text": " Build total is 46"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 586.8,
+            "end": 588.8,
+            "text": " Take 46 rupees from the customer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 588.8,
+            "end": 590.8,
+            "text": " Give it all"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 590.8,
+            "end": 592.8,
+            "text": " Ok"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 592.8,
+            "end": 594.8,
+            "text": " Now here we can do more things"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 594.8,
+            "end": 596.8,
+            "text": " By naming the item"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 596.8,
+            "end": 598.8,
+            "text": " Or we can generate bills"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 598.8,
+            "end": 600.8,
+            "text": " Sometimes you go to a local shop"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 600.8,
+            "end": 602.8,
+            "text": " So it only writes the number"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 602.8,
+            "end": 604.8,
+            "text": " It says you will get a dredel"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 604.8,
+            "end": 606.8,
+            "text": " Means they don't make bills"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 606.8,
+            "end": 608.8,
+            "text": " Take a small piece of paper"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 608.8,
+            "end": 610.8,
+            "text": " And write on it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 610.8,
+            "end": 612.8,
+            "text": " They will hold you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 612.8,
+            "end": 614.8,
+            "text": " See what is the price"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 614.8,
+            "end": 616.8,
+            "text": " To print a summary"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 616.8,
+            "end": 618.8,
+            "text": " You can push these items in the list"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 618.8,
+            "end": 620.8,
+            "text": " And finally you can write in a file"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 620.8,
+            "end": 622.8,
+            "text": " And in that"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 622.8,
+            "end": 624.8,
+            "text": " We can put a hook"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 624.8,
+            "end": 626.8,
+            "text": " That we can print it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 626.8,
+            "end": 628.8,
+            "text": " From a receipt printer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 628.8,
+            "end": 630.8,
+            "text": " You must have heard about receipt printer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 630.8,
+            "end": 632.8,
+            "text": " If you haven't heard it, then search on Flipkart"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 632.8,
+            "end": 634.8,
+            "text": " What is receipt printer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 634.8,
+            "end": 636.8,
+            "text": " I will write"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 636.8,
+            "end": 638.8,
+            "text": " Receipt printer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 638.8,
+            "end": 640.8,
+            "text": " This is a very amazing thing"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 640.8,
+            "end": 642.8,
+            "text": " Receipt printer is cheap"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 642.8,
+            "end": 644.8,
+            "text": " And you can generate bills"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 644.8,
+            "end": 646.8,
+            "text": " In the coming videos"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 646.8,
+            "end": 648.8,
+            "text": " If I get time, I will tell you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 648.8,
+            "end": 650.8,
+            "text": " How to do this in practice fight and make"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 650.8,
+            "end": 652.8,
+            "text": " But I have a quiz for you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 652.8,
+            "end": 654.8,
+            "text": " Like this video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 654.8,
+            "end": 656.8,
+            "text": " Write in the comments below"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 656.8,
+            "end": 658.8,
+            "text": " I should know who is with us"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 658.8,
+            "end": 660.8,
+            "text": " Who is with me in this series"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 660.8,
+            "end": 662.8,
+            "text": " And who is not"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 662.8,
+            "end": 664.8,
+            "text": " Now those who are serious"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 664.8,
+            "end": 666.8,
+            "text": " Those who want to interact"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 666.8,
+            "end": 668.8,
+            "text": " Who like to give me knowledge"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 668.8,
+            "end": 670.8,
+            "text": " And who like to take my knowledge"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 670.8,
+            "end": 672.8,
+            "text": " I also take knowledge from you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 672.8,
+            "end": 674.8,
+            "text": " You must have thought that this is one sided"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 674.8,
+            "end": 676.8,
+            "text": " I also learn new things daily"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 676.8,
+            "end": 678.8,
+            "text": " And I feel that I am sharing"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 678.8,
+            "end": 680.8,
+            "text": " I share that with you"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 680.8,
+            "end": 682.8,
+            "text": " What you have to do is generate a bill"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 682.8,
+            "end": 684.8,
+            "text": " In this case"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 684.8,
+            "end": 686.8,
+            "text": " This series of events"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 686.8,
+            "end": 688.8,
+            "text": " We should do something like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 688.8,
+            "end": 690.8,
+            "text": " So something like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 690.8,
+            "end": 692.8,
+            "text": " Then 2"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 692.8,
+            "end": 694.8,
+            "text": " 10"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 694.8,
+            "end": 696.8,
+            "text": " I don't know how many"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 696.8,
+            "end": 698.8,
+            "text": " And what I had 4"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 698.8,
+            "end": 700.8,
+            "text": " 26"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 700.8,
+            "end": 702.8,
+            "text": " So 5 was 10"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 702.8,
+            "end": 704.8,
+            "text": " So 5 was 5"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 704.8,
+            "end": 706.8,
+            "text": " And you can write"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 706.8,
+            "end": 708.8,
+            "text": " Shri Ram Verma stores"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 710.8,
+            "end": 712.8,
+            "text": " And this is not a bill"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 712.8,
+            "end": 714.8,
+            "text": " Just for your customer"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 714.8,
+            "end": 716.8,
+            "text": " To see what is the cost"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 716.8,
+            "end": 718.8,
+            "text": " You can tear it apart"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 718.8,
+            "end": 720.8,
+            "text": " To see what is the cost"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 720.8,
+            "end": 722.8,
+            "text": " If you want to write an item"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 722.8,
+            "end": 724.8,
+            "text": " You will get some hectic"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 724.8,
+            "end": 726.8,
+            "text": " We will also make it"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 726.8,
+            "end": 728.8,
+            "text": " We can do it according to the code"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 728.8,
+            "end": 730.8,
+            "text": " Or we can do some look up"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 730.8,
+            "end": 732.8,
+            "text": " Shri Ram Verma stores"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 732.8,
+            "end": 734.8,
+            "text": " I have written"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 734.8,
+            "end": 736.8,
+            "text": " 5, 10, 15, 26"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 736.8,
+            "end": 738.8,
+            "text": " You have to print it like this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 738.8,
+            "end": 740.8,
+            "text": " I will give you the code"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 740.8,
+            "end": 742.8,
+            "text": " I will give you the code"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 742.8,
+            "end": 744.8,
+            "text": " There is nothing much in the code"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 744.8,
+            "end": 746.8,
+            "text": " But I will give you the link in the description"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 746.8,
+            "end": 748.8,
+            "text": " For now"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 748.8,
+            "end": 750.8,
+            "text": " That is all for this video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 750.8,
+            "end": 752.8,
+            "text": " Do tell me how you felt"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 752.8,
+            "end": 754.8,
+            "text": " How you felt"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 754.8,
+            "end": 756.8,
+            "text": " Are you with me in this"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 756.8,
+            "end": 758.8,
+            "text": " Will we put it in front of the big ones"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 758.8,
+            "end": 760.8,
+            "text": " So that you can practice"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 760.8,
+            "end": 762.8,
+            "text": " For 100,000 videos"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 762.8,
+            "end": 764.8,
+            "text": " So that you can feel confident"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 764.8,
+            "end": 766.8,
+            "text": " If you can't practice"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 766.8,
+            "end": 768.8,
+            "text": " Then open the video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 768.8,
+            "end": 770.8,
+            "text": " And you will get a lot of help"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 770.8,
+            "end": 772.8,
+            "text": " So that is all for this video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 772.8,
+            "end": 774.8,
+            "text": " Thank you so much guys for watching this video"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 774.8,
+            "end": 776.8,
+            "text": " And I will see you next time"
+        },
+        {
+            "title": "How to Create An Indian Kirana Store Calculator",
+            "start": 788.8,
+            "end": 790.8,
+            "text": " Bye"
+        }
+    ],
+    "text": " Alright guys, I got a lot of requests for this video I made a video where we can practice So I have already made 103 videos in my Python basic course And I have made a lot of videos where you can practice and learn If you see the playlist there I have put the whole course in free And I have given all the exercises there I have given the solution of the exercise I have given shout out to you I have done everything and I have been seeing it with a lot of pressure But even then some people wanted me to make some exercises separately Where we can talk about Python Some people like to talk and I appreciate it a lot I mean I go somewhere and catch someone And that program is there but there is no interest in programming So I talk to them I have done this, I have done that, I am doing this, I am doing that How many users can come if you use SQLite database If there are no things in Python They get bored Now what is there, if people want to talk like this I feel very good, I am just telling you What will I do here? I will go to my PyCharm and make a new project And I will keep the name Practice Python And this Practice Python will remain a new series here And it will continue to run And I will continue to give the Python programs to everyone So I will make a simple program here I will gradually increase the difficulty level There are a lot of people They say, bring something like this in practice And in a slow pace, read it slowly So okay, I have my coffee in front of me So I drink coffee I will practice Python very easily And what do I use in my workflow What do I recommend I will try to cover all those things here So this tea is kept down here Coffee And I don't know why I don't even say coffee Anyways, I will write here Practice Python Practice Python Start from number 1, start from 0 Okay Now here I want to give you this problem in practice Python 1 And I want you to post the problem there In the comment section below Write the first comment, accept it and then solve it Okay And then see what is the solution Now listen to the problem here The problem is that you are a shopkeeper Look, I will try to make things practical Because if I make things practical, then you will understand This is a good problem So how to solve it If I say, take it out Take out the derivative Integration What is the use of it If you understand the use, you will be able to do it very well So let me keep the coffee here and give you the problem You are a shopkeeper What you have to do is make a program That you write the price of items Price price price price price price It is a calculator, basically simple And then finally, as soon as you press enter What will happen Your display will be total Or something like this You have to make it a utility Basically, to sum up the numbers in Python Till when to sum up Until the press of enter is not done Okay So how will we make it Post it, comment below, like the video You will see a little You are a person who is watching the video Give me a little response If you have a response, I will feel very good I will also see that there is someone who is appreciating all these things Which I am bringing with me from the initiatives courses Okay, I will drink tea You post it and comment below So the coffee is very hot But still it is good What I will do is I will write a simple problem statement Till you write it below the challenge except here And you solve it So I will say that keep adding a One minute, write up Python program I will write the problem statement well I will write you here Write up Python program Which will keep adding A stream of numbers Input it by the user The adding stops as soon as user presses quit Or Q Q key on the keyboard Fair enough Okay, now you guys start here After that I will tell you how to solve it It is very simple I am starting with simple Otherwise if I will take a big problem Then how did you guys start I have just started the basic Python course And if you guys have not done this course Then do this course And if you want to continue this course Then you can come here You can come here and learn Okay So what is the strategy here First of all, how to add the number In Python, you can add two numbers Simply You can do it by putting plus Now I will write the first one here I know that my infinite while loop is going to run Okay I wrote the while loop here I will write input is equal to I will write the number is equal to Input Enter your Enter the price Because we are in a shop Enter the price So tell me in the comments below How did you guys feel about the video I want the full feedback on the series And as I am telling you While drinking coffee How did you feel about me Okay Number is equal to Try to solve it with ease Try to listen to it Try to slowly absorb the information Which I am giving you Absorb Absorb Here I have written the number is equal to Input enter the price Along with that, I will tell you one thing In every video, there will be some knowledge Okay So here what is here If I add this number to any number Then I will get an error So I will do one thing First of all, I will make the sum equal to zero Okay, number is equal to I will have to cast it in the integer Because whatever the user takes input Input function is taken as string I will repeat Whatever I have selected Will come in a string form So I will put it in int As soon as I put it in int This number will be converted into integer And after that I will do Sum is equal to sum plus number Okay Now my sum has been updated Okay And I will do sum is equal to sum plus number I will do this If number I will not do int of input I will see that first If someone has not quit If I cast it in int Then I will get an error This is not integer So I will have to see that too So I will write here And I will not write the number I will write user input I will write here If user input Not equals to If the user has not pressed the key Then what should I do Then here Sum is equal to Else Else what should I do Else I will write here Else What should I do here Write sum I will wrap up here after that If someone has pressed the key Then I will wrap up Then why I will add So I will add user input I will do int of user input I have not cast it in integer Okay and I will simply do it After that I will write else If someone has pressed the key I will do one thing I will give one message Thanks for using Our calculator Thank you very much for using our calculator Thank you very much for using our calculator If you call customers like this Then they say the same So basically I have done the same Now what is here Thanks for using our calculator I will run it like this I will have to break it Else this will keep on running I will run it and see If it is running right I am telling you once If you are running Then I will run it perfectly Else you will not be connected With any remote database Else all those things will remain Exceptions but when you write a basic program Then you can test it easily I have written 7 Enter the price I have written 5 Then I have written 1 Then I have done Q I have done some trouble I have not done any trouble I will use your build total I will use f string Let's leave it for another video Your build total I will use it here I have already told you that if you don't know f string Then write f here and you can Put variables like this I will write sum here And after this I will write Thanks for using our calculator Thanks for using our calculator Thanks for using our calculator Thanks for Shopping with us I will write like this and remove it And along with that What I will do here Like this sum will come Your order total so far I will print it here I will put an f string Order total so far And after that I will write sum here That is it And enter the price Order total so far is 34 I have written 5 I have written 39 I have written 7 So I have used it on the shop If you know someone who runs a shop You can do this Build total 150 Now I will do one more improvement What will I do in the improvement I had thought I will forget I have written enter the price Enter the item price Enter the price And press Q to quit Ok Here I will write like this Item and press Q to quit I had bought 5 rupees I had bought 10 rupees milk packet I had bought 5 rupees egg And along with that I had bought 26 rupees bread And after that why I did it Build total is 46 Take 46 rupees from the customer Give it all Ok Now here we can do more things By naming the item Or we can generate bills Sometimes you go to a local shop So it only writes the number It says you will get a dredel Means they don't make bills Take a small piece of paper And write on it They will hold you See what is the price To print a summary You can push these items in the list And finally you can write in a file And in that We can put a hook That we can print it From a receipt printer You must have heard about receipt printer If you haven't heard it, then search on Flipkart What is receipt printer I will write Receipt printer This is a very amazing thing Receipt printer is cheap And you can generate bills In the coming videos If I get time, I will tell you How to do this in practice fight and make But I have a quiz for you Like this video Write in the comments below I should know who is with us Who is with me in this series And who is not Now those who are serious Those who want to interact Who like to give me knowledge And who like to take my knowledge I also take knowledge from you You must have thought that this is one sided I also learn new things daily And I feel that I am sharing I share that with you What you have to do is generate a bill In this case This series of events We should do something like this So something like this Then 2 10 I don't know how many And what I had 4 26 So 5 was 10 So 5 was 5 And you can write Shri Ram Verma stores And this is not a bill Just for your customer To see what is the cost You can tear it apart To see what is the cost If you want to write an item You will get some hectic We will also make it We can do it according to the code Or we can do some look up Shri Ram Verma stores I have written 5, 10, 15, 26 You have to print it like this I will give you the code I will give you the code There is nothing much in the code But I will give you the link in the description For now That is all for this video Do tell me how you felt How you felt Are you with me in this Will we put it in front of the big ones So that you can practice For 100,000 videos So that you can feel confident If you can't practice Then open the video And you will get a lot of help So that is all for this video Thank you so much guys for watching this video And I will see you next time Bye"
+}

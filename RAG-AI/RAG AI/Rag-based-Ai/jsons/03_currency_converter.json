@@ -1,0 +1,1403 @@
+{
+    "chunks": [
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 0.0,
+            "end": 5.0,
+            "text": " What is up, I will show you a currency converter in this video"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 5.0,
+            "end": 9.0,
+            "text": " First I will give you a problem and then you will solve it yourself"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 9.0,
+            "end": 13.0,
+            "text": " After that I will tell you how to solve it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 13.0,
+            "end": 18.0,
+            "text": " Now I will open my project and I will sing a song"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 18.0,
+            "end": 22.0,
+            "text": " It is open now, you have to listen to my song"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 22.0,
+            "end": 27.0,
+            "text": " Now I will write a new and send a python file"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 27.0,
+            "end": 32.0,
+            "text": " I will write practice python and after writing practice python"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 32.0,
+            "end": 37.0,
+            "text": " I will write dash and currency converter"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 37.0,
+            "end": 42.0,
+            "text": " So I have a website in currency converter"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 42.0,
+            "end": 49.0,
+            "text": " I will tell you how to convert Indian rupee in any currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 49.0,
+            "end": 61.0,
+            "text": " So basically we will get data from here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 61.0,
+            "end": 65.0,
+            "text": " I got a very good website, I will copy it from here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 65.0,
+            "end": 70.0,
+            "text": " I have selected control C and will also add its link"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 70.0,
+            "end": 73.0,
+            "text": " I will add it in the program so that you can get it from there"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 73.0,
+            "end": 78.0,
+            "text": " I have pasted it here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 78.0,
+            "end": 82.0,
+            "text": " Now there are three values here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 82.0,
+            "end": 88.0,
+            "text": " One is fake space and one is tab"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 88.0,
+            "end": 93.0,
+            "text": " I will do control F and one is edit"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 93.0,
+            "end": 96.0,
+            "text": " I am trying to do something like this"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 96.0,
+            "end": 103.0,
+            "text": " I will paste the tab that I have placed"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 103.0,
+            "end": 107.0,
+            "text": " I have not taken the tab"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 107.0,
+            "end": 111.0,
+            "text": " I will save it from control"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 111.0,
+            "end": 115.0,
+            "text": " I have copied it wrong"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 115.0,
+            "end": 119.0,
+            "text": " I will make a text file"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 119.0,
+            "end": 123.0,
+            "text": " I will make currency data.txt"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 123.0,
+            "end": 127.0,
+            "text": " I will add all the data in it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 127.0,
+            "end": 132.0,
+            "text": " After adding all the data I will read it from python"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 132.0,
+            "end": 136.0,
+            "text": " There is a tab here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 136.0,
+            "end": 140.0,
+            "text": " I will write a program here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 140.0,
+            "end": 144.0,
+            "text": " I will open this file"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 144.0,
+            "end": 148.0,
+            "text": " I will open with open and this is my file"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 148.0,
+            "end": 152.0,
+            "text": " currency data.txt as F"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 152.0,
+            "end": 156.0,
+            "text": " I told you in my python course that it is in default mode"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 156.0,
+            "end": 159.0,
+            "text": " So you don't need to mention it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 159.0,
+            "end": 163.0,
+            "text": " I will write A is equal to F dot"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 163.0,
+            "end": 167.0,
+            "text": " I will read all the lines"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 167.0,
+            "end": 171.0,
+            "text": " I will write print A"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 171.0,
+            "end": 175.0,
+            "text": " I will do this much"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 175.0,
+            "end": 179.0,
+            "text": " I should take a small step"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 179.0,
+            "end": 183.0,
+            "text": " I am solving this problem"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 183.0,
+            "end": 187.0,
+            "text": " What we have to do is"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 187.0,
+            "end": 191.0,
+            "text": " I will write a program that I will add value"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 191.0,
+            "end": 195.0,
+            "text": " I will tell you how much is equal to what"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 195.0,
+            "end": 199.0,
+            "text": " I will make a currency conversion app"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 199.0,
+            "end": 203.0,
+            "text": " You can try it and tell me in the comment"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 203.0,
+            "end": 207.0,
+            "text": " I will tell you that you are doing something"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 207.0,
+            "end": 211.0,
+            "text": " If you have done something good then you can do it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 211.0,
+            "end": 215.0,
+            "text": " I will write F for line"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 215.0,
+            "end": 219.0,
+            "text": " I will tell you the name of the variable"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 219.0,
+            "end": 223.0,
+            "text": " I will try to pass one line"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 223.0,
+            "end": 227.0,
+            "text": " I will think only about one line"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 227.0,
+            "end": 231.0,
+            "text": " If I take this much data"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 231.0,
+            "end": 235.0,
+            "text": " I will make a dictionary"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 235.0,
+            "end": 239.0,
+            "text": " I will write Argentine money"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 239.0,
+            "end": 243.0,
+            "text": " I will ignore the number 30"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 243.0,
+            "end": 247.0,
+            "text": " I will not store the redundant data"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 247.0,
+            "end": 251.0,
+            "text": " I will write line dot split"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 251.0,
+            "end": 255.0,
+            "text": " What does split do?"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 255.0,
+            "end": 259.0,
+            "text": " It splits"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 259.0,
+            "end": 263.0,
+            "text": " I will write"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 263.0,
+            "end": 267.0,
+            "text": " Our currency is equal to"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 267.0,
+            "end": 271.0,
+            "text": " I will write parsed"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 271.0,
+            "end": 275.0,
+            "text": " I will print it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 275.0,
+            "end": 279.0,
+            "text": " I can do it directly"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 279.0,
+            "end": 283.0,
+            "text": " But I will tell you how it is done"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 283.0,
+            "end": 287.0,
+            "text": " I have one and one"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 287.0,
+            "end": 291.0,
+            "text": " I will write parsed 0"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 291.0,
+            "end": 295.0,
+            "text": " I will write the currency name"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 295.0,
+            "end": 299.0,
+            "text": " I will write the currency value"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 299.0,
+            "end": 303.0,
+            "text": " I will write the currency dict"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 303.0,
+            "end": 307.0,
+            "text": " I will make it empty"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 307.0,
+            "end": 311.0,
+            "text": " I will tell you the currency dict"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 311.0,
+            "end": 315.0,
+            "text": " Set the past 0"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 315.0,
+            "end": 319.0,
+            "text": " Set the past 1"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 319.0,
+            "end": 323.0,
+            "text": " I will print it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 323.0,
+            "end": 327.0,
+            "text": " If I pass it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 327.0,
+            "end": 331.0,
+            "text": " I will write the currency dict"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 331.0,
+            "end": 335.0,
+            "text": " I have not put anything else"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 335.0,
+            "end": 339.0,
+            "text": " I have made a dictionary"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 339.0,
+            "end": 343.0,
+            "text": " Argentine money"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 343.0,
+            "end": 347.0,
+            "text": " I have passed the data"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 347.0,
+            "end": 351.0,
+            "text": " I have taken the data"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 351.0,
+            "end": 355.0,
+            "text": " I will play with the currency dictionary"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 355.0,
+            "end": 359.0,
+            "text": " I have printed the currency dict"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 359.0,
+            "end": 363.0,
+            "text": " I will write it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 363.0,
+            "end": 367.0,
+            "text": " I will tell you which currency you want to convert"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 367.0,
+            "end": 371.0,
+            "text": " I will tell you"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 371.0,
+            "end": 375.0,
+            "text": " I will tell you which of"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 375.0,
+            "end": 379.0,
+            "text": " I will print it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 379.0,
+            "end": 383.0,
+            "text": " Enter the name of currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 383.0,
+            "end": 387.0,
+            "text": " You want to convert"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 387.0,
+            "end": 391.0,
+            "text": " This amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 391.0,
+            "end": 395.0,
+            "text": " I will ask you how much amount I will enter"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 395.0,
+            "end": 399.0,
+            "text": " I will write amount is equal to"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 399.0,
+            "end": 403.0,
+            "text": " Enter amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 403.0,
+            "end": 407.0,
+            "text": " I am assuming that everything will go right"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 407.0,
+            "end": 411.0,
+            "text": " The user will input the amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 411.0,
+            "end": 415.0,
+            "text": " I am assuming that everything is right"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 415.0,
+            "end": 419.0,
+            "text": " Enter the name of currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 419.0,
+            "end": 423.0,
+            "text": " I will write"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 423.0,
+            "end": 427.0,
+            "text": " Available"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 427.0,
+            "end": 431.0,
+            "text": " Available options"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 431.0,
+            "end": 435.0,
+            "text": " I will print the keys of our dictionary"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 435.0,
+            "end": 439.0,
+            "text": " I will print all keys"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 439.0,
+            "end": 443.0,
+            "text": " I will show you how much amount I will print"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 443.0,
+            "end": 447.0,
+            "text": " I will remove the amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 447.0,
+            "end": 451.0,
+            "text": " I will rerun the currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 451.0,
+            "end": 455.0,
+            "text": " I am asking for the amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 455.0,
+            "end": 459.0,
+            "text": " Enter the name of currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 459.0,
+            "end": 463.0,
+            "text": " I did not see the available options"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 463.0,
+            "end": 467.0,
+            "text": " I will remove the name of currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 467.0,
+            "end": 471.0,
+            "text": " I will remove the name of currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 471.0,
+            "end": 475.0,
+            "text": " I will write a new print statement"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 475.0,
+            "end": 479.0,
+            "text": " I will write a list"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 479.0,
+            "end": 483.0,
+            "text": " I will write a list"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 483.0,
+            "end": 487.0,
+            "text": " Print item"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 487.0,
+            "end": 491.0,
+            "text": " I will write the number of keys"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 491.0,
+            "end": 495.0,
+            "text": " I will write the number of keys"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 495.0,
+            "end": 499.0,
+            "text": " I will not print the value"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 499.0,
+            "end": 503.0,
+            "text": " I am printing the value already"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 503.0,
+            "end": 507.0,
+            "text": " I will write the number of keys"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 507.0,
+            "end": 511.0,
+            "text": " I will write the number of keys"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 511.0,
+            "end": 515.0,
+            "text": " I will write the currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 515.0,
+            "end": 519.0,
+            "text": " I will write the currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 519.0,
+            "end": 523.0,
+            "text": " Please enter one of these values"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 523.0,
+            "end": 527.0,
+            "text": " Please enter one of these values"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 527.0,
+            "end": 531.0,
+            "text": " Now copy you and paste that value"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 531.0,
+            "end": 535.0,
+            "text": " After that you will be able to get the value"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 535.0,
+            "end": 539.0,
+            "text": " I will write the serial number"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 539.0,
+            "end": 543.0,
+            "text": " I will write the scriptures"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 543.0,
+            "end": 547.0,
+            "text": " Don't worry"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 547.0,
+            "end": 552.0,
+            "text": " and then currency"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 552.0,
+            "end": 557.0,
+            "text": " how much currency?"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " how much currency will be?"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 559.0,
+            "end": 562.0,
+            "text": " I will take exchange rate from my dictionary"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 562.0,
+            "end": 567.0,
+            "text": " so I will take exchange rate of currency from my dictionary"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 567.0,
+            "end": 572.0,
+            "text": " and I will multiply it with amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 572.0,
+            "end": 576.0,
+            "text": " and this is the work"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 576.0,
+            "end": 578.0,
+            "text": " let me run this"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 578.0,
+            "end": 580.0,
+            "text": " enter amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 580.0,
+            "end": 583.0,
+            "text": " I will take 180 rupees"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 583.0,
+            "end": 586.0,
+            "text": " and then enter one of these values"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 586.0,
+            "end": 589.0,
+            "text": " so I want to convert it to 180 rupees"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 589.0,
+            "end": 591.0,
+            "text": " in Nepalese"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 591.0,
+            "end": 594.0,
+            "text": " so I will copy it and paste it here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 594.0,
+            "end": 595.0,
+            "text": " enter"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 595.0,
+            "end": 603.0,
+            "text": " so it says 180 inar is equal to 1.67001"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 603.0,
+            "end": 605.0,
+            "text": " so why is this happening?"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 605.0,
+            "end": 608.0,
+            "text": " so here I should have typed it in integer"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 608.0,
+            "end": 611.0,
+            "text": " I didn't do that so I will type it in integer"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 611.0,
+            "end": 613.0,
+            "text": " and I will run it again"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 613.0,
+            "end": 615.0,
+            "text": " and I want to fix one more thing here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 615.0,
+            "end": 617.0,
+            "text": " I have not given backslash here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 617.0,
+            "end": 621.0,
+            "text": " so I will run it again"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 621.0,
+            "end": 627.0,
+            "text": " so I will take 180 rupees and then I will put Singapore dollars"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 627.0,
+            "end": 630.0,
+            "text": " and Singapore dollars is very expensive"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 630.0,
+            "end": 632.0,
+            "text": " when I was there, the weather was very bad"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " I was eating anything"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 634.0,
+            "end": 637.0,
+            "text": " so I am saying that amount and interest is equal to amount"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 637.0,
+            "end": 638.0,
+            "text": " multiply with this"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 638.0,
+            "end": 641.0,
+            "text": " so it says in value letter foreign base 10"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 641.0,
+            "end": 643.0,
+            "text": " so it says in integer"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " so obviously I will do it in float"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 645.0,
+            "end": 647.0,
+            "text": " so what I did?"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 647.0,
+            "end": 649.0,
+            "text": " I should have converted it to float"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 649.0,
+            "end": 651.0,
+            "text": " I am making this mistake"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 651.0,
+            "end": 652.0,
+            "text": " no problem"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " I want to show you that"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 654.0,
+            "end": 655.0,
+            "text": " I also make mistakes"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 655.0,
+            "end": 656.0,
+            "text": " people think I do it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 656.0,
+            "end": 660.0,
+            "text": " so if you put 180 rupees then you will get 3.44 Singapore dollars"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 660.0,
+            "end": 662.0,
+            "text": " so I hope you liked the program"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 662.0,
+            "end": 664.0,
+            "text": " you got to learn something new"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 664.0,
+            "end": 667.0,
+            "text": " and you will know what is the use of python"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 667.0,
+            "end": 669.0,
+            "text": " so there are such uses of python"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 669.0,
+            "end": 671.0,
+            "text": " so comment below and tell me"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 671.0,
+            "end": 674.0,
+            "text": " if you want to write a specific program here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 674.0,
+            "end": 676.0,
+            "text": " and I will give it a little bit"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 676.0,
+            "end": 679.0,
+            "text": " sound currency gun water"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 679.0,
+            "end": 681.0,
+            "text": " and if you have any program"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 681.0,
+            "end": 682.0,
+            "text": " then tell me"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 682.0,
+            "end": 684.0,
+            "text": " that you should make this"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 684.0,
+            "end": 686.0,
+            "text": " I will make this program"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 686.0,
+            "end": 689.0,
+            "text": " I will try not to disappoint you"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 689.0,
+            "end": 693.0,
+            "text": " but sometimes it is difficult to entertain everyone's request"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 693.0,
+            "end": 695.0,
+            "text": " but whatever I think is important"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 695.0,
+            "end": 697.0,
+            "text": " I will make it and put it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 697.0,
+            "end": 699.0,
+            "text": " at least this is done"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 699.0,
+            "end": 702.0,
+            "text": " as my python course was delayed a lot"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 702.0,
+            "end": 704.0,
+            "text": " so I made it and put it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 704.0,
+            "end": 706.0,
+            "text": " 103 videos"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 706.0,
+            "end": 708.0,
+            "text": " and if you don't watch this"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 708.0,
+            "end": 710.0,
+            "text": " then you will miss a lot"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 710.0,
+            "end": 712.0,
+            "text": " all these things that I have worked so hard"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 712.0,
+            "end": 714.0,
+            "text": " made it and made it free"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 714.0,
+            "end": 716.0,
+            "text": " you didn't"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 716.0,
+            "end": 719.0,
+            "text": " see 73,229 people have done it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 719.0,
+            "end": 721.0,
+            "text": " and I want from my heart"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 721.0,
+            "end": 722.0,
+            "text": " why are you saying this"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 722.0,
+            "end": 723.0,
+            "text": " because do it do it do it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 723.0,
+            "end": 725.0,
+            "text": " because friends I want from my heart"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 725.0,
+            "end": 726.0,
+            "text": " that you do this course"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 726.0,
+            "end": 728.0,
+            "text": " because I have worked hard in it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 728.0,
+            "end": 730.0,
+            "text": " I want you to learn from it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 730.0,
+            "end": 733.0,
+            "text": " and wherever there are many questions here"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 733.0,
+            "end": 735.0,
+            "text": " I don't want to take any name"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 735.0,
+            "end": 737.0,
+            "text": " but I don't teach anything for 1-2 lakh rupees"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 737.0,
+            "end": 739.0,
+            "text": " and 100-200 people are given a seat"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 739.0,
+            "end": 742.0,
+            "text": " in a class and the course is finished"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 742.0,
+            "end": 744.0,
+            "text": " and the money is taken from you"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 744.0,
+            "end": 746.0,
+            "text": " but that time has gone"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 746.0,
+            "end": 748.0,
+            "text": " YouTube has come, Harry has come"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 748.0,
+            "end": 750.0,
+            "text": " you should not have any excuse"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 750.0,
+            "end": 751.0,
+            "text": " basically"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 751.0,
+            "end": 753.0,
+            "text": " so do open 2-3 videos"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 753.0,
+            "end": 755.0,
+            "text": " do not watch anything"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 755.0,
+            "end": 758.0,
+            "text": " and I have made a whole pathway"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 758.0,
+            "end": 762.0,
+            "text": " learning how to learn"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 762.0,
+            "end": 765.0,
+            "text": " I have put everything along with learning path"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 765.0,
+            "end": 767.0,
+            "text": " and in the end of these videos"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 767.0,
+            "end": 768.0,
+            "text": " there is also learning path"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 768.0,
+            "end": 769.0,
+            "text": " of web development"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 769.0,
+            "end": 770.0,
+            "text": " of G.O.I development"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 770.0,
+            "end": 771.0,
+            "text": " of machine learning"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 771.0,
+            "end": 772.0,
+            "text": " if you want to learn machine learning"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 772.0,
+            "end": 774.0,
+            "text": " then there are videos of pi game"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 774.0,
+            "end": 776.0,
+            "text": " and I have also made general discussion"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 776.0,
+            "end": 778.0,
+            "text": " so do not miss these videos"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 778.0,
+            "end": 780.0,
+            "text": " and do like it"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 780.0,
+            "end": 782.0,
+            "text": " that's all for now"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 782.0,
+            "end": 784.0,
+            "text": " thank you so much guys for watching this video"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 784.0,
+            "end": 786.0,
+            "text": " and I will see you next time"
+        },
+        {
+            "title": "How To Create A Currency Converter",
+            "start": 792.0,
+            "end": 800.0,
+            "text": " subscribe to our channel"
+        }
+    ],
+    "text": " What is up, I will show you a currency converter in this video First I will give you a problem and then you will solve it yourself After that I will tell you how to solve it Now I will open my project and I will sing a song It is open now, you have to listen to my song Now I will write a new and send a python file I will write practice python and after writing practice python I will write dash and currency converter So I have a website in currency converter I will tell you how to convert Indian rupee in any currency So basically we will get data from here I got a very good website, I will copy it from here I have selected control C and will also add its link I will add it in the program so that you can get it from there I have pasted it here Now there are three values here One is fake space and one is tab I will do control F and one is edit I am trying to do something like this I will paste the tab that I have placed I have not taken the tab I will save it from control I have copied it wrong I will make a text file I will make currency data.txt I will add all the data in it After adding all the data I will read it from python There is a tab here I will write a program here I will open this file I will open with open and this is my file currency data.txt as F I told you in my python course that it is in default mode So you don't need to mention it I will write A is equal to F dot I will read all the lines I will write print A I will do this much I should take a small step I am solving this problem What we have to do is I will write a program that I will add value I will tell you how much is equal to what I will make a currency conversion app You can try it and tell me in the comment I will tell you that you are doing something If you have done something good then you can do it I will write F for line I will tell you the name of the variable I will try to pass one line I will think only about one line If I take this much data I will make a dictionary I will write Argentine money I will ignore the number 30 I will not store the redundant data I will write line dot split What does split do? It splits I will write Our currency is equal to I will write parsed I will print it I can do it directly But I will tell you how it is done I have one and one I will write parsed 0 I will write the currency name I will write the currency value I will write the currency dict I will make it empty I will tell you the currency dict Set the past 0 Set the past 1 I will print it If I pass it I will write the currency dict I have not put anything else I have made a dictionary Argentine money I have passed the data I have taken the data I will play with the currency dictionary I have printed the currency dict I will write it I will tell you which currency you want to convert I will tell you I will tell you which of I will print it Enter the name of currency You want to convert This amount I will ask you how much amount I will enter I will write amount is equal to Enter amount I am assuming that everything will go right The user will input the amount I am assuming that everything is right Enter the name of currency I will write Available Available options I will print the keys of our dictionary I will print all keys I will show you how much amount I will print I will remove the amount I will rerun the currency I am asking for the amount Enter the name of currency I did not see the available options I will remove the name of currency I will remove the name of currency I will write a new print statement I will write a list I will write a list Print item I will write the number of keys I will write the number of keys I will not print the value I am printing the value already I will write the number of keys I will write the number of keys I will write the currency I will write the currency Please enter one of these values Please enter one of these values Now copy you and paste that value After that you will be able to get the value I will write the serial number I will write the scriptures Don't worry and then currency how much currency? how much currency will be? I will take exchange rate from my dictionary so I will take exchange rate of currency from my dictionary and I will multiply it with amount and this is the work let me run this enter amount I will take 180 rupees and then enter one of these values so I want to convert it to 180 rupees in Nepalese so I will copy it and paste it here enter so it says 180 inar is equal to 1.67001 so why is this happening? so here I should have typed it in integer I didn't do that so I will type it in integer and I will run it again and I want to fix one more thing here I have not given backslash here so I will run it again so I will take 180 rupees and then I will put Singapore dollars and Singapore dollars is very expensive when I was there, the weather was very bad I was eating anything so I am saying that amount and interest is equal to amount multiply with this so it says in value letter foreign base 10 so it says in integer so obviously I will do it in float so what I did? I should have converted it to float I am making this mistake no problem I want to show you that I also make mistakes people think I do it so if you put 180 rupees then you will get 3.44 Singapore dollars so I hope you liked the program you got to learn something new and you will know what is the use of python so there are such uses of python so comment below and tell me if you want to write a specific program here and I will give it a little bit sound currency gun water and if you have any program then tell me that you should make this I will make this program I will try not to disappoint you but sometimes it is difficult to entertain everyone's request but whatever I think is important I will make it and put it at least this is done as my python course was delayed a lot so I made it and put it 103 videos and if you don't watch this then you will miss a lot all these things that I have worked so hard made it and made it free you didn't see 73,229 people have done it and I want from my heart why are you saying this because do it do it do it because friends I want from my heart that you do this course because I have worked hard in it I want you to learn from it and wherever there are many questions here I don't want to take any name but I don't teach anything for 1-2 lakh rupees and 100-200 people are given a seat in a class and the course is finished and the money is taken from you but that time has gone YouTube has come, Harry has come you should not have any excuse basically so do open 2-3 videos do not watch anything and I have made a whole pathway learning how to learn I have put everything along with learning path and in the end of these videos there is also learning path of web development of G.O.I development of machine learning if you want to learn machine learning then there are videos of pi game and I have also made general discussion so do not miss these videos and do like it that's all for now thank you so much guys for watching this video and I will see you next time subscribe to our channel"
+}

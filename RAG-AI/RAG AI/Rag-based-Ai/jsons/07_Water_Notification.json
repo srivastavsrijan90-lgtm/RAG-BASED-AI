@@ -1,0 +1,1523 @@
+{
+    "chunks": [
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 0.0,
+            "end": 8.0,
+            "text": " In this video we will talk about how to make desktop notification system with the help of python"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 8.0,
+            "end": 14.0,
+            "text": " and in that we will talk about a very specific case which is very important for our health"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 14.0,
+            "end": 18.0,
+            "text": " and that is whether you are drinking water or not"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 18.0,
+            "end": 24.0,
+            "text": " so here if I write human body water requirement"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 24.0,
+            "end": 29.0,
+            "text": " ok per day if I write per day here you can see"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 29.0,
+            "end": 37.0,
+            "text": " 3.7 liters of fluid for men and 11.5 cups 2.7 liters of fluid a day for women"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 37.0,
+            "end": 43.0,
+            "text": " ok if you are not drinking this much water then you will understand that it is a problem"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 43.0,
+            "end": 49.0,
+            "text": " ok so what we have to do is that this water has to be applied as a reminder to drink"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 49.0,
+            "end": 55.0,
+            "text": " so for this I am going to use a player which we will use for notifications"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 55.0,
+            "end": 60.0,
+            "text": " if you have not seen notifications in windows then I will show you"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 60.0,
+            "end": 65.0,
+            "text": " but all of you must have seen the notifications of windows"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 65.0,
+            "end": 70.0,
+            "text": " because I want to show you the playlist in which I am going to add this video"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 70.0,
+            "end": 76.0,
+            "text": " and if you want to see more practice programs then add this playlist"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 76.0,
+            "end": 81.0,
+            "text": " and this is my separate playlist from python course"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 81.0,
+            "end": 85.0,
+            "text": " I have only focused on fundamentals and projects in python course"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 85.0,
+            "end": 90.0,
+            "text": " here we will do such projects like python practice mini projects"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 90.0,
+            "end": 94.0,
+            "text": " so you must access this playlist ok"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 94.0,
+            "end": 99.0,
+            "text": " so let's move ahead and quickly open your folder in visual studio code"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 99.0,
+            "end": 103.0,
+            "text": " I would like to say something here first let's open visual studio code"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 103.0,
+            "end": 106.0,
+            "text": " and the thing is that many people say use the item"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 106.0,
+            "end": 109.0,
+            "text": " many people say use the sublime text"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 109.0,
+            "end": 113.0,
+            "text": " many people say notepad plus plus but again I want to tell you one thing"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 113.0,
+            "end": 116.0,
+            "text": " source code editor does not matter"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 116.0,
+            "end": 119.0,
+            "text": " you can use any source code editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 119.0,
+            "end": 122.0,
+            "text": " many people use sublime text editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " I will use visual studio code"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 125.0,
+            "end": 130.0,
+            "text": " if I am using visual studio code then if I do something like I am doing control decker"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 130.0,
+            "end": 134.0,
+            "text": " I have made a video of my visual studio code"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 134.0,
+            "end": 140.0,
+            "text": " I am doing any work in my text editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 140.0,
+            "end": 144.0,
+            "text": " so you should know about your text editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 144.0,
+            "end": 148.0,
+            "text": " the point is you should know about any text editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 148.0,
+            "end": 152.0,
+            "text": " or if you are using my text editor then what you have to do"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 152.0,
+            "end": 157.0,
+            "text": " you will have to see my videos which I have made on this specific text editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 157.0,
+            "end": 160.0,
+            "text": " and I have designed this text editor"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 160.0,
+            "end": 163.0,
+            "text": " and explained how you can do it"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 163.0,
+            "end": 166.0,
+            "text": " let's move to the point now we are making a practice program"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 166.0,
+            "end": 169.0,
+            "text": " so let's focus on the practice program"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 169.0,
+            "end": 173.0,
+            "text": " and that is our practice program drinking water notification"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 173.0,
+            "end": 176.0,
+            "text": " system which keeps us notified"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 176.0,
+            "end": 180.0,
+            "text": " every hour that we have to drink water"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 180.0,
+            "end": 184.0,
+            "text": " so what I will do here is I will write"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 184.0,
+            "end": 188.0,
+            "text": " import and time"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 188.0,
+            "end": 192.0,
+            "text": " time is very important"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 192.0,
+            "end": 196.0,
+            "text": " time is important"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 196.0,
+            "end": 200.0,
+            "text": " because we will know how much time has passed"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 200.0,
+            "end": 204.0,
+            "text": " and we will invoke the program"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 204.0,
+            "end": 207.0,
+            "text": " as per the notification"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 207.0,
+            "end": 211.0,
+            "text": " ideally we will schedule this Python program"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 211.0,
+            "end": 215.0,
+            "text": " so if you don't know about schedule in windows"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 215.0,
+            "end": 219.0,
+            "text": " then you can open this task schedule"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 219.0,
+            "end": 223.0,
+            "text": " and you can see many things"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 223.0,
+            "end": 227.0,
+            "text": " and this is a very easy discussion"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 227.0,
+            "end": 230.0,
+            "text": " schedule task"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 230.0,
+            "end": 233.0,
+            "text": " you can schedule a task"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 233.0,
+            "end": 237.0,
+            "text": " and it can be done every hour"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 237.0,
+            "end": 241.0,
+            "text": " so here I have made the import time"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 241.0,
+            "end": 245.0,
+            "text": " now I will write the name equals to equals to main"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 245.0,
+            "end": 249.0,
+            "text": " as I have told in my Python course"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 249.0,
+            "end": 253.0,
+            "text": " so the usage I have told you that if you import"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 253.0,
+            "end": 257.0,
+            "text": " then this line doesn't run"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 257.0,
+            "end": 261.0,
+            "text": " if you import this file from outside"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 261.0,
+            "end": 265.0,
+            "text": " so I will write here"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 265.0,
+            "end": 269.0,
+            "text": " and I will tell you the program"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 269.0,
+            "end": 273.0,
+            "text": " if you are going to schedule with windows schedule"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 273.0,
+            "end": 277.0,
+            "text": " then you have to do this"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 277.0,
+            "end": 281.0,
+            "text": " so in that case I don't need time module"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 281.0,
+            "end": 285.0,
+            "text": " I will write here from player"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 285.0,
+            "end": 289.0,
+            "text": " import notification"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 289.0,
+            "end": 293.0,
+            "text": " do you think this is player"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 293.0,
+            "end": 297.0,
+            "text": " install player"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 297.0,
+            "end": 301.0,
+            "text": " and after that I can use notification"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 301.0,
+            "end": 305.0,
+            "text": " now in notification there is a notify function"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 305.0,
+            "end": 309.0,
+            "text": " which I can use"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 309.0,
+            "end": 313.0,
+            "text": " and I will write notification.notify"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 313.0,
+            "end": 317.0,
+            "text": " and in this there will be a title"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 317.0,
+            "end": 321.0,
+            "text": " title will be my please drink water"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 321.0,
+            "end": 325.0,
+            "text": " after that"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 325.0,
+            "end": 329.0,
+            "text": " message will be mine"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 329.0,
+            "end": 333.0,
+            "text": " so I will keep the benefits of drinking water"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 333.0,
+            "end": 337.0,
+            "text": " so remind me that this is the thing"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 337.0,
+            "end": 341.0,
+            "text": " so I will drink water"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 341.0,
+            "end": 345.0,
+            "text": " and there is an app icon"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 345.0,
+            "end": 349.0,
+            "text": " which you can set"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 349.0,
+            "end": 353.0,
+            "text": " and if you want to make it better"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 353.0,
+            "end": 357.0,
+            "text": " then I will write glass icon"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 357.0,
+            "end": 361.0,
+            "text": " so I am taking the icon of glasses"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 361.0,
+            "end": 365.0,
+            "text": " I need that glass"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 365.0,
+            "end": 369.0,
+            "text": " so I will write here"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 369.0,
+            "end": 373.0,
+            "text": " so it's not here"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 373.0,
+            "end": 377.0,
+            "text": " I don't need magnifying glass"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 377.0,
+            "end": 381.0,
+            "text": " so I will write glass of water"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 381.0,
+            "end": 385.0,
+            "text": " glass of water icon"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 385.0,
+            "end": 389.0,
+            "text": " so here it is"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 389.0,
+            "end": 393.0,
+            "text": " I hope I will get something free"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 393.0,
+            "end": 397.0,
+            "text": " I am not in the mood to make some account"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 397.0,
+            "end": 401.0,
+            "text": " so I searched google and found it on iconarchive.com"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 401.0,
+            "end": 405.0,
+            "text": " I downloaded this ICO file"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 405.0,
+            "end": 409.0,
+            "text": " so I will put it in my folder"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 409.0,
+            "end": 413.0,
+            "text": " and I will put it in icon.ico"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 413.0,
+            "end": 417.0,
+            "text": " so I will show it in folder"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 417.0,
+            "end": 421.0,
+            "text": " so I have brought it here"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 421.0,
+            "end": 425.0,
+            "text": " and I will change it's name to icon.ico"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 425.0,
+            "end": 429.0,
+            "text": " and I will copy the full path from here"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 429.0,
+            "end": 433.0,
+            "text": " here is the path"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 433.0,
+            "end": 437.0,
+            "text": " so I will copy it"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 437.0,
+            "end": 441.0,
+            "text": " so I will put the path I have given"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 441.0,
+            "end": 445.0,
+            "text": " so I will copy it"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 445.0,
+            "end": 449.0,
+            "text": " so I have got the message"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 449.0,
+            "end": 453.0,
+            "text": " and after that I will come to the timeout"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 453.0,
+            "end": 457.0,
+            "text": " and I will run it"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 457.0,
+            "end": 461.0,
+            "text": " so I have run it"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 461.0,
+            "end": 465.0,
+            "text": " so if I run the timeout"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 465.0,
+            "end": 469.0,
+            "text": " then what will happen"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 469.0,
+            "end": 473.0,
+            "text": " it has come for 1 second and ran"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 473.0,
+            "end": 477.0,
+            "text": " so it will be fun here"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 477.0,
+            "end": 481.0,
+            "text": " so I will make it now"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 481.0,
+            "end": 485.0,
+            "text": " and I will do it"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 485.0,
+            "end": 489.0,
+            "text": " so it will be more fun"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 489.0,
+            "end": 492.0,
+            "text": " the National Academy of Science Engineering and all that."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 492.0,
+            "end": 495.0,
+            "text": " If you don't have any notification,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 495.0,
+            "end": 498.0,
+            "text": " but the issue is that you should drink water."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 498.0,
+            "end": 501.0,
+            "text": " Water is important. It will work."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 501.0,
+            "end": 504.0,
+            "text": " So, you can add a message to your account."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 504.0,
+            "end": 507.0,
+            "text": " And once this invokes,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 507.0,
+            "end": 508.0,
+            "text": " what will happen?"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 508.0,
+            "end": 511.0,
+            "text": " It will stay here for 10 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 511.0,
+            "end": 514.0,
+            "text": " You can keep it for 15-20 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 514.0,
+            "end": 518.0,
+            "text": " And I assume that you are the main.py file"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 518.0,
+            "end": 521.0,
+            "text": " and you will invoke it from the window scheduler."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 521.0,
+            "end": 524.0,
+            "text": " It is a task scheduler of our window."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 524.0,
+            "end": 528.0,
+            "text": " Now, I am not going to show windows talk scheduler here."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 528.0,
+            "end": 532.0,
+            "text": " But I will tell you another way to run it on loop."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 532.0,
+            "end": 535.0,
+            "text": " You can do it here while true."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 535.0,
+            "end": 539.0,
+            "text": " After doing it, what should I do?"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 539.0,
+            "end": 542.0,
+            "text": " Write here time.sleep"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 542.0,
+            "end": 545.0,
+            "text": " and the second you want to do every hour,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 545.0,
+            "end": 549.0,
+            "text": " you do it 60x60."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 549.0,
+            "end": 553.0,
+            "text": " And once you get notification,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 553.0,
+            "end": 556.0,
+            "text": " it will sleep for 36 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 556.0,
+            "end": 558.0,
+            "text": " It means for 1 hour."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 558.0,
+            "end": 562.0,
+            "text": " 60 seconds, that is 1 minute, 60 minutes, 1 hour."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 562.0,
+            "end": 564.0,
+            "text": " It will sleep for 1 hour."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 564.0,
+            "end": 567.0,
+            "text": " So, you will remember every hour that you want to drink water."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 567.0,
+            "end": 569.0,
+            "text": " So, as you are working on your computer,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 569.0,
+            "end": 572.0,
+            "text": " and nowadays, everyone is sitting on the computer for a long time."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 572.0,
+            "end": 576.0,
+            "text": " If you are sitting in front of your computer,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 576.0,
+            "end": 581.0,
+            "text": " then you should definitely leave this reminder app for drinking water."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 581.0,
+            "end": 584.0,
+            "text": " Now, look at my exit."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 584.0,
+            "end": 587.0,
+            "text": " If I exit, I will control it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 587.0,
+            "end": 590.0,
+            "text": " But it is still running."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 590.0,
+            "end": 594.0,
+            "text": " So, you can run it in the background."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 594.0,
+            "end": 599.0,
+            "text": " Now, you will ask me how to run the application in the background in Python."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 599.0,
+            "end": 602.0,
+            "text": " So, I will tell you this."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 602.0,
+            "end": 605.0,
+            "text": " And the answer is pythonw.exe."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 605.0,
+            "end": 607.0,
+            "text": " Like I have written here,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 607.0,
+            "end": 610.0,
+            "text": " pythonw.exe main.py."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 610.0,
+            "end": 612.0,
+            "text": " What should you do in your terminal?"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 612.0,
+            "end": 613.0,
+            "text": " Write it down."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 613.0,
+            "end": 615.0,
+            "text": " Pythonw.exe main.py."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 615.0,
+            "end": 617.0,
+            "text": " So, you start a terminal."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 617.0,
+            "end": 619.0,
+            "text": " And write here."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 619.0,
+            "end": 621.0,
+            "text": " Pythonw.exe."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 621.0,
+            "end": 624.0,
+            "text": " That is, if you write Pythonw,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 624.0,
+            "end": 626.0,
+            "text": " then it will be the main.py."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 626.0,
+            "end": 629.0,
+            "text": " This is my app in the background."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 629.0,
+            "end": 631.0,
+            "text": " Now, you will not see this."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 631.0,
+            "end": 634.0,
+            "text": " I will do a timeout for 2 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 634.0,
+            "end": 637.0,
+            "text": " And I will do this for 6 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 637.0,
+            "end": 639.0,
+            "text": " Then you will see this."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 639.0,
+            "end": 643.0,
+            "text": " But I have already run an app from Pythonw in the background."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " So, I will kill it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 645.0,
+            "end": 647.0,
+            "text": " It will be in the name of Python."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 647.0,
+            "end": 649.0,
+            "text": " Look, I have done the end task."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 649.0,
+            "end": 652.0,
+            "text": " And now, what I will do?"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " I will run it again."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 654.0,
+            "end": 656.0,
+            "text": " I have said to run in 6 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 656.0,
+            "end": 659.0,
+            "text": " And the notification will keep running for 6 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 659.0,
+            "end": 661.0,
+            "text": " And the timeout is 2 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 661.0,
+            "end": 664.0,
+            "text": " I will show you the notification for 2 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 664.0,
+            "end": 666.0,
+            "text": " So, look, I will keep coming in 6 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 666.0,
+            "end": 668.0,
+            "text": " Please drink water now."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 668.0,
+            "end": 670.0,
+            "text": " You just wait for 6 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 670.0,
+            "end": 672.0,
+            "text": " Listen to me for 6 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 672.0,
+            "end": 673.0,
+            "text": " And look, it came again."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 673.0,
+            "end": 675.0,
+            "text": " And if I close it,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 675.0,
+            "end": 678.0,
+            "text": " look, it keeps coming."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 678.0,
+            "end": 680.0,
+            "text": " It is not a problem."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 680.0,
+            "end": 682.0,
+            "text": " My terminal does not even mean anything."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 682.0,
+            "end": 684.0,
+            "text": " I will show you the entire terminal."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 684.0,
+            "end": 687.0,
+            "text": " Look, I have deleted the entire terminal."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 687.0,
+            "end": 689.0,
+            "text": " You keep watching."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 689.0,
+            "end": 691.0,
+            "text": " Look, this notification keeps coming."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 691.0,
+            "end": 694.0,
+            "text": " So, I have put it in the background with the Wild True."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 694.0,
+            "end": 696.0,
+            "text": " You can do this too."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 696.0,
+            "end": 698.0,
+            "text": " If you want to use the scheduler of Windows,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 698.0,
+            "end": 700.0,
+            "text": " you can do that too."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 700.0,
+            "end": 702.0,
+            "text": " What we do quickly is,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 702.0,
+            "end": 704.0,
+            "text": " I will kill it here."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 704.0,
+            "end": 706.0,
+            "text": " Otherwise, I will get into my stomach."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 706.0,
+            "end": 707.0,
+            "text": " Drink water."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 707.0,
+            "end": 709.0,
+            "text": " And it will be a problem."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 709.0,
+            "end": 711.0,
+            "text": " So, don't drink so much water."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 711.0,
+            "end": 713.0,
+            "text": " What will you get in your stomach?"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 713.0,
+            "end": 715.0,
+            "text": " What you have to do is,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 715.0,
+            "end": 717.0,
+            "text": " drink this much water."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 717.0,
+            "end": 719.0,
+            "text": " I will show you how much you have to drink."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 719.0,
+            "end": 721.0,
+            "text": " Look, you can read this."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 721.0,
+            "end": 723.0,
+            "text": " You can read the entire page."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 723.0,
+            "end": 725.0,
+            "text": " Look, you can take it from here."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 725.0,
+            "end": 727.0,
+            "text": " Okay, let's go."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 727.0,
+            "end": 729.0,
+            "text": " Now, let's talk about programming."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 729.0,
+            "end": 731.0,
+            "text": " Water, water, you will all know."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 731.0,
+            "end": 733.0,
+            "text": " I hope this is clear."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 733.0,
+            "end": 735.0,
+            "text": " How we used existing packages."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 735.0,
+            "end": 737.0,
+            "text": " Python Plier Notification."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 737.0,
+            "end": 739.0,
+            "text": " By putting it like this,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 739.0,
+            "end": 741.0,
+            "text": " you will get"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 741.0,
+            "end": 743.0,
+            "text": " the PYPI of the Plier."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 743.0,
+            "end": 745.0,
+            "text": " And along with that,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 745.0,
+            "end": 747.0,
+            "text": " there are many blogs."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 747.0,
+            "end": 749.0,
+            "text": " There are many resources."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 749.0,
+            "end": 751.0,
+            "text": " You can see them there."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 751.0,
+            "end": 753.0,
+            "text": " You can refer them."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 753.0,
+            "end": 755.0,
+            "text": " And I have made this program here."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 755.0,
+            "end": 757.0,
+            "text": " I will make it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 757.0,
+            "end": 759.0,
+            "text": " I will do it again."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 759.0,
+            "end": 761.0,
+            "text": " 16 to 60 and I will do the timeout for 12 seconds."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 761.0,
+            "end": 763.0,
+            "text": " So that,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 763.0,
+            "end": 765.0,
+            "text": " what happens is,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 765.0,
+            "end": 767.0,
+            "text": " that,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 767.0,
+            "end": 769.0,
+            "text": " this is my,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 769.0,
+            "end": 771.0,
+            "text": " at least for 12 seconds,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 771.0,
+            "end": 773.0,
+            "text": " that I can read it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 773.0,
+            "end": 775.0,
+            "text": " Please drink water now."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 775.0,
+            "end": 777.0,
+            "text": " Process your brain."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 777.0,
+            "end": 779.0,
+            "text": " So I hope you all have understood this."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 779.0,
+            "end": 781.0,
+            "text": " I have interrupted it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 781.0,
+            "end": 783.0,
+            "text": " After interrupting, I will tell you again,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 783.0,
+            "end": 785.0,
+            "text": " that this is the play list of the Python practice program."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 785.0,
+            "end": 787.0,
+            "text": " You have to access it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 787.0,
+            "end": 789.0,
+            "text": " Bookmark it like this."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 789.0,
+            "end": 791.0,
+            "text": " And click here to save it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 791.0,
+            "end": 793.0,
+            "text": " So that the play list becomes yours."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 793.0,
+            "end": 795.0,
+            "text": " That's all for now."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 795.0,
+            "end": 797.0,
+            "text": " Don't forget to like this video."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 797.0,
+            "end": 799.0,
+            "text": " When you like this video,"
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 799.0,
+            "end": 801.0,
+            "text": " the platform will know that this video is good."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 801.0,
+            "end": 803.0,
+            "text": " And it pushes it more."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 803.0,
+            "end": 805.0,
+            "text": " So please like it."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 805.0,
+            "end": 807.0,
+            "text": " That's all for now."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 807.0,
+            "end": 809.0,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 809.0,
+            "end": 811.0,
+            "text": " And I will see you next time."
+        },
+        {
+            "title": "I Created a Drink Water Notification",
+            "start": 823.0,
+            "end": 825.0,
+            "text": " Thank you for watching this video."
+        }
+    ],
+    "text": " In this video we will talk about how to make desktop notification system with the help of python and in that we will talk about a very specific case which is very important for our health and that is whether you are drinking water or not so here if I write human body water requirement ok per day if I write per day here you can see 3.7 liters of fluid for men and 11.5 cups 2.7 liters of fluid a day for women ok if you are not drinking this much water then you will understand that it is a problem ok so what we have to do is that this water has to be applied as a reminder to drink so for this I am going to use a player which we will use for notifications if you have not seen notifications in windows then I will show you but all of you must have seen the notifications of windows because I want to show you the playlist in which I am going to add this video and if you want to see more practice programs then add this playlist and this is my separate playlist from python course I have only focused on fundamentals and projects in python course here we will do such projects like python practice mini projects so you must access this playlist ok so let's move ahead and quickly open your folder in visual studio code I would like to say something here first let's open visual studio code and the thing is that many people say use the item many people say use the sublime text many people say notepad plus plus but again I want to tell you one thing source code editor does not matter you can use any source code editor many people use sublime text editor I will use visual studio code if I am using visual studio code then if I do something like I am doing control decker I have made a video of my visual studio code I am doing any work in my text editor so you should know about your text editor the point is you should know about any text editor or if you are using my text editor then what you have to do you will have to see my videos which I have made on this specific text editor and I have designed this text editor and explained how you can do it let's move to the point now we are making a practice program so let's focus on the practice program and that is our practice program drinking water notification system which keeps us notified every hour that we have to drink water so what I will do here is I will write import and time time is very important time is important because we will know how much time has passed and we will invoke the program as per the notification ideally we will schedule this Python program so if you don't know about schedule in windows then you can open this task schedule and you can see many things and this is a very easy discussion schedule task you can schedule a task and it can be done every hour so here I have made the import time now I will write the name equals to equals to main as I have told in my Python course so the usage I have told you that if you import then this line doesn't run if you import this file from outside so I will write here and I will tell you the program if you are going to schedule with windows schedule then you have to do this so in that case I don't need time module I will write here from player import notification do you think this is player install player and after that I can use notification now in notification there is a notify function which I can use and I will write notification.notify and in this there will be a title title will be my please drink water after that message will be mine so I will keep the benefits of drinking water so remind me that this is the thing so I will drink water and there is an app icon which you can set and if you want to make it better then I will write glass icon so I am taking the icon of glasses I need that glass so I will write here so it's not here I don't need magnifying glass so I will write glass of water glass of water icon so here it is I hope I will get something free I am not in the mood to make some account so I searched google and found it on iconarchive.com I downloaded this ICO file so I will put it in my folder and I will put it in icon.ico so I will show it in folder so I have brought it here and I will change it's name to icon.ico and I will copy the full path from here here is the path so I will copy it so I will put the path I have given so I will copy it so I have got the message and after that I will come to the timeout and I will run it so I have run it so if I run the timeout then what will happen it has come for 1 second and ran so it will be fun here so I will make it now and I will do it so it will be more fun the National Academy of Science Engineering and all that. If you don't have any notification, but the issue is that you should drink water. Water is important. It will work. So, you can add a message to your account. And once this invokes, what will happen? It will stay here for 10 seconds. You can keep it for 15-20 seconds. And I assume that you are the main.py file and you will invoke it from the window scheduler. It is a task scheduler of our window. Now, I am not going to show windows talk scheduler here. But I will tell you another way to run it on loop. You can do it here while true. After doing it, what should I do? Write here time.sleep and the second you want to do every hour, you do it 60x60. And once you get notification, it will sleep for 36 seconds. It means for 1 hour. 60 seconds, that is 1 minute, 60 minutes, 1 hour. It will sleep for 1 hour. So, you will remember every hour that you want to drink water. So, as you are working on your computer, and nowadays, everyone is sitting on the computer for a long time. If you are sitting in front of your computer, then you should definitely leave this reminder app for drinking water. Now, look at my exit. If I exit, I will control it. But it is still running. So, you can run it in the background. Now, you will ask me how to run the application in the background in Python. So, I will tell you this. And the answer is pythonw.exe. Like I have written here, pythonw.exe main.py. What should you do in your terminal? Write it down. Pythonw.exe main.py. So, you start a terminal. And write here. Pythonw.exe. That is, if you write Pythonw, then it will be the main.py. This is my app in the background. Now, you will not see this. I will do a timeout for 2 seconds. And I will do this for 6 seconds. Then you will see this. But I have already run an app from Pythonw in the background. So, I will kill it. It will be in the name of Python. Look, I have done the end task. And now, what I will do? I will run it again. I have said to run in 6 seconds. And the notification will keep running for 6 seconds. And the timeout is 2 seconds. I will show you the notification for 2 seconds. So, look, I will keep coming in 6 seconds. Please drink water now. You just wait for 6 seconds. Listen to me for 6 seconds. And look, it came again. And if I close it, look, it keeps coming. It is not a problem. My terminal does not even mean anything. I will show you the entire terminal. Look, I have deleted the entire terminal. You keep watching. Look, this notification keeps coming. So, I have put it in the background with the Wild True. You can do this too. If you want to use the scheduler of Windows, you can do that too. What we do quickly is, I will kill it here. Otherwise, I will get into my stomach. Drink water. And it will be a problem. So, don't drink so much water. What will you get in your stomach? What you have to do is, drink this much water. I will show you how much you have to drink. Look, you can read this. You can read the entire page. Look, you can take it from here. Okay, let's go. Now, let's talk about programming. Water, water, you will all know. I hope this is clear. How we used existing packages. Python Plier Notification. By putting it like this, you will get the PYPI of the Plier. And along with that, there are many blogs. There are many resources. You can see them there. You can refer them. And I have made this program here. I will make it. I will do it again. 16 to 60 and I will do the timeout for 12 seconds. So that, what happens is, that, this is my, at least for 12 seconds, that I can read it. Please drink water now. Process your brain. So I hope you all have understood this. I have interrupted it. After interrupting, I will tell you again, that this is the play list of the Python practice program. You have to access it. Bookmark it like this. And click here to save it. So that the play list becomes yours. That's all for now. Don't forget to like this video. When you like this video, the platform will know that this video is good. And it pushes it more. So please like it. That's all for now. Thank you so much for watching this video. And I will see you next time. Thank you for watching this video."
+}

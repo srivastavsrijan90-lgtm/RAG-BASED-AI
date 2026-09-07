@@ -1,0 +1,796 @@
+{
+    "chunks": [
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 0.0,
+            "end": 18.72,
+            "text": " Today is the time to practice again.  I have told you that my grip is strong because I write daily program in my life.  And I engage myself in programming conversations.  And this is my videos.  Do this with Python."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 18.72,
+            "end": 28.88,
+            "text": " I want to provide you this environment.  I am talking to you.  You are listening to me.  I have some level of experience.  You are listening to me."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 28.88,
+            "end": 34.96,
+            "text": " You are listening to me.  You are learning something.  You are giving me feedback in the comments.  And I am also learning.  So this is going to be very good."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 34.96,
+            "end": 49.599999999999994,
+            "text": " First of all, I want to tell you that these videos are all independent.  You can watch them one by one.  Like in today's video, I am making what is factorial.  In calculation of factorial.  And along with that, I will write here."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 49.599999999999994,
+            "end": 59.44,
+            "text": " Factorial.  And after that I write here.  I am putting this number for myself.  Practice Python 1, Practice Python 2.  So that it becomes easier for you to give me a code."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 59.44,
+            "end": 67.84,
+            "text": " So I will not do this order.  In which you will see the videos.  I will start with all the basics.  I will give you a problem in these videos.  I am not like this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 67.84,
+            "end": 72.64,
+            "text": " There is no series.  There is no code.  There is an independent video.  You can watch it by any means.  Now what is here?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 72.64,
+            "end": 78.8,
+            "text": " Practice.  I am making it in the second program.  Practice Python.  I will give you a question in that.  What will you do?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 78.8,
+            "end": 87.28,
+            "text": " First of all, you will write below.  In the comment below, the challenge accepted.  And after that you will write.  After solving it, you will tell me the answer.  If you are not solving it, you will tell me."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 87.28,
+            "end": 96.88,
+            "text": " I will solve it like this.  If you ask me the question, I will pause it.  After that I wrote the challenge accepted.  And after that I wrote in the second comment.  How will I solve it?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 96.88,
+            "end": 104.88,
+            "text": " Even if it is wrong.  I will know that where is your level.  According to that, I will align my upcoming videos.  Okay, that is the right thing.  I will write the question."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 104.88,
+            "end": 115.6,
+            "text": " First of all, calculate the factorial.  Factorial of a given number.  It is very easy for you.  What is this?  I will not joke about it."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 115.6,
+            "end": 128.07999999999998,
+            "text": " Because some people do not know what is factorial.  I will tell you who does not know.  For example, I will do the factorial of 7.  I will multiply 7 till the time I do it.  I will multiply it from a small number."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 128.07999999999998,
+            "end": 135.12,
+            "text": " Until I get 1.  Okay.  After that I have to do 3.  After that I have to start.  After that, see."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 135.76,
+            "end": 145.76,
+            "text": " I will get the value of the factorial.  So you will do this.  Okay.  If there was 8 here, I would have multiplied the numbers from 8 to 1.  This is factorial."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 145.76,
+            "end": 154.16,
+            "text": " Okay, that is good.  But the question I am going to give you with this.  The part 2 of this, I will write here.  Part 1.  So I will write here first."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 155.68,
+            "end": 163.44,
+            "text": " Part 1.  After that I will write here.  Part 2.  And I will write here.  Find the number of trailing zeros."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 163.44,
+            "end": 176.24,
+            "text": " Find the number of trailing zeros in that factorial.  First of all, make functions.  I am telling you earlier.  Now do the post video.  Solve both the parts."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 176.24,
+            "end": 188.24,
+            "text": " If you tell one part properly.  Then you will understand that your level is good in programming.  Because you have to get the factorial.  See, we will get all of them.  So I will give you the basic programmer value."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 188.24,
+            "end": 198.16,
+            "text": " If you have progressed a little in part 2.  Then I will say that yes, you know.  Now I will say one more thing here.  You post the video carefully.  And you solve the video carefully."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 198.16,
+            "end": 209.76,
+            "text": " After that, take some time to keep it.  Like the video and subscribe to the channel.  You can stop this video and see below.  You can write below the challenge and accept it.  And the approach."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 209.76,
+            "end": 219.36,
+            "text": " The first approach comes in your mind.  Now don't be shy.  You are not watching this video.  You should interact.  Okay, now I will tell you how to solve it."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 219.36,
+            "end": 228.16,
+            "text": " Now I will write the code.  But I hope that everyone stopped the video.  And everyone gave their own attempt.  I will recommend you one more thing.  That you sit with a copy pencil."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 228.16,
+            "end": 237.52,
+            "text": " I am definitely in YouTube.  But think that I am sitting in front of you.  I want to see like this.  I want to see that there is a person.  If I don't do it, it will be bad."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 237.52,
+            "end": 247.68,
+            "text": " The mentality that comes when you sit in front of a teacher.  You have to bring the same mentality.  Only then you will be able to learn something.  Come on, let's write the code now.  I will make two functions."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 247.68,
+            "end": 257.12,
+            "text": " Okay, calculate.  Calculate factorial.  Not calculate, I will write only factorial.  Then it will go away.  I will not do complex."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 257.12,
+            "end": 269.92,
+            "text": " Number of my program.  So this is a program.  And this is a function.  Which will calculate factorial.  And this is factorial."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 269.92,
+            "end": 277.68,
+            "text": " Trailing zeros.  I have used camel case.  Camel case means I have written it like this.  After that I have written the trailing.  I have written its d capital."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 277.68,
+            "end": 285.28000000000003,
+            "text": " I have written zeros.  I have written its z capital.  So that it comes to read.  Okay, number.  I will pass it."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 285.28000000000003,
+            "end": 293.03999999999996,
+            "text": " And this is our way.  If you have not seen the Python course.  If you see the people.  If you write the main in Python.  See, it came down."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 293.03999999999996,
+            "end": 301.91999999999996,
+            "text": " Enter it and it automatically completes.  Which is a very good thing.  According to me.  Okay, so if name equals to main.  If this program runs."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 301.91999999999996,
+            "end": 312.0,
+            "text": " So I will say.  I will write number is equal to int of input.  I have told you many times.  Why do we type in int?  Because the output of input is string."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 312.0,
+            "end": 323.6,
+            "text": " Okay, enter a number.  Okay, after that what I will do.  Factorial is equal to what will be my.  Factorial of that number.  So I will do one thing here."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 323.6,
+            "end": 331.6,
+            "text": " I will change the variable.  I will write it as fac.  And what will I do with it?  I will press ctrl d.  Then the line will be replicated."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 331.6,
+            "end": 339.28,
+            "text": " After that the trailing number of zeros.  I will take it out first.  Let's take out the factorial first.  Okay, leave the trailing number of zeros.  So I will print an aft string."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 339.28,
+            "end": 347.28000000000003,
+            "text": " The factorial is.  What was the point of the t?  Factorial is.  And will I put it in it?  Fact."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 347.28000000000003,
+            "end": 353.6,
+            "text": " Let me see it first.  How will I calculate factorial?  It's very easy.  I will write if.  Now let me tell you one thing."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 353.6,
+            "end": 366.24,
+            "text": " By definition zero is factorial one.  So I will write if number equals to equals to zero.  Or number equals to equals to one.  Return one.  Else return."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 366.24,
+            "end": 378.71999999999997,
+            "text": " What?  Sorry, I should have pressed ctrl.  Else return factorial of number.  Factorial of number.  Number minus one."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 378.71999999999997,
+            "end": 386.72,
+            "text": " This is a recursive approach.  So what am I saying?  I am saying, look.  Now this recursive approach is easy.  Let me tell you."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 386.72,
+            "end": 396.24,
+            "text": " I said that as you all have given seven in this.  I will say someone gave seven in this.  And after that seven will come.  Seven will be multiplied by my seven.  Seven, six factorial."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 396.24,
+            "end": 408.24,
+            "text": " Okay.  So I will say that you don't think that after seven,  how long will the numbers change?  You just see that seven has to multiply by six factorial.  Then he will say that when he comes here to do six factorial."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 408.24,
+            "end": 415.76000000000005,
+            "text": " He will say that you don't think about six.  You multiply six by two.  Five factorial.  Then he will come back.  So this will complete the pile up."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 415.76000000000005,
+            "end": 423.84000000000003,
+            "text": " I have told about the recursive strategy in my Python course.  I have explained it very well.  If you have not done the whole course.  Start it.  You can see this series too."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 423.84000000000003,
+            "end": 433.84,
+            "text": " You can see these videos that are coming.  But the basic course of Python,  you should definitely see it according to me.  Let's run it.  Let me see if it is working or not."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 433.84,
+            "end": 442.0,
+            "text": " So here it says enter a number.  Let me zoom in.  You can see that it is easy to do.  I have entered five in the enter number.  The factorial is 120."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 442.0,
+            "end": 451.44,
+            "text": " Which is absolutely right.  Now what is the problem with factorial?  Look, factorial is very expensive for any number.  Computationally expensive operation.  Why?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 451.44,
+            "end": 458.64,
+            "text": " Because if I write 100,  then it will multiply by 100.  Okay, it will be a big number.  Then it will be multiplied by eight.  Which will be another big number."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 458.64,
+            "end": 462.24,
+            "text": " Then from eight.  Then from six.  From five.  From four.  From three."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 462.24,
+            "end": 466.88,
+            "text": " From five.  From five.  From nine.  From nine.  So it can be that whatever programming language you are using,"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 466.88,
+            "end": 476.4,
+            "text": " there will be a number that you can't handle.  You will get the memory error.  That's why I am saying that memory takes a lot.  But if you put a small number,  then it will work."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 476.4,
+            "end": 487.84000000000003,
+            "text": " I will put a big number in it and show you.  I have put a very big number here.  Look, it says maximum recursion depth exceeded in comparison.  That is, it is saying that there will be so many recursions that I have to close.  Otherwise, what happened?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 487.91999999999996,
+            "end": 500.79999999999995,
+            "text": " Memory error will come.  Because of the confusion of the hair,  it should be closed right now.  So, I have shown you what an error you get if you do something like this.  Along with that, I will put a backslash to make it a little more beautiful."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 500.79999999999995,
+            "end": 511.67999999999995,
+            "text": " I have put it, you must have known that if I put a number, it will come down.  If I put a number in the enter, then it comes 5040.  Look, how fast it is increasing.  This is factorial.  If I put a number of seven, it would have been 5040."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 511.67999999999995,
+            "end": 520.96,
+            "text": " If I put a number of eight, it came forward.  It went to 40,000.  So, I will increase a number.  If I put a number of twelve, then look at how big the number has become.  So, as soon as the number increases, because it is being multiplied,"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 520.96,
+            "end": 534.24,
+            "text": " you try to understand it.  Think about it.  It is being multiplied.  Suppose, I tell you that you have to remove the number of trailing zeros in 20 factorial.  You go, okay, I will do this, I will remove the factorial."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 534.24,
+            "end": 548.72,
+            "text": " And after that, I will remove the factorial and see how many zeros are there, dividing by 10.  If this was so easy, I would not have told you.  Okay, I would not have given it as a question.  I will tell you what will happen if I mess up.  If I put a big number, then I will not be able to remove the factorial."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 548.72,
+            "end": 559.2,
+            "text": " How will trailing zeros come out?  But I say that it is easy to remove trailing zeros.  Now you ask, how?  How did you do it?  Trailing zeros, why is it easy to remove trailing zeros?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 559.2,
+            "end": 569.52,
+            "text": " So, see what I do here.  I will try to do what you said.  Okay, let's go.  I will try to do what people say.  First, I will say that I will remove the factorial first."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 569.52,
+            "end": 586.64,
+            "text": " After doing the factorial number,  and after that, I will write  while number percent 10 not equals to zero.  Okay, sorry, number percent 10 equals to zero.  Until the number I am dividing by 10 is zero,"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 586.64,
+            "end": 602.96,
+            "text": " what will I do here?  I will write number percent 10 equals to zero.  And after that, I will write here, count is equal to count plus one.  And number is equal to number divided by 10.  So, I am doing this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 602.96,
+            "end": 616.72,
+            "text": " Okay, I am dividing number by number by 10.  So, this will continue until my 10th divisible is gone.  So, I will take out the count here.  And I will write here, count is equal to zero.  I initialize the count."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 616.72,
+            "end": 628.16,
+            "text": " And I will print the fact with it too,  so that I know whether it is working or not.  And then finally, I will return the count.  Return, return, count.  Okay."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 628.16,
+            "end": 638.16,
+            "text": " So, I will print factorial trailing zeroes.  Factorial trailing zeroes.  And I will put 50 in it.  I have put 50, I will put 5.  So, this is the count."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 638.16,
+            "end": 650.32,
+            "text": " I will run it.  Enter number is saying this is 3 and 120 is zero.  So, I am not working on the program of factorial trailing zeroes.  Let me see what problem is there.  So, I will comment on these two lines first."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 650.32,
+            "end": 661.1999999999999,
+            "text": " After that, I will see what problems are there in the program.  So, I put 5 in it.  5 is gone.  120 is its factorial.  After that, I said, while number percent 10 equals to equal to zero."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 661.1999999999999,
+            "end": 672.48,
+            "text": " So, the number percent is not there.  Factorial is fact percent 10 equals to equal to zero.  And I will write here, fact is equal to fact upon 10.  Now, I will run it.  So, why is the number is saying this is the count."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 672.48,
+            "end": 681.28,
+            "text": " I will comment on it here.  And I will run it again.  So, look at 120 and 1.  If I take 5 here, put 8 in it.  I will run it."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 681.28,
+            "end": 689.12,
+            "text": " Look at this.  This is also 1 in it.  After that, I will put 9.  If I put 10, then how many will come here?  2 will come."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 689.12,
+            "end": 694.48,
+            "text": " Look, it is 2 zero.  So, it will tell me.  Let me see how far the program goes.  I put 20 here.  So, look at this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 694.48,
+            "end": 704.64,
+            "text": " It told me that it was 4 zeros.  But if I put 560 here, then look at this.  It will say that it will not be able to do it.  Okay.  So, problem is there."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 704.64,
+            "end": 714.8000000000001,
+            "text": " But I will say that this problem is solvable.  How will we solve it?  If anyone knows, then post the video now.  And I will get the comment section below.  I will say that you are a good programmer."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 714.8000000000001,
+            "end": 724.48,
+            "text": " If you are able to do it.  So, I will stop for a while.  And if you are able to do it, then tell me in the comment section.  That I did it.  And tell me that what time step is this comment on?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 724.48,
+            "end": 728.64,
+            "text": " I told you to post it for the first time.  Then you are doing it.  Do it again.  Because I will analyze it.  I will go down."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 728.64,
+            "end": 743.36,
+            "text": " When I will reply to you, then I should know when the comment is done.  So, if you put the time step, then it will be better.  Anyways, now I will solve the problem for you.  Okay.  So, what we did was useless."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 743.36,
+            "end": 752.4,
+            "text": " Okay.  I mean, obviously, I knew what we did.  I will tell you how we will solve it.  How many zeros are there?  Now, I will tell you the logic first."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 752.4,
+            "end": 757.52,
+            "text": " Okay.  I will pass it back.  And I will not destroy this code.  I will keep it for you.  So that you can see."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 757.52,
+            "end": 764.08,
+            "text": " I will keep this code for you.  So, I will do one thing.  I will take the number input.  And I will number it here.  Okay."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 764.08,
+            "end": 776.0799999999999,
+            "text": " I will tell you that in any number, in any number's factorial.  The number of zeros will be in the number of tens.  Okay.  Like I said, if I talk about it.  In the factorial of 5, so the factorial is written like this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 776.0799999999999,
+            "end": 782.16,
+            "text": " So, what happens?  5, 4, 3, 2, 1.  Okay.  How many zeros will be in this?  The number of tens that is formed in this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 782.16,
+            "end": 786.24,
+            "text": " Okay.  How many tens will be there?  5, 2, 1, 10.  10 is formed.  So, 1 will be zero."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 786.24,
+            "end": 794.56,
+            "text": " How many will be in the factorial of 6?  We will also take out the same number in the factorial of 6.  I will write the factorial of 6.  I will write here simply.  6, 5, 4, 3, 2, 1."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 794.56,
+            "end": 800.56,
+            "text": " How many tens will I get in this?  I will see 5 and 2 in this.  How many will I get in this?  And how many will I get in this?  I will get only one."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 800.56,
+            "end": 809.36,
+            "text": " Zero will be in the factorial of 6.  Listen carefully.  If you don't listen carefully, you won't understand.  You have to take care of your distractions.  Look at the screen and listen to me carefully."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 809.36,
+            "end": 819.84,
+            "text": " Now, what will happen with that?  I am saying one thing here.  Listen carefully.  If I try to find 5 and 2.  I will try to find 5 and 2 and try to do a club."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 819.84,
+            "end": 832.56,
+            "text": " Then, I will get 2 very easily.  Because every next number is divisible from 2.  Like 4 and 1 and 2 will be available.  I will get 6 and 1 and 2.  But there are 5 units here."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 833.12,
+            "end": 843.4399999999999,
+            "text": " 5 is unique.  So, the amount that I got in this factorial,  if I break it,  I will do its prime factorization.  What is prime factorization?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 843.4399999999999,
+            "end": 852.72,
+            "text": " Break it into such pieces.  Until then, only the prime number remains.  I will write 6, 3, 2, 5.  I will give 5 and 10.  After that, I will write 4 into 2."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 852.72,
+            "end": 861.76,
+            "text": " I will give 3 and 3.  I will give 2 to 2.  If I break it, I will do prime factorization.  Then, what will happen?  The amount that I will get here,"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 861.76,
+            "end": 870.48,
+            "text": " the amount that I will get here,  the amount that I will get here,  I will get 0.  Because 2 will remain.  2 will be full."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 870.48,
+            "end": 879.6,
+            "text": " Every next number is divisible.  Try to understand this.  You will get to know in any number.  Why?  Why will you get 2 more?"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 879.6,
+            "end": 889.12,
+            "text": " Full and less.  The amount that you get in its prime factorization,  the amount that you get in it,  you will get trailing 0s.  Now, we have taken advantage of this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 889.12,
+            "end": 898.88,
+            "text": " We have taken advantage of this.  How can we reduce the computational complexity?  I will take it up and bring it here.  And I will comment it out for your understanding.  So that you can keep watching it."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 898.88,
+            "end": 908.48,
+            "text": " And as I am coding it, I will remove the pass from here.  So, first of all, what I will do here is,  I will write the count is equal to 0.  Because that is the basic.  I will have to do the count as 0."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 908.48,
+            "end": 917.12,
+            "text": " Now, I will tell you one thing.  Look, I have caught a number.  I am catching 100.  Among 100, what number will I get?  Of 100, within the factorial,"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 917.12,
+            "end": 930.0,
+            "text": " what number of 5 will I get if I want to get this?  So, first of all, what I will do is,  I will check the number that東西 is inside the 100.  etc.  First, I will see this."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 930.0,
+            "end": 939.28,
+            "text": " So how will I discover the required number,  that will be leading to five?  I won't do anything.  I will write 100 now.  I will divide it from 5."
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 939.28,
+            "end": 953.76,
+            "text": " And I will take the flower's.  So what is our division?  Simply I am the division operator of the flow division operator  If it was 101 and I divide it from 5 then it would be 0  Because it leaves the remainder"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 953.76,
+            "end": 965.76,
+            "text": " But there is a catch here  Catch is that there are 2 5 in 25  Similarly in 125 there are 3 5 in 25  So I am missing my 5 here  So I will not miss 5"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 965.76,
+            "end": 978.76,
+            "text": " I will divide it from power of 5  I will divide it from 5  I will divide it from 5 into 5  And I will keep doing this  I will keep doing this until the time this thing is mine"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 978.76,
+            "end": 992.76,
+            "text": " The flow division operator is 0  Because if I divide it from 125 then it will be 0  So let's write it in code  So I will do something like this  And what I will do here is I will write a simple program"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 992.76,
+            "end": 1008.76,
+            "text": " And that is what I will explain to you  What I am doing here is my number  I will write while  Number divided by i is greater than or equal to 1  So if it is 1 then I will do not equal to 0"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1008.76,
+            "end": 1019.76,
+            "text": " You can do anything here  I have done number divided by i  And I will keep this flow division here  And what I will do in i?  I will initialize it from 5"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1019.76,
+            "end": 1030.76,
+            "text": " So I have initialized it from 5  Now what I will do here is  Count plus is equal to  End of number by i  I will count how many 5"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1030.76,
+            "end": 1041.76,
+            "text": " After that I will multiply i  I will multiply i by 5  I will see how much is 125  I will see how much is 125  I will see how much is 125"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1041.76,
+            "end": 1055.76,
+            "text": " I will keep looking at all those things  And after that I will return my count  So I will return it here  I will return it here  I will see what is the error"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1055.76,
+            "end": 1066.76,
+            "text": " I have put 5  And it is 1  If I put 10  Then what is 2  If I put 1000"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1066.76,
+            "end": 1081.76,
+            "text": " Then I have told you how many zeros are there  Look at the factorial  So if we try to take 10,000 factorial  Then the machine will fall  If we try to take out the trailing zeros"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1081.76,
+            "end": 1093.76,
+            "text": " Then we can do it  So I wanted to tell you this  I hope you liked the video  And your problem must have been solved  If you search this problem on this video"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1093.76,
+            "end": 1103.76,
+            "text": " And if you came here for practice  I hope this video is very helpful  You must be getting new things to learn  And do you understand or not  Do let me know in the comment"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1103.76,
+            "end": 1113.76,
+            "text": " Because people sit quietly  And don't see  Tell me in the comment  So I have to tell  But many people who comment"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1113.76,
+            "end": 1123.76,
+            "text": " I want to thank you for that  And do I continue this series  I will bring videos like this  For your practice  So for now"
+        },
+        {
+            "number": null,
+            "title": "How To Find Factorial",
+            "start": 1123.76,
+            "end": 1145.76,
+            "text": " Don't forget to like this video  Thank you so much for watching this video  And I will see you next time  Subscribe to our channel"
+        }
+    ],
+    "text": " Today is the time to practice again. I have told you that my grip is strong because I write daily program in my life. And I engage myself in programming conversations. And this is my videos. Do this with Python. I want to provide you this environment. I am talking to you. You are listening to me. I have some level of experience. You are listening to me. You are listening to me. You are learning something. You are giving me feedback in the comments. And I am also learning. So this is going to be very good. First of all, I want to tell you that these videos are all independent. You can watch them one by one. Like in today's video, I am making what is factorial. In calculation of factorial. And along with that, I will write here. Factorial. And after that I write here. I am putting this number for myself. Practice Python 1, Practice Python 2. So that it becomes easier for you to give me a code. So I will not do this order. In which you will see the videos. I will start with all the basics. I will give you a problem in these videos. I am not like this. There is no series. There is no code. There is an independent video. You can watch it by any means. Now what is here? Practice. I am making it in the second program. Practice Python. I will give you a question in that. What will you do? First of all, you will write below. In the comment below, the challenge accepted. And after that you will write. After solving it, you will tell me the answer. If you are not solving it, you will tell me. I will solve it like this. If you ask me the question, I will pause it. After that I wrote the challenge accepted. And after that I wrote in the second comment. How will I solve it? Even if it is wrong. I will know that where is your level. According to that, I will align my upcoming videos. Okay, that is the right thing. I will write the question. First of all, calculate the factorial. Factorial of a given number. It is very easy for you. What is this? I will not joke about it. Because some people do not know what is factorial. I will tell you who does not know. For example, I will do the factorial of 7. I will multiply 7 till the time I do it. I will multiply it from a small number. Until I get 1. Okay. After that I have to do 3. After that I have to start. After that, see. I will get the value of the factorial. So you will do this. Okay. If there was 8 here, I would have multiplied the numbers from 8 to 1. This is factorial. Okay, that is good. But the question I am going to give you with this. The part 2 of this, I will write here. Part 1. So I will write here first. Part 1. After that I will write here. Part 2. And I will write here. Find the number of trailing zeros. Find the number of trailing zeros in that factorial. First of all, make functions. I am telling you earlier. Now do the post video. Solve both the parts. If you tell one part properly. Then you will understand that your level is good in programming. Because you have to get the factorial. See, we will get all of them. So I will give you the basic programmer value. If you have progressed a little in part 2. Then I will say that yes, you know. Now I will say one more thing here. You post the video carefully. And you solve the video carefully. After that, take some time to keep it. Like the video and subscribe to the channel. You can stop this video and see below. You can write below the challenge and accept it. And the approach. The first approach comes in your mind. Now don't be shy. You are not watching this video. You should interact. Okay, now I will tell you how to solve it. Now I will write the code. But I hope that everyone stopped the video. And everyone gave their own attempt. I will recommend you one more thing. That you sit with a copy pencil. I am definitely in YouTube. But think that I am sitting in front of you. I want to see like this. I want to see that there is a person. If I don't do it, it will be bad. The mentality that comes when you sit in front of a teacher. You have to bring the same mentality. Only then you will be able to learn something. Come on, let's write the code now. I will make two functions. Okay, calculate. Calculate factorial. Not calculate, I will write only factorial. Then it will go away. I will not do complex. Number of my program. So this is a program. And this is a function. Which will calculate factorial. And this is factorial. Trailing zeros. I have used camel case. Camel case means I have written it like this. After that I have written the trailing. I have written its d capital. I have written zeros. I have written its z capital. So that it comes to read. Okay, number. I will pass it. And this is our way. If you have not seen the Python course. If you see the people. If you write the main in Python. See, it came down. Enter it and it automatically completes. Which is a very good thing. According to me. Okay, so if name equals to main. If this program runs. So I will say. I will write number is equal to int of input. I have told you many times. Why do we type in int? Because the output of input is string. Okay, enter a number. Okay, after that what I will do. Factorial is equal to what will be my. Factorial of that number. So I will do one thing here. I will change the variable. I will write it as fac. And what will I do with it? I will press ctrl d. Then the line will be replicated. After that the trailing number of zeros. I will take it out first. Let's take out the factorial first. Okay, leave the trailing number of zeros. So I will print an aft string. The factorial is. What was the point of the t? Factorial is. And will I put it in it? Fact. Let me see it first. How will I calculate factorial? It's very easy. I will write if. Now let me tell you one thing. By definition zero is factorial one. So I will write if number equals to equals to zero. Or number equals to equals to one. Return one. Else return. What? Sorry, I should have pressed ctrl. Else return factorial of number. Factorial of number. Number minus one. This is a recursive approach. So what am I saying? I am saying, look. Now this recursive approach is easy. Let me tell you. I said that as you all have given seven in this. I will say someone gave seven in this. And after that seven will come. Seven will be multiplied by my seven. Seven, six factorial. Okay. So I will say that you don't think that after seven, how long will the numbers change? You just see that seven has to multiply by six factorial. Then he will say that when he comes here to do six factorial. He will say that you don't think about six. You multiply six by two. Five factorial. Then he will come back. So this will complete the pile up. I have told about the recursive strategy in my Python course. I have explained it very well. If you have not done the whole course. Start it. You can see this series too. You can see these videos that are coming. But the basic course of Python, you should definitely see it according to me. Let's run it. Let me see if it is working or not. So here it says enter a number. Let me zoom in. You can see that it is easy to do. I have entered five in the enter number. The factorial is 120. Which is absolutely right. Now what is the problem with factorial? Look, factorial is very expensive for any number. Computationally expensive operation. Why? Because if I write 100, then it will multiply by 100. Okay, it will be a big number. Then it will be multiplied by eight. Which will be another big number. Then from eight. Then from six. From five. From four. From three. From five. From five. From nine. From nine. So it can be that whatever programming language you are using, there will be a number that you can't handle. You will get the memory error. That's why I am saying that memory takes a lot. But if you put a small number, then it will work. I will put a big number in it and show you. I have put a very big number here. Look, it says maximum recursion depth exceeded in comparison. That is, it is saying that there will be so many recursions that I have to close. Otherwise, what happened? Memory error will come. Because of the confusion of the hair, it should be closed right now. So, I have shown you what an error you get if you do something like this. Along with that, I will put a backslash to make it a little more beautiful. I have put it, you must have known that if I put a number, it will come down. If I put a number in the enter, then it comes 5040. Look, how fast it is increasing. This is factorial. If I put a number of seven, it would have been 5040. If I put a number of eight, it came forward. It went to 40,000. So, I will increase a number. If I put a number of twelve, then look at how big the number has become. So, as soon as the number increases, because it is being multiplied, you try to understand it. Think about it. It is being multiplied. Suppose, I tell you that you have to remove the number of trailing zeros in 20 factorial. You go, okay, I will do this, I will remove the factorial. And after that, I will remove the factorial and see how many zeros are there, dividing by 10. If this was so easy, I would not have told you. Okay, I would not have given it as a question. I will tell you what will happen if I mess up. If I put a big number, then I will not be able to remove the factorial. How will trailing zeros come out? But I say that it is easy to remove trailing zeros. Now you ask, how? How did you do it? Trailing zeros, why is it easy to remove trailing zeros? So, see what I do here. I will try to do what you said. Okay, let's go. I will try to do what people say. First, I will say that I will remove the factorial first. After doing the factorial number, and after that, I will write while number percent 10 not equals to zero. Okay, sorry, number percent 10 equals to zero. Until the number I am dividing by 10 is zero, what will I do here? I will write number percent 10 equals to zero. And after that, I will write here, count is equal to count plus one. And number is equal to number divided by 10. So, I am doing this. Okay, I am dividing number by number by 10. So, this will continue until my 10th divisible is gone. So, I will take out the count here. And I will write here, count is equal to zero. I initialize the count. And I will print the fact with it too, so that I know whether it is working or not. And then finally, I will return the count. Return, return, count. Okay. So, I will print factorial trailing zeroes. Factorial trailing zeroes. And I will put 50 in it. I have put 50, I will put 5. So, this is the count. I will run it. Enter number is saying this is 3 and 120 is zero. So, I am not working on the program of factorial trailing zeroes. Let me see what problem is there. So, I will comment on these two lines first. After that, I will see what problems are there in the program. So, I put 5 in it. 5 is gone. 120 is its factorial. After that, I said, while number percent 10 equals to equal to zero. So, the number percent is not there. Factorial is fact percent 10 equals to equal to zero. And I will write here, fact is equal to fact upon 10. Now, I will run it. So, why is the number is saying this is the count. I will comment on it here. And I will run it again. So, look at 120 and 1. If I take 5 here, put 8 in it. I will run it. Look at this. This is also 1 in it. After that, I will put 9. If I put 10, then how many will come here? 2 will come. Look, it is 2 zero. So, it will tell me. Let me see how far the program goes. I put 20 here. So, look at this. It told me that it was 4 zeros. But if I put 560 here, then look at this. It will say that it will not be able to do it. Okay. So, problem is there. But I will say that this problem is solvable. How will we solve it? If anyone knows, then post the video now. And I will get the comment section below. I will say that you are a good programmer. If you are able to do it. So, I will stop for a while. And if you are able to do it, then tell me in the comment section. That I did it. And tell me that what time step is this comment on? I told you to post it for the first time. Then you are doing it. Do it again. Because I will analyze it. I will go down. When I will reply to you, then I should know when the comment is done. So, if you put the time step, then it will be better. Anyways, now I will solve the problem for you. Okay. So, what we did was useless. Okay. I mean, obviously, I knew what we did. I will tell you how we will solve it. How many zeros are there? Now, I will tell you the logic first. Okay. I will pass it back. And I will not destroy this code. I will keep it for you. So that you can see. I will keep this code for you. So, I will do one thing. I will take the number input. And I will number it here. Okay. I will tell you that in any number, in any number's factorial. The number of zeros will be in the number of tens. Okay. Like I said, if I talk about it. In the factorial of 5, so the factorial is written like this. So, what happens? 5, 4, 3, 2, 1. Okay. How many zeros will be in this? The number of tens that is formed in this. Okay. How many tens will be there? 5, 2, 1, 10. 10 is formed. So, 1 will be zero. How many will be in the factorial of 6? We will also take out the same number in the factorial of 6. I will write the factorial of 6. I will write here simply. 6, 5, 4, 3, 2, 1. How many tens will I get in this? I will see 5 and 2 in this. How many will I get in this? And how many will I get in this? I will get only one. Zero will be in the factorial of 6. Listen carefully. If you don't listen carefully, you won't understand. You have to take care of your distractions. Look at the screen and listen to me carefully. Now, what will happen with that? I am saying one thing here. Listen carefully. If I try to find 5 and 2. I will try to find 5 and 2 and try to do a club. Then, I will get 2 very easily. Because every next number is divisible from 2. Like 4 and 1 and 2 will be available. I will get 6 and 1 and 2. But there are 5 units here. 5 is unique. So, the amount that I got in this factorial, if I break it, I will do its prime factorization. What is prime factorization? Break it into such pieces. Until then, only the prime number remains. I will write 6, 3, 2, 5. I will give 5 and 10. After that, I will write 4 into 2. I will give 3 and 3. I will give 2 to 2. If I break it, I will do prime factorization. Then, what will happen? The amount that I will get here, the amount that I will get here, the amount that I will get here, I will get 0. Because 2 will remain. 2 will be full. Every next number is divisible. Try to understand this. You will get to know in any number. Why? Why will you get 2 more? Full and less. The amount that you get in its prime factorization, the amount that you get in it, you will get trailing 0s. Now, we have taken advantage of this. We have taken advantage of this. How can we reduce the computational complexity? I will take it up and bring it here. And I will comment it out for your understanding. So that you can keep watching it. And as I am coding it, I will remove the pass from here. So, first of all, what I will do here is, I will write the count is equal to 0. Because that is the basic. I will have to do the count as 0. Now, I will tell you one thing. Look, I have caught a number. I am catching 100. Among 100, what number will I get? Of 100, within the factorial, what number of 5 will I get if I want to get this? So, first of all, what I will do is, I will check the number that東西 is inside the 100. etc. First, I will see this. So how will I discover the required number, that will be leading to five? I won't do anything. I will write 100 now. I will divide it from 5. And I will take the flower's. So what is our division? Simply I am the division operator of the flow division operator If it was 101 and I divide it from 5 then it would be 0 Because it leaves the remainder But there is a catch here Catch is that there are 2 5 in 25 Similarly in 125 there are 3 5 in 25 So I am missing my 5 here So I will not miss 5 I will divide it from power of 5 I will divide it from 5 I will divide it from 5 into 5 And I will keep doing this I will keep doing this until the time this thing is mine The flow division operator is 0 Because if I divide it from 125 then it will be 0 So let's write it in code So I will do something like this And what I will do here is I will write a simple program And that is what I will explain to you What I am doing here is my number I will write while Number divided by i is greater than or equal to 1 So if it is 1 then I will do not equal to 0 You can do anything here I have done number divided by i And I will keep this flow division here And what I will do in i? I will initialize it from 5 So I have initialized it from 5 Now what I will do here is Count plus is equal to End of number by i I will count how many 5 After that I will multiply i I will multiply i by 5 I will see how much is 125 I will see how much is 125 I will see how much is 125 I will keep looking at all those things And after that I will return my count So I will return it here I will return it here I will see what is the error I have put 5 And it is 1 If I put 10 Then what is 2 If I put 1000 Then I have told you how many zeros are there Look at the factorial So if we try to take 10,000 factorial Then the machine will fall If we try to take out the trailing zeros Then we can do it So I wanted to tell you this I hope you liked the video And your problem must have been solved If you search this problem on this video And if you came here for practice I hope this video is very helpful You must be getting new things to learn And do you understand or not Do let me know in the comment Because people sit quietly And don't see Tell me in the comment So I have to tell But many people who comment I want to thank you for that And do I continue this series I will bring videos like this For your practice So for now Don't forget to like this video Thank you so much for watching this video And I will see you next time Subscribe to our channel"
+}

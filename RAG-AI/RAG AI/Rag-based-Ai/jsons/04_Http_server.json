@@ -1,0 +1,1649 @@
+{
+    "chunks": [
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 0.0,
+            "end": 3.48,
+            "text": " Guys, it happens that you want to do something like this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 3.48,
+            "end": 8.18,
+            "text": " so that you can test the web development or something related to the jQuery"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 8.18,
+            "end": 9.84,
+            "text": " But what happens generally?"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 9.84,
+            "end": 12.5,
+            "text": " You have to do something to test it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 12.5,
+            "end": 14.98,
+            "text": " and suddenly you say, how will I make a server?"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 14.98,
+            "end": 16.8,
+            "text": " Where will I download ZAMP?"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 16.8,
+            "end": 19.76,
+            "text": " I have installed ZAMP in my videos"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 19.76,
+            "end": 24.26,
+            "text": " I have told you how MySQL is installed and how a database is made"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 24.26,
+            "end": 27.54,
+            "text": " So whenever we do any work related to front-end"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 27.54,
+            "end": 32.0,
+            "text": " then we will first test it in our local and then we will do something else"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 32.0,
+            "end": 34.36,
+            "text": " So we have a very dirty way of doing it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 34.36,
+            "end": 38.2,
+            "text": " What happens is that simply download some code"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 38.2,
+            "end": 40.879999999999995,
+            "text": " I have shown you a folder here which I have made"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 40.879999999999995,
+            "end": 43.72,
+            "text": " Now it happens that whenever we make a folder like this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 43.72,
+            "end": 48.16,
+            "text": " then we think that we will make a file here, HTML, CSS, JavaScript"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 48.16,
+            "end": 50.879999999999995,
+            "text": " and after that we will do our work"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 50.879999999999995,
+            "end": 54.239999999999995,
+            "text": " But I will tell you why you should make a server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 54.24,
+            "end": 56.660000000000004,
+            "text": " I will tell you a very good way of making a server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 56.660000000000004,
+            "end": 58.160000000000004,
+            "text": " with the help of Python"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 58.160000000000004,
+            "end": 60.7,
+            "text": " But first of all I will tell you that you guys"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 60.7,
+            "end": 64.28,
+            "text": " I will open the folder that I am going to do"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 64.28,
+            "end": 67.04,
+            "text": " So I will do an open folder"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 67.04,
+            "end": 69.14,
+            "text": " I have made it in my desktop"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 69.14,
+            "end": 71.42,
+            "text": " I will open this folder here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 71.42,
+            "end": 74.18,
+            "text": " I will close the old folder"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 74.18,
+            "end": 76.18,
+            "text": " I will make a new file here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 76.18,
+            "end": 78.18,
+            "text": " I will make a control in the back or like this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 78.18,
+            "end": 80.68,
+            "text": " I will write HTML here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 80.68,
+            "end": 81.68,
+            "text": " I will write only this much"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 81.68,
+            "end": 82.78,
+            "text": " I will save it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 82.82000000000001,
+            "end": 85.82000000000001,
+            "text": " I will save it from where I have made it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 85.82000000000001,
+            "end": 88.82000000000001,
+            "text": " I have saved it in the name of index.html"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 88.82000000000001,
+            "end": 90.82000000000001,
+            "text": " Now I will simply do a control here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 90.82000000000001,
+            "end": 92.82000000000001,
+            "text": " I will write HTML here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 92.82000000000001,
+            "end": 95.26,
+            "text": " So it gives me a basic template"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 95.26,
+            "end": 97.26,
+            "text": " I will write my title here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 97.26,
+            "end": 99.76,
+            "text": " And I have this dirty way here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 99.76,
+            "end": 101.76,
+            "text": " And I will write something in the body"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 101.76,
+            "end": 104.76,
+            "text": " This is a simple paragraph"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 104.76,
+            "end": 105.76,
+            "text": " Which is not there"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 105.76,
+            "end": 106.76,
+            "text": " But okay"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 106.76,
+            "end": 108.76,
+            "text": " Suppose I come here and I open it like this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 108.76,
+            "end": 110.76,
+            "text": " I say index.html"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 111.74000000000001,
+            "end": 113.74000000000001,
+            "text": " So there is no problem here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 113.74000000000001,
+            "end": 115.74000000000001,
+            "text": " But I will tell you why it is not safe to do this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 115.74000000000001,
+            "end": 117.74000000000001,
+            "text": " When you develop"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 117.74000000000001,
+            "end": 119.74000000000001,
+            "text": " First of all I will tell you something"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 119.74000000000001,
+            "end": 121.74000000000001,
+            "text": " The Google Chrome file is written here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 121.74000000000001,
+            "end": 123.74000000000001,
+            "text": " So this local file"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 123.74000000000001,
+            "end": 125.74000000000001,
+            "text": " And through a server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 125.74000000000001,
+            "end": 127.74000000000001,
+            "text": " The server treats it in two different ways"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 127.74000000000001,
+            "end": 129.74,
+            "text": " The first thing is this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 129.74,
+            "end": 131.74,
+            "text": " You can have a problem there"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 131.74,
+            "end": 133.74,
+            "text": " When you will deploy it on your server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 133.74,
+            "end": 135.74,
+            "text": " Because finally your website will be there"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 135.74,
+            "end": 137.74,
+            "text": " You will not see it in your PC"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 137.74,
+            "end": 139.74,
+            "text": " So what you should do is"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 139.74,
+            "end": 141.74,
+            "text": " You should make a local server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 141.74,
+            "end": 143.74,
+            "text": " Like you can download ZAMP"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 143.74,
+            "end": 145.74,
+            "text": " You don't have to download ZAMP"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 145.74,
+            "end": 147.74,
+            "text": " This video was based on that"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 147.74,
+            "end": 149.74,
+            "text": " But first you will hear why you should always make a server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 149.74,
+            "end": 151.74,
+            "text": " The second thing is that"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 151.74,
+            "end": 153.74,
+            "text": " Relative links are safe"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 153.74,
+            "end": 155.74,
+            "text": " Why are Relative links safe"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 155.74,
+            "end": 157.74,
+            "text": " I will tell you what this means"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 157.74,
+            "end": 159.74,
+            "text": " Suppose you have written something in your website"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 159.74,
+            "end": 161.74,
+            "text": " I will show you"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 161.74,
+            "end": 163.74,
+            "text": " Suppose I put an anchor here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 163.74,
+            "end": 165.74,
+            "text": " I put a physical to slash block"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 165.74,
+            "end": 167.74,
+            "text": " And I write here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 167.74,
+            "end": 169.74,
+            "text": " I will save it under the control"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 169.74,
+            "end": 171.74,
+            "text": " And as soon as I will reload it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 171.74,
+            "end": 173.74,
+            "text": " I will click on the block"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 173.74,
+            "end": 175.74,
+            "text": " So it is in my computer system"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 175.74,
+            "end": 177.74,
+            "text": " It is in the C block"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 177.74,
+            "end": 179.74,
+            "text": " What does this mean"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 179.74,
+            "end": 181.74,
+            "text": " I want my directory to be in the block"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 181.74,
+            "end": 183.74,
+            "text": " So this is the problem"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 183.74,
+            "end": 185.74,
+            "text": " So your server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 185.74,
+            "end": 187.74,
+            "text": " The development you are doing"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 187.74,
+            "end": 189.74,
+            "text": " You can go here and then deploy"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 189.74,
+            "end": 191.74,
+            "text": " So we will make it on the server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 191.74,
+            "end": 193.74,
+            "text": " The second thing is"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 193.74,
+            "end": 195.74,
+            "text": " Sometimes what happens"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 195.74,
+            "end": 197.74,
+            "text": " It will treat you in a way"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 197.74,
+            "end": 199.74,
+            "text": " Suppose I am using Internet Slower"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 199.74,
+            "end": 201.74,
+            "text": " Or Microsoft Edge"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 201.74,
+            "end": 203.74,
+            "text": " So that file will handle it in a different way"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 203.74,
+            "end": 205.74,
+            "text": " So I don't want to create a problem"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 205.74,
+            "end": 207.74,
+            "text": " For me"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 207.74,
+            "end": 209.74,
+            "text": " So I will make a server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 209.74,
+            "end": 211.74,
+            "text": " While maintaining a professionalism"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 211.74,
+            "end": 213.74,
+            "text": " We have some simple ways"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 213.74,
+            "end": 215.74,
+            "text": " To install flask"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 215.74,
+            "end": 217.74,
+            "text": " Install this node and express"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 217.74,
+            "end": 219.74,
+            "text": " Install the node.js"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 219.74,
+            "end": 221.74,
+            "text": " Install the express"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 221.74,
+            "end": 223.74,
+            "text": " Or install the python flask"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 223.74,
+            "end": 225.74,
+            "text": " But I will say"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 225.74,
+            "end": 227.74,
+            "text": " I want to use only a bootstrap"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 227.74,
+            "end": 229.74,
+            "text": " I want to do a small testing"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 229.74,
+            "end": 231.74,
+            "text": " I don't want to read this in my head"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 231.74,
+            "end": 233.74,
+            "text": " So I am making a video for you"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 233.74,
+            "end": 235.74,
+            "text": " For that"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 235.74,
+            "end": 237.74,
+            "text": " You can easily make a"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 237.74,
+            "end": 239.74,
+            "text": " Cute server in python"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 239.74,
+            "end": 241.74,
+            "text": " Now I will tell you why I am saying"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 241.74,
+            "end": 243.74,
+            "text": " Cute"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 243.74,
+            "end": 245.74,
+            "text": " If you are on your Windows machine"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 245.74,
+            "end": 247.74,
+            "text": " Right click on Shift and open"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 247.74,
+            "end": 249.74,
+            "text": " PowerShell window"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 249.74,
+            "end": 251.74,
+            "text": " And here you have to write"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 251.74,
+            "end": 253.74,
+            "text": " Then you can write"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 253.74,
+            "end": 255.74,
+            "text": " Http.server-bind"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 255.74,
+            "end": 257.74,
+            "text": " Is equal to localhost"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 257.74,
+            "end": 259.74,
+            "text": " If you write this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 259.74,
+            "end": 261.74,
+            "text": " Or bind is equal to localhost"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 261.74,
+            "end": 263.74,
+            "text": " If you write this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 263.74,
+            "end": 265.74,
+            "text": " And after writing this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 265.74,
+            "end": 267.74,
+            "text": " You go to your computer"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 267.74,
+            "end": 269.74,
+            "text": " And here you write"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 269.74,
+            "end": 271.74,
+            "text": " Localhost,8000"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 271.74,
+            "end": 273.74,
+            "text": " So this is a small server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 273.74,
+            "end": 275.74,
+            "text": " And I will"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 275.74,
+            "end": 277.74,
+            "text": " Block it on localhost 8000"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 277.74,
+            "end": 279.74,
+            "text": " So it is taking me to this directory"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 279.74,
+            "end": 281.74,
+            "text": " So here we have one thing"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 281.74,
+            "end": 283.74,
+            "text": " So what I have to do"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 283.74,
+            "end": 285.74,
+            "text": " Nothing, where my files were"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 285.74,
+            "end": 287.74,
+            "text": " I have to right click on Shift"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 287.74,
+            "end": 289.74,
+            "text": " And I have to write python-mhttp.server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 289.74,
+            "end": 291.74,
+            "text": " Many people don't know this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 291.74,
+            "end": 293.74,
+            "text": " And to make small websites"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 293.74,
+            "end": 295.74,
+            "text": " To do small work"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 295.74,
+            "end": 297.74,
+            "text": " We start the XAM"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 297.74,
+            "end": 299.74,
+            "text": " We install its 5th chain"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 299.74,
+            "end": 301.74,
+            "text": " We start"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 301.74,
+            "end": 303.74,
+            "text": " MySQL starts"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 303.74,
+            "end": 305.74,
+            "text": " And some people don't say this in this way"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 305.74,
+            "end": 307.74,
+            "text": " Leave it, don't do this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 307.74,
+            "end": 309.74,
+            "text": " But what I do is"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 309.74,
+            "end": 311.74,
+            "text": " I write Shift and write"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 311.74,
+            "end": 313.74,
+            "text": " I make python server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 313.74,
+            "end": 315.74,
+            "text": " I go to my computer and go to localhost"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 315.74,
+            "end": 317.74,
+            "text": " Now if you want to do something"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 317.74,
+            "end": 319.74,
+            "text": " I have to take the bootstrap template"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 319.74,
+            "end": 321.74,
+            "text": " I will see"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 321.74,
+            "end": 323.74,
+            "text": " What is the bootstrap"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 323.74,
+            "end": 325.74,
+            "text": " I will go to my sublime"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 325.74,
+            "end": 327.74,
+            "text": " I will paste it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 327.74,
+            "end": 329.74,
+            "text": " I will take some components of bootstrap"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 329.74,
+            "end": 331.74,
+            "text": " And I will bring some"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 331.74,
+            "end": 333.74,
+            "text": " I have made a video on bootstrap"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 333.74,
+            "end": 335.74,
+            "text": " You can check out"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 335.74,
+            "end": 337.74,
+            "text": " I have to learn bootstrap"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 337.74,
+            "end": 339.74,
+            "text": " But I want to bring this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 339.74,
+            "end": 341.74,
+            "text": " And along with that"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 341.74,
+            "end": 343.74,
+            "text": " I will put my sublime"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 343.74,
+            "end": 345.74,
+            "text": " I will save it from the controller"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 345.74,
+            "end": 347.74,
+            "text": " I will reload it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 347.74,
+            "end": 349.74,
+            "text": " See, the error response is called"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 349.74,
+            "end": 351.74,
+            "text": " I will reload it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 351.74,
+            "end": 353.74,
+            "text": " Localhost 8000"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 353.74,
+            "end": 355.74,
+            "text": " What is the problem"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 355.74,
+            "end": 357.74,
+            "text": " So this is abort"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 357.74,
+            "end": 359.74,
+            "text": " So here I will start it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 359.74,
+            "end": 361.74,
+            "text": " I will start it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 361.74,
+            "end": 363.74,
+            "text": " Let's start"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 363.74,
+            "end": 365.74,
+            "text": " So what I did here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 365.74,
+            "end": 367.74,
+            "text": " I will reload it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 367.74,
+            "end": 369.74,
+            "text": " I downloaded all the files from CDN"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 369.74,
+            "end": 371.74,
+            "text": " I want to click on learn more"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 371.74,
+            "end": 373.74,
+            "text": " So this is my hello word"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 373.74,
+            "end": 375.74,
+            "text": " I will change it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 375.74,
+            "end": 377.74,
+            "text": " I can develop my web"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 377.74,
+            "end": 379.74,
+            "text": " Basically I mean canning"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 379.74,
+            "end": 381.74,
+            "text": " If I want to do this"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 381.74,
+            "end": 383.74,
+            "text": " I will write id is equal to lm"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 383.74,
+            "end": 385.74,
+            "text": " Learn more"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 385.74,
+            "end": 387.74,
+            "text": " And after that I can write my jQuery"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 387.74,
+            "end": 389.74,
+            "text": " Because in bootstrap by default"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 389.74,
+            "end": 391.74,
+            "text": " JQuery is included"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 391.74,
+            "end": 393.74,
+            "text": " I can write selector"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 393.74,
+            "end": 395.74,
+            "text": " And I will say"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 395.74,
+            "end": 397.74,
+            "text": " I will show you by doing it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 397.74,
+            "end": 399.74,
+            "text": " Sometimes you should do it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 399.74,
+            "end": 401.74,
+            "text": " And I will write lm"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 401.74,
+            "end": 403.74,
+            "text": " Click on it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 403.74,
+            "end": 405.74,
+            "text": " Click on it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 405.74,
+            "end": 407.74,
+            "text": " Call function"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 407.74,
+            "end": 409.74,
+            "text": " Call function"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 409.74,
+            "end": 411.74,
+            "text": " And after that I will write function"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 411.74,
+            "end": 413.74,
+            "text": " So if anyone clicks on lm"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 413.74,
+            "end": 415.74,
+            "text": " So what I will do"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 415.74,
+            "end": 417.74,
+            "text": " Its class is equal to"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 417.74,
+            "end": 419.74,
+            "text": " Leade, id is equal to"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 419.74,
+            "end": 421.74,
+            "text": " I will write it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 421.74,
+            "end": 423.74,
+            "text": " id is equal to lead"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 423.74,
+            "end": 425.74,
+            "text": " And here I will say"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 425.74,
+            "end": 427.74,
+            "text": " id is equal to lead"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 427.74,
+            "end": 429.74,
+            "text": " So I will select it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 429.74,
+            "end": 431.74,
+            "text": " The id which is our lead"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 431.74,
+            "end": 433.74,
+            "text": " The id which is our lead"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 433.74,
+            "end": 435.74,
+            "text": " Sorry I pressed caps lock"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 435.74,
+            "end": 437.74,
+            "text": " Set its html"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 437.74,
+            "end": 439.74,
+            "text": " By the way"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 439.74,
+            "end": 441.74,
+            "text": " Who wants jQuery video from you"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 441.74,
+            "end": 443.74,
+            "text": " Tell me who wants it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 443.74,
+            "end": 445.74,
+            "text": " Set its html"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 445.74,
+            "end": 447.74,
+            "text": " Harry"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 447.74,
+            "end": 449.74,
+            "text": " Click on you brother"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 449.74,
+            "end": 451.74,
+            "text": " Ok"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 451.74,
+            "end": 453.74,
+            "text": " And after doing it I will save it from the controller"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 453.74,
+            "end": 455.74,
+            "text": " I am ready to do it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 455.74,
+            "end": 457.74,
+            "text": " I will reload it and click on learn more"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 457.74,
+            "end": 459.74,
+            "text": " Look it is here, Harry has clicked on you brother"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 459.74,
+            "end": 461.74,
+            "text": " So you can do all these things"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 461.74,
+            "end": 463.74,
+            "text": " And you can do many things"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 463.74,
+            "end": 465.74,
+            "text": " And you can do it with it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 465.74,
+            "end": 467.74,
+            "text": " This is it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 467.74,
+            "end": 469.74,
+            "text": " You can fade in and fade out"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 469.74,
+            "end": 471.74,
+            "text": " You can fade out it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 471.74,
+            "end": 473.74,
+            "text": " You can put it in milliseconds"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 473.74,
+            "end": 475.74,
+            "text": " And after that I will reload it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 475.74,
+            "end": 477.74,
+            "text": " And after that I will click on it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 477.74,
+            "end": 479.74,
+            "text": " And I will fade in"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 479.74,
+            "end": 481.74,
+            "text": " I will fade in it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 481.74,
+            "end": 483.74,
+            "text": " And here I will fade in it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 483.74,
+            "end": 485.74,
+            "text": " And I will reload it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 485.74,
+            "end": 487.74,
+            "text": " I will click on it"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 487.74,
+            "end": 489.74,
+            "text": " And it is not working"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 489.74,
+            "end": 491.74,
+            "text": " Basically it is saying"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 491.74,
+            "end": 493.74,
+            "text": " Because our bootstrap"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 493.74,
+            "end": 495.74,
+            "text": " Uses slim version of jQuery"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 495.74,
+            "end": 497.74,
+            "text": " So you can do it fully"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 497.74,
+            "end": 499.74,
+            "text": " I will not tell you here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 499.74,
+            "end": 501.74,
+            "text": " If you want jQuery video"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 501.74,
+            "end": 503.74,
+            "text": " For any animations"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 503.74,
+            "end": 505.74,
+            "text": " You can tell how it is made"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 505.74,
+            "end": 507.74,
+            "text": " How the server is made"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 507.74,
+            "end": 509.74,
+            "text": " If you click here"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 509.74,
+            "end": 511.74,
+            "text": " This is a server"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 511.74,
+            "end": 513.74,
+            "text": " It is not accessing local file"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 513.74,
+            "end": 515.74,
+            "text": " You can run your JavaScript"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 515.74,
+            "end": 517.74,
+            "text": " No worries"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 517.74,
+            "end": 519.74,
+            "text": " I felt like telling you this video"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 519.74,
+            "end": 521.74,
+            "text": " Like this video"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 521.74,
+            "end": 523.74,
+            "text": " And tell me what are the things"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 523.74,
+            "end": 525.74,
+            "text": " How I include such videos"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 525.74,
+            "end": 527.74,
+            "text": " And if you have not seen the Python course"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 527.74,
+            "end": 529.74,
+            "text": " Then go and see the Python details"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 529.74,
+            "end": 531.74,
+            "text": " And that is the course of 103 videos"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 531.74,
+            "end": 533.74,
+            "text": " I have not designed"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 533.74,
+            "end": 535.74,
+            "text": " By thinking that you have seen"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 535.74,
+            "end": 537.74,
+            "text": " You will understand everything"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 537.74,
+            "end": 539.74,
+            "text": " And along with that"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 539.74,
+            "end": 541.74,
+            "text": " When we go to the gym"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 541.74,
+            "end": 543.74,
+            "text": " We exercise and take supplements"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 543.74,
+            "end": 545.74,
+            "text": " These videos are for practice"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 545.74,
+            "end": 547.74,
+            "text": " These are all supplements"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 547.74,
+            "end": 549.74,
+            "text": " And that is the main exercise"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 549.74,
+            "end": 551.74,
+            "text": " So you do the main exercise there"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 551.74,
+            "end": 553.74,
+            "text": " And it is getting slow"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 553.74,
+            "end": 555.74,
+            "text": " And my phone is connected"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 555.74,
+            "end": 557.74,
+            "text": " With my wifi"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 557.74,
+            "end": 559.74,
+            "text": " And because of that the internet is getting slow"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 559.74,
+            "end": 561.74,
+            "text": " And let's stop this video"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 561.74,
+            "end": 563.74,
+            "text": " You can watch me"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 563.74,
+            "end": 565.74,
+            "text": " Go to the channel"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 565.74,
+            "end": 567.74,
+            "text": " Search Code with Hair"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 567.74,
+            "end": 569.74,
+            "text": " And that is it for this video"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 569.74,
+            "end": 571.74,
+            "text": " Thank you so much for watching this video"
+        },
+        {
+            "title": "How To Create A Python HTTP Server",
+            "start": 571.74,
+            "end": 573.74,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " Guys, it happens that you want to do something like this so that you can test the web development or something related to the jQuery But what happens generally? You have to do something to test it and suddenly you say, how will I make a server? Where will I download ZAMP? I have installed ZAMP in my videos I have told you how MySQL is installed and how a database is made So whenever we do any work related to front-end then we will first test it in our local and then we will do something else So we have a very dirty way of doing it What happens is that simply download some code I have shown you a folder here which I have made Now it happens that whenever we make a folder like this then we think that we will make a file here, HTML, CSS, JavaScript and after that we will do our work But I will tell you why you should make a server I will tell you a very good way of making a server with the help of Python But first of all I will tell you that you guys I will open the folder that I am going to do So I will do an open folder I have made it in my desktop I will open this folder here I will close the old folder I will make a new file here I will make a control in the back or like this I will write HTML here I will write only this much I will save it I will save it from where I have made it I have saved it in the name of index.html Now I will simply do a control here I will write HTML here So it gives me a basic template I will write my title here And I have this dirty way here And I will write something in the body This is a simple paragraph Which is not there But okay Suppose I come here and I open it like this I say index.html So there is no problem here But I will tell you why it is not safe to do this When you develop First of all I will tell you something The Google Chrome file is written here So this local file And through a server The server treats it in two different ways The first thing is this You can have a problem there When you will deploy it on your server Because finally your website will be there You will not see it in your PC So what you should do is You should make a local server Like you can download ZAMP You don't have to download ZAMP This video was based on that But first you will hear why you should always make a server The second thing is that Relative links are safe Why are Relative links safe I will tell you what this means Suppose you have written something in your website I will show you Suppose I put an anchor here I put a physical to slash block And I write here I will save it under the control And as soon as I will reload it I will click on the block So it is in my computer system It is in the C block What does this mean I want my directory to be in the block So this is the problem So your server The development you are doing You can go here and then deploy So we will make it on the server The second thing is Sometimes what happens It will treat you in a way Suppose I am using Internet Slower Or Microsoft Edge So that file will handle it in a different way So I don't want to create a problem For me So I will make a server While maintaining a professionalism We have some simple ways To install flask Install this node and express Install the node.js Install the express Or install the python flask But I will say I want to use only a bootstrap I want to do a small testing I don't want to read this in my head So I am making a video for you For that You can easily make a Cute server in python Now I will tell you why I am saying Cute If you are on your Windows machine Right click on Shift and open PowerShell window And here you have to write Then you can write Http.server-bind Is equal to localhost If you write this Or bind is equal to localhost If you write this And after writing this You go to your computer And here you write Localhost,8000 So this is a small server And I will Block it on localhost 8000 So it is taking me to this directory So here we have one thing So what I have to do Nothing, where my files were I have to right click on Shift And I have to write python-mhttp.server Many people don't know this And to make small websites To do small work We start the XAM We install its 5th chain We start MySQL starts And some people don't say this in this way Leave it, don't do this But what I do is I write Shift and write I make python server I go to my computer and go to localhost Now if you want to do something I have to take the bootstrap template I will see What is the bootstrap I will go to my sublime I will paste it I will take some components of bootstrap And I will bring some I have made a video on bootstrap You can check out I have to learn bootstrap But I want to bring this And along with that I will put my sublime I will save it from the controller I will reload it See, the error response is called I will reload it Localhost 8000 What is the problem So this is abort So here I will start it I will start it Let's start So what I did here I will reload it I downloaded all the files from CDN I want to click on learn more So this is my hello word I will change it I can develop my web Basically I mean canning If I want to do this I will write id is equal to lm Learn more And after that I can write my jQuery Because in bootstrap by default JQuery is included I can write selector And I will say I will show you by doing it Sometimes you should do it And I will write lm Click on it Click on it Call function Call function And after that I will write function So if anyone clicks on lm So what I will do Its class is equal to Leade, id is equal to I will write it id is equal to lead And here I will say id is equal to lead So I will select it The id which is our lead The id which is our lead Sorry I pressed caps lock Set its html By the way Who wants jQuery video from you Tell me who wants it Set its html Harry Click on you brother Ok And after doing it I will save it from the controller I am ready to do it I will reload it and click on learn more Look it is here, Harry has clicked on you brother So you can do all these things And you can do many things And you can do it with it This is it You can fade in and fade out You can fade out it You can put it in milliseconds And after that I will reload it And after that I will click on it And I will fade in I will fade in it And here I will fade in it And I will reload it I will click on it And it is not working Basically it is saying Because our bootstrap Uses slim version of jQuery So you can do it fully I will not tell you here If you want jQuery video For any animations You can tell how it is made How the server is made If you click here This is a server It is not accessing local file You can run your JavaScript No worries I felt like telling you this video Like this video And tell me what are the things How I include such videos And if you have not seen the Python course Then go and see the Python details And that is the course of 103 videos I have not designed By thinking that you have seen You will understand everything And along with that When we go to the gym We exercise and take supplements These videos are for practice These are all supplements And that is the main exercise So you do the main exercise there And it is getting slow And my phone is connected With my wifi And because of that the internet is getting slow And let's stop this video You can watch me Go to the channel Search Code with Hair And that is it for this video Thank you so much for watching this video And I will see you next time"
+}

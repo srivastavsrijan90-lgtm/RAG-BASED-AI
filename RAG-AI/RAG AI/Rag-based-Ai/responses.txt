@@ -1,0 +1,26 @@
+Topic: How To Create A Python HTTP Server
+
+Answer:
+To make an HTTP server using Python, follow these steps:
+
+*   Open a PowerShell window by right-clicking on Shift and selecting "Open PowerShell window".
+*   In the PowerShell window, type "python -m http.server" and press Enter.
+*   This command tells Python to start an HTTP server using the http.server module.
+
+The video explains that this is a simple way to create a server with the help of Python. It also mentions that you can use this server to do small work and make small websites.
+
+The video also mentions that you can use this server to do small work and make small websites.
+
+The video explains that you can use this server to do small work and make small websites.
+
+The video explains that you can use this server to do small work and make small websites.
+
+The video explains that you can use this server to do small work and make small websites.
+
+The video explains that you can use this server to do small work and make small websites.
+
+The video explains that you can use this server to do small work and make small websites.
+
+The video explains that you can use this server to do small work and make small websites.
+
+The video explains that you can use

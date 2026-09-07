@@ -1,0 +1,2238 @@
+/* ============================================================
+   VIDEO RAG AI
+   PREMIUM GREY SIDEBAR / WHITE HERO / GRAPHITE UI
+   ============================================================ */
+
+
+/* ============================================================
+   ROOT VARIABLES
+   ============================================================ */
+
+:root {
+
+    /* CORE BACKGROUNDS */
+
+    --black: #050608;
+    --black-deep: #070a0f;
+    --black-soft: #0a0e14;
+
+    /* Sidebar */
+
+    --sidebar-bg: #d9dde2;
+    --sidebar-bg-light: #e8ebee;
+    --sidebar-bg-dark: #c7ccd2;
+
+    /* Main */
+
+    --main-bg: #111419;
+    --main-bg-light: #151a20;
+
+    /* Hero */
+
+    --hero-bg: #ffffff;
+    --hero-bg-light: #ffffff;
+    --hero-bg-dark: #f0f2f4;
+
+    /* Chat */
+
+    --chat-bg: #171c22;
+    --chat-bg-hover: #1c222a;
+
+    --user-bg: #13181e;
+
+    /* AI Output */
+
+    --output-bg: #222931;
+    --output-bg-soft: #1c2229;
+    --output-bg-light: #283039;
+
+    /* Input */
+
+    --input-bg: #0d1218;
+
+    /* Cards */
+
+    --card-bg: #151a20;
+    --card-bg-light: #1b2128;
+
+
+    /* TEXT */
+
+    --white: #ffffff;
+    --white-soft: #f5f7fa;
+    --white-muted: #d3d9e1;
+
+    --text-grey: #aab3bd;
+    --text-muted: #747e89;
+    --text-dark: #555f6b;
+
+
+    /* SIDEBAR TEXT */
+
+    --sidebar-text: #111111;
+    --sidebar-text-muted: #555b62;
+    --sidebar-border: rgba(0, 0, 0, 0.15);
+
+
+    /* HERO TEXT */
+
+    --hero-text: #080a0d;
+    --hero-text-soft: #252a30;
+    --hero-text-muted: #626a73;
+
+
+    /* BORDERS */
+
+    --border:
+        rgba(255, 255, 255, 0.13);
+
+    --border-soft:
+        rgba(255, 255, 255, 0.07);
+
+    --border-strong:
+        rgba(255, 255, 255, 0.30);
+
+
+    /* ACCENTS */
+
+    --accent:
+        #9db9d5;
+
+    --accent-light:
+        #c7dcf1;
+
+    --accent-dark:
+        #718ca8;
+
+    --success:
+        #159447;
+
+
+    /* SHADOWS */
+
+    --shadow-sm:
+        0 6px 20px rgba(0, 0, 0, 0.18);
+
+    --shadow-md:
+        0 15px 40px rgba(0, 0, 0, 0.28);
+
+    --shadow-lg:
+        0 25px 70px rgba(0, 0, 0, 0.40);
+
+
+    /* RADIUS */
+
+    --radius-xs: 8px;
+    --radius-sm: 10px;
+    --radius-md: 14px;
+    --radius-lg: 18px;
+    --radius-xl: 26px;
+    --radius-2xl: 30px;
+}
+
+
+/* ============================================================
+   GLOBAL RESET
+   ============================================================ */
+
+* {
+    box-sizing: border-box;
+}
+
+
+html,
+body {
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    background:
+        var(--main-bg) !important;
+
+    color:
+        var(--white) !important;
+}
+
+
+/* ============================================================
+   MAIN STREAMLIT APP
+   ============================================================ */
+
+[data-testid="stAppViewContainer"] {
+
+    min-height: 100vh;
+
+    background:
+        linear-gradient(
+            180deg,
+            #111419 0%,
+            #101419 50%,
+            #0c1015 100%
+        ) !important;
+
+    color:
+        var(--white) !important;
+}
+
+
+/* ============================================================
+   MAIN CONTENT
+   ============================================================ */
+
+[data-testid="stAppViewContainer"] > .main {
+
+    background:
+        transparent !important;
+}
+
+
+/* ============================================================
+   MAIN CONTENT CONTAINER
+   ============================================================ */
+
+.block-container {
+
+    max-width:
+        1250px !important;
+
+    padding-top:
+        35px !important;
+
+    padding-bottom:
+        130px !important;
+
+    padding-left:
+        35px !important;
+
+    padding-right:
+        35px !important;
+}
+
+
+/* ============================================================
+   REMOVE DEFAULT STREAMLIT UI
+   ============================================================ */
+
+#MainMenu {
+    display: none !important;
+}
+
+
+footer {
+    display: none !important;
+}
+
+
+header {
+
+    background:
+        transparent !important;
+}
+
+
+/* ============================================================
+   GLOBAL TEXT
+   ============================================================ */
+
+body,
+p,
+span,
+div,
+label,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+    color:
+        var(--white);
+}
+
+
+/* ============================================================
+   MARKDOWN
+   ============================================================ */
+
+.stMarkdown,
+.stMarkdown p,
+.stMarkdown span,
+.stMarkdown div,
+.stMarkdown li {
+
+    color:
+        var(--white) !important;
+}
+
+
+/* ============================================================
+   SIDEBAR
+   PREMIUM GREY
+   ============================================================ */
+
+section[data-testid="stSidebar"] {
+
+    background:
+        #d9dde2 !important;
+
+    border-right:
+        1px solid rgba(0, 0, 0, 0.15) !important;
+
+    box-shadow:
+        12px 0 35px rgba(0, 0, 0, 0.20) !important;
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR INNER
+   ============================================================ */
+
+section[data-testid="stSidebar"] > div {
+
+    background:
+        #d9dde2 !important;
+
+    padding:
+        25px 18px !important;
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR INNER CONTAINERS
+   ============================================================ */
+
+section[data-testid="stSidebar"] [data-testid="stSidebarContent"],
+section[data-testid="stSidebar"] [data-testid="stSidebarUserContent"] {
+
+    background:
+        #d9dde2 !important;
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR TEXT
+   ============================================================ */
+
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] span,
+section[data-testid="stSidebar"] label,
+section[data-testid="stSidebar"] div {
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR HEADINGS
+   ============================================================ */
+
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3,
+section[data-testid="stSidebar"] h4,
+section[data-testid="stSidebar"] h5,
+section[data-testid="stSidebar"] h6 {
+
+    color:
+        #050608 !important;
+
+    font-weight:
+        800 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR BUTTON
+   ============================================================ */
+
+section[data-testid="stSidebar"] button {
+
+    width:
+        100% !important;
+
+    min-height:
+        45px;
+
+    border-radius:
+        12px !important;
+
+    border:
+        1px solid rgba(0, 0, 0, 0.15) !important;
+
+    background:
+        #eef0f2 !important;
+
+    color:
+        #111111 !important;
+
+    font-weight:
+        700 !important;
+
+    transition:
+        all 0.22s ease;
+
+    box-shadow:
+        0 3px 12px rgba(0, 0, 0, 0.08);
+}
+
+
+/* ============================================================
+   SIDEBAR BUTTON TEXT
+   ============================================================ */
+
+section[data-testid="stSidebar"] button p,
+section[data-testid="stSidebar"] button span {
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR BUTTON HOVER
+   ============================================================ */
+
+section[data-testid="stSidebar"] button:hover {
+
+    background:
+        #ffffff !important;
+
+    border-color:
+        rgba(0, 0, 0, 0.35) !important;
+
+    color:
+        #000000 !important;
+
+    transform:
+        translateY(-1px);
+
+    box-shadow:
+        0 8px 22px rgba(0, 0, 0, 0.14);
+}
+
+
+section[data-testid="stSidebar"] button:hover p,
+section[data-testid="stSidebar"] button:hover span {
+
+    color:
+        #000000 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR INPUTS
+   ============================================================ */
+
+section[data-testid="stSidebar"] input,
+section[data-testid="stSidebar"] textarea {
+
+    background:
+        #f4f5f6 !important;
+
+    color:
+        #111111 !important;
+
+    border:
+        1px solid rgba(0, 0, 0, 0.20) !important;
+
+    border-radius:
+        10px !important;
+}
+
+
+section[data-testid="stSidebar"] input::placeholder,
+section[data-testid="stSidebar"] textarea::placeholder {
+
+    color:
+        #666666 !important;
+
+    opacity:
+        1 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR SELECT BOX
+   ============================================================ */
+
+section[data-testid="stSidebar"] div[data-baseweb="select"] {
+
+    background:
+        #f4f5f6 !important;
+
+    color:
+        #111111 !important;
+
+    border:
+        1px solid rgba(0, 0, 0, 0.20) !important;
+
+    border-radius:
+        10px !important;
+}
+
+
+section[data-testid="stSidebar"] div[data-baseweb="select"] * {
+
+    color:
+        #111111 !important;
+
+    background-color:
+        transparent !important;
+}
+
+
+/* ============================================================
+   SIDEBAR DROPDOWN
+   ============================================================ */
+
+div[data-baseweb="popover"] {
+
+    background:
+        #ffffff !important;
+
+    color:
+        #111111 !important;
+}
+
+
+div[data-baseweb="popover"] * {
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR DIVIDER
+   ============================================================ */
+
+section[data-testid="stSidebar"] hr {
+
+    background:
+        linear-gradient(
+            90deg,
+            transparent,
+            rgba(0, 0, 0, 0.20),
+            transparent
+        ) !important;
+
+    border:
+        none !important;
+
+    margin:
+        20px 0 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR CHECKBOX / RADIO
+   ============================================================ */
+
+section[data-testid="stSidebar"] [role="radiogroup"],
+section[data-testid="stSidebar"] [data-testid="stCheckbox"] {
+
+    color:
+        #111111 !important;
+}
+
+
+section[data-testid="stSidebar"] [role="radiogroup"] label,
+section[data-testid="stSidebar"] [data-testid="stCheckbox"] label {
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   SIDEBAR FILE UPLOADER
+   ============================================================ */
+
+section[data-testid="stSidebar"] [data-testid="stFileUploader"] {
+
+    background:
+        #d9dde2 !important;
+
+    border-radius:
+        12px !important;
+
+    color:
+        #111111 !important;
+}
+
+
+section[data-testid="stSidebar"] [data-testid="stFileUploader"] section {
+
+    background:
+        #eef0f2 !important;
+
+    border:
+        1px dashed rgba(0, 0, 0, 0.22) !important;
+
+    border-radius:
+        12px !important;
+}
+
+
+section[data-testid="stSidebar"] [data-testid="stFileUploader"] span,
+section[data-testid="stSidebar"] [data-testid="stFileUploader"] small {
+
+    color:
+        #444444 !important;
+}
+
+
+/* ============================================================
+   TOP TITLE
+   ============================================================ */
+
+.top-title {
+
+    font-size:
+        38px;
+
+    font-weight:
+        900;
+
+    letter-spacing:
+        -1.7px;
+
+    line-height:
+        1.1;
+
+    background:
+        linear-gradient(
+            90deg,
+            #ffffff 0%,
+            #edf3f8 35%,
+            #9db9d5 68%,
+            #ffffff 100%
+        );
+
+    background-size:
+        220% auto;
+
+    -webkit-background-clip:
+        text;
+
+    background-clip:
+        text;
+
+    -webkit-text-fill-color:
+        transparent;
+
+    animation:
+        titleGradient 8s linear infinite;
+
+    filter:
+        drop-shadow(
+            0 0 18px rgba(157, 185, 213, 0.10)
+        );
+}
+
+
+/* ============================================================
+   TITLE ANIMATION
+   ============================================================ */
+
+@keyframes titleGradient {
+
+    0% {
+        background-position:
+            0% center;
+    }
+
+    50% {
+        background-position:
+            100% center;
+    }
+
+    100% {
+        background-position:
+            0% center;
+    }
+}
+
+
+/* ============================================================
+   SUBTITLE
+   ============================================================ */
+
+.top-subtitle {
+
+    margin-top:
+        8px;
+
+    color:
+        #929ca8 !important;
+
+    font-size:
+        14px;
+
+    letter-spacing:
+        0.35px;
+}
+
+
+/* ============================================================
+   ONLINE STATUS
+   ============================================================ */
+
+.online-status {
+
+    display:
+        inline-flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    gap:
+        7px;
+
+    padding:
+        7px 13px;
+
+    border-radius:
+        999px;
+
+    background:
+        rgba(159, 240, 184, 0.035);
+
+    border:
+        1px solid rgba(159, 240, 184, 0.16);
+
+    color:
+        var(--success) !important;
+
+    font-size:
+        12px;
+
+    font-weight:
+        700;
+
+    box-shadow:
+        0 0 20px rgba(159, 240, 184, 0.025);
+}
+
+
+/* ============================================================
+   DIVIDER
+   ============================================================ */
+
+hr {
+
+    border:
+        none !important;
+
+    height:
+        1px !important;
+
+    margin:
+        26px 0 !important;
+
+    background:
+        linear-gradient(
+            90deg,
+            transparent,
+            rgba(157, 183, 212, 0.20),
+            transparent
+        ) !important;
+}
+
+
+/* ============================================================
+   HERO SECTION
+   PREMIUM CURVED WHITE CARD
+   ============================================================ */
+
+.hero-section {
+
+    min-height:
+        360px;
+
+    margin-top:
+        35px;
+
+    margin-bottom:
+        38px;
+
+    position:
+        relative;
+
+    overflow:
+        hidden;
+
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    /* MAIN CURVE */
+
+    border-radius:
+        48px !important;
+
+    /* Ensures children respect the curved shape */
+
+    clip-path:
+        inset(0 round 48px);
+
+    background:
+        #ffffff !important;
+
+    border:
+        1px solid rgba(0, 0, 0, 0.12) !important;
+
+    box-shadow:
+
+        0 30px 75px rgba(0, 0, 0, 0.30),
+
+        0 8px 25px rgba(0, 0, 0, 0.12),
+
+        inset 0 1px 0 rgba(255, 255, 255, 0.95),
+
+        inset 0 -1px 0 rgba(0, 0, 0, 0.06) !important;
+
+    isolation:
+        isolate;
+}
+
+
+/* ============================================================
+   HERO AMBIENT LIGHT
+   ============================================================ */
+
+.hero-section::before {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    width:
+        520px;
+
+    height:
+        520px;
+
+    border-radius:
+        50%;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(100, 110, 120, 0.12) 0%,
+            rgba(100, 110, 120, 0.06) 30%,
+            rgba(100, 110, 120, 0.025) 48%,
+            transparent 72%
+        );
+
+    filter:
+        blur(35px);
+
+    pointer-events:
+        none;
+
+    animation:
+        heroGlow 8s ease-in-out infinite;
+}
+
+
+/* ============================================================
+   HERO REFLECTION
+   ============================================================ */
+
+.hero-section::after {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    inset:
+        0;
+
+    pointer-events:
+        none;
+
+    border-radius:
+        inherit;
+
+    background:
+        linear-gradient(
+            115deg,
+            transparent 10%,
+            rgba(0, 0, 0, 0.01) 40%,
+            rgba(0, 0, 0, 0.035) 50%,
+            rgba(0, 0, 0, 0.01) 60%,
+            transparent 90%
+        );
+}
+
+
+/* ============================================================
+   HERO CONTENT
+   ============================================================ */
+
+.hero-section > * {
+
+    position:
+        relative;
+
+    z-index:
+        5;
+}
+
+
+/* ============================================================
+   HERO TEXT
+   ============================================================ */
+
+.hero-section p,
+.hero-section span,
+.hero-section div,
+.hero-section label,
+.hero-section h1,
+.hero-section h2,
+.hero-section h3,
+.hero-section h4,
+.hero-section h5,
+.hero-section h6 {
+
+    color:
+        #111111 !important;
+}
+
+
+/* ============================================================
+   RAG LOGO
+   ============================================================ */
+
+.rag-text {
+
+    position:
+        relative;
+
+    z-index:
+        5;
+
+    font-size:
+        clamp(75px, 10vw, 125px);
+
+    font-weight:
+        950;
+
+    letter-spacing:
+        16px;
+
+    line-height:
+        1;
+
+    background:
+        linear-gradient(
+            135deg,
+            #000000 0%,
+            #101317 25%,
+            #3b4249 50%,
+            #111419 72%,
+            #000000 100%
+        );
+
+    background-size:
+        300% 300%;
+
+    -webkit-background-clip:
+        text;
+
+    background-clip:
+        text;
+
+    -webkit-text-fill-color:
+        transparent !important;
+
+    color:
+        transparent !important;
+
+    filter:
+        drop-shadow(
+            0 5px 12px rgba(0, 0, 0, 0.16)
+        )
+        drop-shadow(
+            0 0 20px rgba(0, 0, 0, 0.08)
+        );
+
+    user-select:
+        none;
+
+    animation:
+        ragFloat 4s ease-in-out infinite,
+        ragGradient 8s ease infinite;
+}
+
+
+/* ============================================================
+   HERO ANIMATION
+   ============================================================ */
+
+@keyframes heroGlow {
+
+    0%,
+    100% {
+
+        transform:
+            scale(0.90);
+
+        opacity:
+            0.45;
+    }
+
+    50% {
+
+        transform:
+            scale(1.15);
+
+        opacity:
+            0.80;
+    }
+}
+
+
+/* ============================================================
+   RAG FLOAT
+   ============================================================ */
+
+@keyframes ragFloat {
+
+    0%,
+    100% {
+
+        transform:
+            translateY(0);
+    }
+
+    50% {
+
+        transform:
+            translateY(-9px);
+    }
+}
+
+
+/* ============================================================
+   RAG GRADIENT
+   ============================================================ */
+
+@keyframes ragGradient {
+
+    0% {
+
+        background-position:
+            0% 50%;
+    }
+
+    50% {
+
+        background-position:
+            100% 50%;
+    }
+
+    100% {
+
+        background-position:
+            0% 50%;
+    }
+}
+
+
+/* ============================================================
+   EXAMPLES TITLE
+   ============================================================ */
+
+.examples-title {
+
+    text-align:
+        center;
+
+    margin:
+        20px 0;
+
+    color:
+        #707985 !important;
+
+    font-size:
+        11px;
+
+    font-weight:
+        800;
+
+    letter-spacing:
+        3px;
+
+    text-transform:
+        uppercase;
+}
+
+
+/* ============================================================
+   CHAT SECTION
+   ============================================================ */
+
+[data-testid="stChatMessage"] {
+
+    position:
+        relative;
+
+    border-radius:
+        17px;
+
+    margin-bottom:
+        14px;
+
+    padding:
+        12px 10px;
+
+    color:
+        #ffffff !important;
+
+    background:
+        linear-gradient(
+            145deg,
+            #191e25,
+            #151a20
+        ) !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.075);
+
+    box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.22);
+
+    transition:
+        background 0.2s ease,
+        border-color 0.2s ease;
+}
+
+
+/* ============================================================
+   CHAT HOVER
+   ============================================================ */
+
+[data-testid="stChatMessage"]:hover {
+
+    background:
+        linear-gradient(
+            145deg,
+            #1c222a,
+            #171c22
+        ) !important;
+
+    border-color:
+        rgba(157, 183, 212, 0.12);
+}
+
+
+/* ============================================================
+   USER MESSAGE
+   ============================================================ */
+
+[data-testid="stChatMessage"]:has(
+    [data-testid="chatAvatarIcon-user"]
+) {
+
+    background:
+        linear-gradient(
+            145deg,
+            #14191f,
+            #10151a
+        ) !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.08);
+
+    padding:
+        14px 16px;
+
+    border-radius:
+        17px;
+}
+
+
+/* ============================================================
+   USER ACCENT
+   ============================================================ */
+
+[data-testid="stChatMessage"]:has(
+    [data-testid="chatAvatarIcon-user"]
+)::before {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        0;
+
+    top:
+        14px;
+
+    bottom:
+        14px;
+
+    width:
+        2px;
+
+    border-radius:
+        4px;
+
+    background:
+        rgba(157, 183, 212, 0.55);
+}
+
+
+/* ============================================================
+   ASSISTANT MESSAGE
+   ============================================================ */
+
+[data-testid="stChatMessage"]:has(
+    [data-testid="chatAvatarIcon-assistant"]
+) {
+
+    background:
+        linear-gradient(
+            145deg,
+            #1c222a,
+            #181d24
+        ) !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.10);
+}
+
+
+/* ============================================================
+   ASSISTANT ACCENT
+   ============================================================ */
+
+[data-testid="stChatMessage"]:has(
+    [data-testid="chatAvatarIcon-assistant"]
+)::before {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    left:
+        0;
+
+    top:
+        14px;
+
+    bottom:
+        14px;
+
+    width:
+        2px;
+
+    border-radius:
+        4px;
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(157, 183, 212, 0.75),
+            rgba(157, 183, 212, 0.15)
+        );
+}
+
+
+/* ============================================================
+   CHAT TEXT
+   ============================================================ */
+
+[data-testid="stChatMessage"],
+[data-testid="stChatMessage"] p,
+[data-testid="stChatMessage"] span,
+[data-testid="stChatMessage"] div,
+[data-testid="stChatMessage"] li {
+
+    color:
+        #f4f6f8 !important;
+}
+
+
+/* ============================================================
+   AI LABEL
+   ============================================================ */
+
+.ai-label {
+
+    display:
+        inline-block;
+
+    padding:
+        6px 11px;
+
+    margin-bottom:
+        10px;
+
+    border-radius:
+        7px;
+
+    font-size:
+        10px;
+
+    font-weight:
+        800;
+
+    letter-spacing:
+        1.2px;
+
+    color:
+        #dbe8f5 !important;
+
+    background:
+        rgba(157, 183, 212, 0.08);
+
+    border:
+        1px solid rgba(157, 183, 212, 0.18);
+
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.035);
+}
+
+
+/* ============================================================
+   RESPONSE CARD
+   ============================================================ */
+
+.response-card {
+
+    position:
+        relative;
+
+    padding:
+        24px 25px;
+
+    margin-top:
+        14px;
+
+    border-radius:
+        19px;
+
+    background:
+        linear-gradient(
+            145deg,
+            #262d35 0%,
+            #222931 45%,
+            #1c2229 100%
+        ) !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.19);
+
+    box-shadow:
+        0 22px 60px rgba(0, 0, 0, 0.42),
+        inset 0 1px 0 rgba(255, 255, 255, 0.055),
+        inset 0 -1px 0 rgba(0, 0, 0, 0.45);
+
+    line-height:
+        1.75;
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   RESPONSE CARD TOP ACCENT
+   ============================================================ */
+
+.response-card::before {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    top:
+        0;
+
+    left:
+        25px;
+
+    right:
+        25px;
+
+    height:
+        1px;
+
+    background:
+        linear-gradient(
+            90deg,
+            transparent,
+            rgba(197, 216, 237, 0.55),
+            transparent
+        );
+}
+
+
+/* ============================================================
+   RESPONSE CARD GLOW
+   ============================================================ */
+
+.response-card::after {
+
+    content:
+        "";
+
+    position:
+        absolute;
+
+    top:
+        -100px;
+
+    right:
+        -100px;
+
+    width:
+        220px;
+
+    height:
+        220px;
+
+    border-radius:
+        50%;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(157, 183, 212, 0.07),
+            transparent 70%
+        );
+
+    pointer-events:
+        none;
+}
+
+
+/* ============================================================
+   RAG RESPONSE ELEMENTS
+   ============================================================ */
+
+.rag-topic,
+.rag-video,
+.rag-timestamp,
+.rag-duration,
+.rag-explanation,
+.rag-start {
+
+    color:
+        #ffffff !important;
+
+    padding:
+        11px 15px;
+
+    margin:
+        7px 0;
+
+    border-radius:
+        10px;
+
+    line-height:
+        1.65;
+}
+
+
+/* ============================================================
+   TOPIC
+   ============================================================ */
+
+.rag-topic {
+
+    font-size:
+        20px;
+
+    font-weight:
+        800;
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   VIDEO
+   ============================================================ */
+
+.rag-video {
+
+    color:
+        #e9edf2 !important;
+
+    font-size:
+        16px;
+
+    font-weight:
+        700;
+
+    background:
+        rgba(255, 255, 255, 0.035);
+
+    border:
+        1px solid rgba(255, 255, 255, 0.045);
+}
+
+
+/* ============================================================
+   TIMESTAMP
+   ============================================================ */
+
+.rag-timestamp {
+
+    color:
+        #ffffff !important;
+
+    font-size:
+        16px;
+
+    font-weight:
+        800;
+
+    letter-spacing:
+        0.3px;
+
+    background:
+        rgba(157, 183, 212, 0.075);
+
+    border-left:
+        2px solid rgba(157, 183, 212, 0.70);
+}
+
+
+/* ============================================================
+   DURATION
+   ============================================================ */
+
+.rag-duration {
+
+    color:
+        #c5cbd2 !important;
+
+    font-size:
+        14px;
+
+    font-weight:
+        600;
+}
+
+
+/* ============================================================
+   EXPLANATION
+   ============================================================ */
+
+.rag-explanation {
+
+    color:
+        #e8ebef !important;
+
+    font-size:
+        15px;
+
+    line-height:
+        1.78;
+}
+
+
+/* ============================================================
+   START
+   ============================================================ */
+
+.rag-start {
+
+    color:
+        #f2f5f8 !important;
+
+    font-size:
+        15px;
+
+    font-weight:
+        700;
+}
+
+
+/* ============================================================
+   NORMAL RAG TEXT
+   ============================================================ */
+
+[data-testid="stChatMessage"] .rag-text {
+
+    color:
+        #e5e8ec !important;
+
+    font-size:
+        15px;
+
+    line-height:
+        1.75;
+}
+
+
+/* ============================================================
+   MARKDOWN HEADINGS
+   ============================================================ */
+
+[data-testid="stChatMessage"] h1,
+[data-testid="stChatMessage"] h2,
+[data-testid="stChatMessage"] h3,
+[data-testid="stChatMessage"] h4 {
+
+    color:
+        #ffffff !important;
+
+    font-weight:
+        800;
+
+    margin-top:
+        18px;
+
+    margin-bottom:
+        10px;
+}
+
+
+/* ============================================================
+   BULLET LISTS
+   ============================================================ */
+
+[data-testid="stChatMessage"] ul,
+[data-testid="stChatMessage"] ol {
+
+    padding-left:
+        25px;
+
+    margin-top:
+        8px;
+
+    margin-bottom:
+        12px;
+}
+
+
+[data-testid="stChatMessage"] li {
+
+    color:
+        #e5e8ec !important;
+
+    margin-bottom:
+        7px;
+
+    line-height:
+        1.65;
+}
+
+
+/* ============================================================
+   INLINE CODE
+   ============================================================ */
+
+[data-testid="stChatMessage"] code {
+
+    color:
+        #e9f1fa !important;
+
+    background:
+        #10151b !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.16);
+
+    border-radius:
+        6px;
+
+    padding:
+        3px 7px;
+
+    font-family:
+        "Consolas",
+        "Courier New",
+        monospace;
+}
+
+
+/* ============================================================
+   VIDEO HEADING
+   ============================================================ */
+
+.video-heading {
+
+    margin-top:
+        26px;
+
+    margin-bottom:
+        12px;
+
+    font-size:
+        18px;
+
+    font-weight:
+        800;
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   VIDEO INFO
+   ============================================================ */
+
+.video-info {
+
+    padding:
+        18px 20px;
+
+    margin-bottom:
+        18px;
+
+    border-radius:
+        15px;
+
+    background:
+        linear-gradient(
+            145deg,
+            #283039,
+            #1e252d
+        ) !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.15);
+
+    color:
+        #ffffff !important;
+
+    font-size:
+        14px;
+
+    line-height:
+        1.8;
+
+    box-shadow:
+        0 12px 35px rgba(0, 0, 0, 0.30),
+        inset 0 1px 0 rgba(255, 255, 255, 0.035);
+}
+
+
+.video-info strong {
+
+    color:
+        #ffffff !important;
+}
+
+
+.video-info .timestamp {
+
+    margin-top:
+        7px;
+
+    color:
+        #c9d0d8 !important;
+}
+
+
+/* ============================================================
+   VIDEO PLAYER
+   ============================================================ */
+
+[data-testid="stVideo"] {
+
+    border-radius:
+        18px !important;
+
+    overflow:
+        hidden;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.18);
+
+    background:
+        #050608 !important;
+
+    box-shadow:
+        0 25px 60px rgba(0, 0, 0, 0.60);
+
+    margin-top:
+        12px;
+}
+
+
+[data-testid="stVideo"] video {
+
+    background:
+        #000000 !important;
+
+    border-radius:
+        16px;
+}
+
+
+/* ============================================================
+   ALERTS
+   ============================================================ */
+
+div[data-testid="stAlert"] {
+
+    border-radius:
+        13px !important;
+
+    background:
+        #191f26 !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.12) !important;
+
+    color:
+        #ffffff !important;
+
+    box-shadow:
+        0 10px 30px rgba(0, 0, 0, 0.30);
+}
+
+
+div[data-testid="stAlert"] p,
+div[data-testid="stAlert"] span,
+div[data-testid="stAlert"] div {
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   SUCCESS
+   ============================================================ */
+
+div[data-testid="stAlert"][kind="success"] {
+
+    border-color:
+        rgba(159, 240, 184, 0.25) !important;
+}
+
+
+/* ============================================================
+   CHAT INPUT WRAPPER
+   ============================================================ */
+
+[data-testid="stChatInput"] {
+
+    border-radius:
+        20px !important;
+
+    background:
+        transparent !important;
+}
+
+
+/* ============================================================
+   CHAT INPUT
+   ============================================================ */
+
+[data-testid="stChatInput"] > div {
+
+    background:
+        linear-gradient(
+            145deg,
+            #11171e,
+            #0c1117
+        ) !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.48) !important;
+
+    border-radius:
+        20px !important;
+
+    box-shadow:
+        0 18px 50px rgba(0, 0, 0, 0.55),
+        inset 0 1px 0 rgba(255, 255, 255, 0.04);
+
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+}
+
+
+/* ============================================================
+   CHAT INPUT FOCUS
+   ============================================================ */
+
+[data-testid="stChatInput"] > div:focus-within {
+
+    background:
+        #12181f !important;
+
+    border-color:
+        rgba(197, 216, 237, 0.85) !important;
+
+    box-shadow:
+        0 0 0 1px rgba(157, 183, 212, 0.15),
+        0 20px 55px rgba(0, 0, 0, 0.65);
+}
+
+
+/* ============================================================
+   CHAT TEXTAREA
+   ============================================================ */
+
+[data-testid="stChatInput"] textarea {
+
+    color:
+        #ffffff !important;
+
+    background:
+        transparent !important;
+
+    font-size:
+        15px !important;
+
+    line-height:
+        1.5 !important;
+
+    caret-color:
+        #c5d8ed !important;
+}
+
+
+/* ============================================================
+   PLACEHOLDER
+   ============================================================ */
+
+[data-testid="stChatInput"] textarea::placeholder {
+
+    color:
+        #6f7883 !important;
+
+    opacity:
+        1 !important;
+}
+
+
+/* ============================================================
+   SEND BUTTON
+   ============================================================ */
+
+[data-testid="stChatInput"] button {
+
+    color:
+        #ffffff !important;
+
+    background:
+        #1b232c !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.20) !important;
+
+    border-radius:
+        10px !important;
+
+    transition:
+        all 0.2s ease;
+}
+
+
+[data-testid="stChatInput"] button:hover {
+
+    color:
+        #0a0d11 !important;
+
+    background:
+        #d9e6f3 !important;
+
+    border-color:
+        #d9e6f3 !important;
+
+    transform:
+        scale(1.04);
+}
+
+
+/* ============================================================
+   NORMAL STREAMLIT BUTTON
+   ============================================================ */
+
+.stButton button {
+
+    color:
+        #f4f6f8 !important;
+
+    background:
+        #171d24 !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.14) !important;
+
+    border-radius:
+        12px !important;
+
+    font-weight:
+        700 !important;
+
+    transition:
+        all 0.2s ease;
+}
+
+
+.stButton button:hover {
+
+    color:
+        #0a0d11 !important;
+
+    background:
+        #e2ebf4 !important;
+
+    border-color:
+        #e2ebf4 !important;
+
+    transform:
+        translateY(-1px);
+
+    box-shadow:
+        0 8px 22px rgba(0, 0, 0, 0.30);
+}
+
+
+/* ============================================================
+   DOWNLOAD BUTTONS
+   ============================================================ */
+
+.stDownloadButton button {
+
+    width:
+        100% !important;
+
+    min-height:
+        44px;
+
+    border-radius:
+        12px !important;
+
+    background:
+        #171d24 !important;
+
+    color:
+        #ffffff !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.15) !important;
+
+    font-weight:
+        700 !important;
+
+    transition:
+        all 0.2s ease;
+}
+
+
+.stDownloadButton button:hover {
+
+    color:
+        #0a0d11 !important;
+
+    background:
+        #e2ebf4 !important;
+
+    border-color:
+        #e2ebf4 !important;
+
+    transform:
+        translateY(-2px);
+
+    box-shadow:
+        0 10px 28px rgba(0, 0, 0, 0.40);
+}
+
+
+/* ============================================================
+   TEXT INPUTS
+   ============================================================ */
+
+.stTextInput input,
+.stNumberInput input,
+.stTextArea textarea {
+
+    background:
+        #0f141a !important;
+
+    color:
+        #ffffff !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.16) !important;
+
+    border-radius:
+        10px !important;
+}
+
+
+/* ============================================================
+   INPUT FOCUS
+   ============================================================ */
+
+.stTextInput input:focus,
+.stNumberInput input:focus,
+.stTextArea textarea:focus {
+
+    background:
+        #141a21 !important;
+
+    color:
+        #ffffff !important;
+
+    border-color:
+        rgba(157, 183, 212, 0.65) !important;
+
+    box-shadow:
+        0 0 0 1px rgba(157, 183, 212, 0.12) !important;
+}
+
+
+/* ============================================================
+   SELECT BOX
+   ============================================================ */
+
+.stSelectbox div[data-baseweb="select"] {
+
+    background:
+        #0f141a !important;
+
+    color:
+        #ffffff !important;
+
+    border-color:
+        rgba(255, 255, 255, 0.16) !important;
+
+    border-radius:
+        10px !important;
+}
+
+
+.stSelectbox div[data-baseweb="select"] * {
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   EXPANDER
+   ============================================================ */
+
+[data-testid="stExpander"] {
+
+    background:
+        #141a20 !important;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.11) !important;
+
+    border-radius:
+        14px !important;
+
+    overflow:
+        hidden;
+}
+
+
+[data-testid="stExpander"] summary {
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   CODE BLOCK
+   ============================================================ */
+
+[data-testid="stCode"] {
+
+    border-radius:
+        14px !important;
+
+    border:
+        1px solid rgba(157, 183, 212, 0.12);
+
+    background:
+        #090d12 !important;
+}
+
+
+/* ============================================================
+   DATAFRAME
+   ============================================================ */
+
+[data-testid="stDataFrame"] {
+
+    border-radius:
+        14px;
+
+    overflow:
+        hidden;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.12);
+}
+
+
+/* ============================================================
+   SPINNER
+   ============================================================ */
+
+[data-testid="stSpinner"] {
+
+    color:
+        #ffffff !important;
+}
+
+
+/* ============================================================
+   LINKS
+   ============================================================ */
+
+a {
+
+    color:
+        #c5d8ed !important;
+
+    text-decoration:
+        none;
+
+    transition:
+        color 0.
+}

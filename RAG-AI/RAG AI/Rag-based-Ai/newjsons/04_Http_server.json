@@ -1,0 +1,390 @@
+{
+    "chunks": [
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 0.0,
+            "end": 14.98,
+            "text": " Guys, it happens that you want to do something like this  so that you can test the web development or something related to the jQuery  But what happens generally?  You have to do something to test it  and suddenly you say, how will I make a server?"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 14.98,
+            "end": 32.0,
+            "text": " Where will I download ZAMP?  I have installed ZAMP in my videos  I have told you how MySQL is installed and how a database is made  So whenever we do any work related to front-end  then we will first test it in our local and then we will do something else"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 32.0,
+            "end": 48.16,
+            "text": " So we have a very dirty way of doing it  What happens is that simply download some code  I have shown you a folder here which I have made  Now it happens that whenever we make a folder like this  then we think that we will make a file here, HTML, CSS, JavaScript"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 48.16,
+            "end": 60.7,
+            "text": " and after that we will do our work  But I will tell you why you should make a server  I will tell you a very good way of making a server  with the help of Python  But first of all I will tell you that you guys"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 60.7,
+            "end": 74.18,
+            "text": " I will open the folder that I am going to do  So I will do an open folder  I have made it in my desktop  I will open this folder here  I will close the old folder"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 74.18,
+            "end": 82.78,
+            "text": " I will make a new file here  I will make a control in the back or like this  I will write HTML here  I will write only this much  I will save it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 82.82000000000001,
+            "end": 95.26,
+            "text": " I will save it from where I have made it  I have saved it in the name of index.html  Now I will simply do a control here  I will write HTML here  So it gives me a basic template"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 95.26,
+            "end": 105.76,
+            "text": " I will write my title here  And I have this dirty way here  And I will write something in the body  This is a simple paragraph  Which is not there"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 105.76,
+            "end": 115.74000000000001,
+            "text": " But okay  Suppose I come here and I open it like this  I say index.html  So there is no problem here  But I will tell you why it is not safe to do this"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 115.74000000000001,
+            "end": 125.74000000000001,
+            "text": " When you develop  First of all I will tell you something  The Google Chrome file is written here  So this local file  And through a server"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 125.74000000000001,
+            "end": 135.74,
+            "text": " The server treats it in two different ways  The first thing is this  You can have a problem there  When you will deploy it on your server  Because finally your website will be there"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 135.74,
+            "end": 145.74,
+            "text": " You will not see it in your PC  So what you should do is  You should make a local server  Like you can download ZAMP  You don't have to download ZAMP"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 145.74,
+            "end": 155.74,
+            "text": " This video was based on that  But first you will hear why you should always make a server  The second thing is that  Relative links are safe  Why are Relative links safe"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 155.74,
+            "end": 165.74,
+            "text": " I will tell you what this means  Suppose you have written something in your website  I will show you  Suppose I put an anchor here  I put a physical to slash block"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 165.74,
+            "end": 175.74,
+            "text": " And I write here  I will save it under the control  And as soon as I will reload it  I will click on the block  So it is in my computer system"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 175.74,
+            "end": 185.74,
+            "text": " It is in the C block  What does this mean  I want my directory to be in the block  So this is the problem  So your server"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 185.74,
+            "end": 195.74,
+            "text": " The development you are doing  You can go here and then deploy  So we will make it on the server  The second thing is  Sometimes what happens"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 195.74,
+            "end": 205.74,
+            "text": " It will treat you in a way  Suppose I am using Internet Slower  Or Microsoft Edge  So that file will handle it in a different way  So I don't want to create a problem"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 205.74,
+            "end": 215.74,
+            "text": " For me  So I will make a server  While maintaining a professionalism  We have some simple ways  To install flask"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 215.74,
+            "end": 225.74,
+            "text": " Install this node and express  Install the node.js  Install the express  Or install the python flask  But I will say"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 225.74,
+            "end": 235.74,
+            "text": " I want to use only a bootstrap  I want to do a small testing  I don't want to read this in my head  So I am making a video for you  For that"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 235.74,
+            "end": 245.74,
+            "text": " You can easily make a  Cute server in python  Now I will tell you why I am saying  Cute  If you are on your Windows machine"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 245.74,
+            "end": 255.74,
+            "text": " Right click on Shift and open  PowerShell window  And here you have to write  Then you can write  Http.server-bind"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 255.74,
+            "end": 265.74,
+            "text": " Is equal to localhost  If you write this  Or bind is equal to localhost  If you write this  And after writing this"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 265.74,
+            "end": 275.74,
+            "text": " You go to your computer  And here you write  Localhost,8000  So this is a small server  And I will"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 275.74,
+            "end": 285.74,
+            "text": " Block it on localhost 8000  So it is taking me to this directory  So here we have one thing  So what I have to do  Nothing, where my files were"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 285.74,
+            "end": 295.74,
+            "text": " I have to right click on Shift  And I have to write python-mhttp.server  Many people don't know this  And to make small websites  To do small work"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 295.74,
+            "end": 305.74,
+            "text": " We start the XAM  We install its 5th chain  We start  MySQL starts  And some people don't say this in this way"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 305.74,
+            "end": 315.74,
+            "text": " Leave it, don't do this  But what I do is  I write Shift and write  I make python server  I go to my computer and go to localhost"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 315.74,
+            "end": 325.74,
+            "text": " Now if you want to do something  I have to take the bootstrap template  I will see  What is the bootstrap  I will go to my sublime"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 325.74,
+            "end": 335.74,
+            "text": " I will paste it  I will take some components of bootstrap  And I will bring some  I have made a video on bootstrap  You can check out"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 335.74,
+            "end": 345.74,
+            "text": " I have to learn bootstrap  But I want to bring this  And along with that  I will put my sublime  I will save it from the controller"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 345.74,
+            "end": 355.74,
+            "text": " I will reload it  See, the error response is called  I will reload it  Localhost 8000  What is the problem"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 355.74,
+            "end": 365.74,
+            "text": " So this is abort  So here I will start it  I will start it  Let's start  So what I did here"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 365.74,
+            "end": 375.74,
+            "text": " I will reload it  I downloaded all the files from CDN  I want to click on learn more  So this is my hello word  I will change it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 375.74,
+            "end": 385.74,
+            "text": " I can develop my web  Basically I mean canning  If I want to do this  I will write id is equal to lm  Learn more"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 385.74,
+            "end": 395.74,
+            "text": " And after that I can write my jQuery  Because in bootstrap by default  JQuery is included  I can write selector  And I will say"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 395.74,
+            "end": 405.74,
+            "text": " I will show you by doing it  Sometimes you should do it  And I will write lm  Click on it  Click on it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 405.74,
+            "end": 415.74,
+            "text": " Call function  Call function  And after that I will write function  So if anyone clicks on lm  So what I will do"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 415.74,
+            "end": 425.74,
+            "text": " Its class is equal to  Leade, id is equal to  I will write it  id is equal to lead  And here I will say"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 425.74,
+            "end": 435.74,
+            "text": " id is equal to lead  So I will select it  The id which is our lead  The id which is our lead  Sorry I pressed caps lock"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 435.74,
+            "end": 445.74,
+            "text": " Set its html  By the way  Who wants jQuery video from you  Tell me who wants it  Set its html"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 445.74,
+            "end": 455.74,
+            "text": " Harry  Click on you brother  Ok  And after doing it I will save it from the controller  I am ready to do it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 455.74,
+            "end": 465.74,
+            "text": " I will reload it and click on learn more  Look it is here, Harry has clicked on you brother  So you can do all these things  And you can do many things  And you can do it with it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 465.74,
+            "end": 475.74,
+            "text": " This is it  You can fade in and fade out  You can fade out it  You can put it in milliseconds  And after that I will reload it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 475.74,
+            "end": 485.74,
+            "text": " And after that I will click on it  And I will fade in  I will fade in it  And here I will fade in it  And I will reload it"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 485.74,
+            "end": 495.74,
+            "text": " I will click on it  And it is not working  Basically it is saying  Because our bootstrap  Uses slim version of jQuery"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 495.74,
+            "end": 505.74,
+            "text": " So you can do it fully  I will not tell you here  If you want jQuery video  For any animations  You can tell how it is made"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 505.74,
+            "end": 515.74,
+            "text": " How the server is made  If you click here  This is a server  It is not accessing local file  You can run your JavaScript"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 515.74,
+            "end": 525.74,
+            "text": " No worries  I felt like telling you this video  Like this video  And tell me what are the things  How I include such videos"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 525.74,
+            "end": 535.74,
+            "text": " And if you have not seen the Python course  Then go and see the Python details  And that is the course of 103 videos  I have not designed  By thinking that you have seen"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 535.74,
+            "end": 545.74,
+            "text": " You will understand everything  And along with that  When we go to the gym  We exercise and take supplements  These videos are for practice"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 545.74,
+            "end": 555.74,
+            "text": " These are all supplements  And that is the main exercise  So you do the main exercise there  And it is getting slow  And my phone is connected"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 555.74,
+            "end": 565.74,
+            "text": " With my wifi  And because of that the internet is getting slow  And let's stop this video  You can watch me  Go to the channel"
+        },
+        {
+            "number": null,
+            "title": "How To Create A Python HTTP Server",
+            "start": 565.74,
+            "end": 573.74,
+            "text": " Search Code with Hair  And that is it for this video  Thank you so much for watching this video  And I will see you next time"
+        }
+    ],
+    "text": " Guys, it happens that you want to do something like this so that you can test the web development or something related to the jQuery But what happens generally? You have to do something to test it and suddenly you say, how will I make a server? Where will I download ZAMP? I have installed ZAMP in my videos I have told you how MySQL is installed and how a database is made So whenever we do any work related to front-end then we will first test it in our local and then we will do something else So we have a very dirty way of doing it What happens is that simply download some code I have shown you a folder here which I have made Now it happens that whenever we make a folder like this then we think that we will make a file here, HTML, CSS, JavaScript and after that we will do our work But I will tell you why you should make a server I will tell you a very good way of making a server with the help of Python But first of all I will tell you that you guys I will open the folder that I am going to do So I will do an open folder I have made it in my desktop I will open this folder here I will close the old folder I will make a new file here I will make a control in the back or like this I will write HTML here I will write only this much I will save it I will save it from where I have made it I have saved it in the name of index.html Now I will simply do a control here I will write HTML here So it gives me a basic template I will write my title here And I have this dirty way here And I will write something in the body This is a simple paragraph Which is not there But okay Suppose I come here and I open it like this I say index.html So there is no problem here But I will tell you why it is not safe to do this When you develop First of all I will tell you something The Google Chrome file is written here So this local file And through a server The server treats it in two different ways The first thing is this You can have a problem there When you will deploy it on your server Because finally your website will be there You will not see it in your PC So what you should do is You should make a local server Like you can download ZAMP You don't have to download ZAMP This video was based on that But first you will hear why you should always make a server The second thing is that Relative links are safe Why are Relative links safe I will tell you what this means Suppose you have written something in your website I will show you Suppose I put an anchor here I put a physical to slash block And I write here I will save it under the control And as soon as I will reload it I will click on the block So it is in my computer system It is in the C block What does this mean I want my directory to be in the block So this is the problem So your server The development you are doing You can go here and then deploy So we will make it on the server The second thing is Sometimes what happens It will treat you in a way Suppose I am using Internet Slower Or Microsoft Edge So that file will handle it in a different way So I don't want to create a problem For me So I will make a server While maintaining a professionalism We have some simple ways To install flask Install this node and express Install the node.js Install the express Or install the python flask But I will say I want to use only a bootstrap I want to do a small testing I don't want to read this in my head So I am making a video for you For that You can easily make a Cute server in python Now I will tell you why I am saying Cute If you are on your Windows machine Right click on Shift and open PowerShell window And here you have to write Then you can write Http.server-bind Is equal to localhost If you write this Or bind is equal to localhost If you write this And after writing this You go to your computer And here you write Localhost,8000 So this is a small server And I will Block it on localhost 8000 So it is taking me to this directory So here we have one thing So what I have to do Nothing, where my files were I have to right click on Shift And I have to write python-mhttp.server Many people don't know this And to make small websites To do small work We start the XAM We install its 5th chain We start MySQL starts And some people don't say this in this way Leave it, don't do this But what I do is I write Shift and write I make python server I go to my computer and go to localhost Now if you want to do something I have to take the bootstrap template I will see What is the bootstrap I will go to my sublime I will paste it I will take some components of bootstrap And I will bring some I have made a video on bootstrap You can check out I have to learn bootstrap But I want to bring this And along with that I will put my sublime I will save it from the controller I will reload it See, the error response is called I will reload it Localhost 8000 What is the problem So this is abort So here I will start it I will start it Let's start So what I did here I will reload it I downloaded all the files from CDN I want to click on learn more So this is my hello word I will change it I can develop my web Basically I mean canning If I want to do this I will write id is equal to lm Learn more And after that I can write my jQuery Because in bootstrap by default JQuery is included I can write selector And I will say I will show you by doing it Sometimes you should do it And I will write lm Click on it Click on it Call function Call function And after that I will write function So if anyone clicks on lm So what I will do Its class is equal to Leade, id is equal to I will write it id is equal to lead And here I will say id is equal to lead So I will select it The id which is our lead The id which is our lead Sorry I pressed caps lock Set its html By the way Who wants jQuery video from you Tell me who wants it Set its html Harry Click on you brother Ok And after doing it I will save it from the controller I am ready to do it I will reload it and click on learn more Look it is here, Harry has clicked on you brother So you can do all these things And you can do many things And you can do it with it This is it You can fade in and fade out You can fade out it You can put it in milliseconds And after that I will reload it And after that I will click on it And I will fade in I will fade in it And here I will fade in it And I will reload it I will click on it And it is not working Basically it is saying Because our bootstrap Uses slim version of jQuery So you can do it fully I will not tell you here If you want jQuery video For any animations You can tell how it is made How the server is made If you click here This is a server It is not accessing local file You can run your JavaScript No worries I felt like telling you this video Like this video And tell me what are the things How I include such videos And if you have not seen the Python course Then go and see the Python details And that is the course of 103 videos I have not designed By thinking that you have seen You will understand everything And along with that When we go to the gym We exercise and take supplements These videos are for practice These are all supplements And that is the main exercise So you do the main exercise there And it is getting slow And my phone is connected With my wifi And because of that the internet is getting slow And let's stop this video You can watch me Go to the channel Search Code with Hair And that is it for this video Thank you so much for watching this video And I will see you next time"
+}

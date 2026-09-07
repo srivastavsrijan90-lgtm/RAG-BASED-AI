@@ -1,0 +1,775 @@
+{
+    "chunks": [
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 0.0,
+            "end": 23.36,
+            "text": " Guys, I had made a playlist of a Python practice program before.  And some of you liked it very much.  So, in my playlist of Python practice programs, I had put some exciting Python programs.  If you don't know, I will continue that series and make some of the best Python programs in this series.  And today's program is very exciting."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 23.36,
+            "end": 38.64,
+            "text": " And that is a use case that you can read.  And I have named it as clear the clutter.  So, how can the clutter be?  The clutter can be that you will have a lot of files here.  Like HTML files, JPG files, PNG files."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 38.64,
+            "end": 53.2,
+            "text": " And what you have to do is that you have to arrange all the files in a folder.  For example, I have a file here.  I am making a new text document here.  And this will be, I have this.txt.  And I will have PNG file."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 53.2,
+            "end": 76.32,
+            "text": " And then I will have a lot of different types of files.  And after putting all those files here, I would like them to be their own folders.  And after being folders, what will happen is that I will make a folder of txt files and text files.  And put all the txt files in it.  And then I will make a folder of images and put all the images files in it."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 76.32,
+            "end": 90.63999999999999,
+            "text": " And you may need to do this.  You can run this program in your computer.  And it will be very clean.  I am telling you in your computer.  So I am going to start with a lot of files here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 90.63999999999999,
+            "end": 104.63999999999999,
+            "text": " Which I will drop in this folder.  And also open this folder in VS Code.  So these are the files that I have copied here.  And after copying, we are going to use OS module here.  I want to tell you something."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 104.63999999999999,
+            "end": 120.96000000000001,
+            "text": " The Python program that I am going to make here.  And also, the functions that I will tell you here, I am not getting them.  So I am going to take an internet reference.  So first of all, I will make a main.py here.  I have made the main.py."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 120.96000000000001,
+            "end": 134.96,
+            "text": " And after making the main.py, I will arrange all the folders.  The files here.  I will first list them here.  And after that, I will arrange them.  So here, I am asking you to select Python interpreter."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 134.96,
+            "end": 149.28,
+            "text": " I have installed multiple versions of Python.  So if you ever want to make a folder of Python, you can do it.  So if you ever have such an error, then click below.  Select Python. Everything will be fine.  So first of all, let me tell you something."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 149.28,
+            "end": 165.28,
+            "text": " The OS that I am going to do here.  The operating system module of Python in OS.  It is so user friendly that you might need to see the documentation.  But if you study it, feel free to search.  You can search on the internet."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 165.28,
+            "end": 185.6,
+            "text": " How do you do this and how do you do that.  And you will get everything.  Here if I write files is equal to os.listdir.  And after doing this, I will print the files.  You can't do this and that."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 185.6,
+            "end": 201.92,
+            "text": " You can't do that.  Or you can't do that.  I want to tell you something.  All the modules, you have to do a course of a module.  So any new module, you have to see the documentation and it will start."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 201.92,
+            "end": 215.92,
+            "text": " So I did this.  I ran the listdir function.  And here I ran it.  So all the vscode, apng file, rr file, js file, all the files are here.  And here it lists all the files."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 215.92,
+            "end": 233.92,
+            "text": " And it also lists this script.  It also lists main.py.  So for now I will remove this Python file.  And after removing this Python file, I will copy all the files.  So I will do this."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 233.92,
+            "end": 251.92,
+            "text": " I will put my files in different folders.  So first of all, if I write.  I will write os.makedir.  So I wrote os.ma.  So I don't need to remember this."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 251.92,
+            "end": 261.91999999999996,
+            "text": " I don't need to remember this.  Makedir function should be remembered.  Nothing like that.  So I will write here.  Suppose images."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 261.91999999999996,
+            "end": 271.91999999999996,
+            "text": " os.makedir images.  So it will list these files and make an image folder.  But look, an image folder is here.  So what happens with makedir is that your folder becomes.  So what can we do here?"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 271.91999999999996,
+            "end": 283.92,
+            "text": " We can make a folder.  So I will make images folder.  And along with making images folder.  Now here see.  If you click on the control on your makedir."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 283.92,
+            "end": 303.92,
+            "text": " It tells you that create a leaf directory and all intermediate ones.  Works like mkdir except that any intermediate path segment will be created.  So here it says that it will make all your directories.  So I will write only os.makedir images.  And after that what I will do here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 303.92,
+            "end": 315.92,
+            "text": " Along with images, I will make a dox name.  And I will make a media name folder.  So I will make these three folders.  I will run it.  And here see."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 315.92,
+            "end": 329.92,
+            "text": " There is a problem.  It says that your images folder is created.  So my program is throwing error.  So what I have to do here is I will have to write an if statement.  I will have to say that if os.part.exists."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 329.92,
+            "end": 343.92,
+            "text": " If images.  If it does not do it then make it.  If not of os.part.exists.  If it does not do it then make it.  If I wrap this thing in a function then it will be very good for me."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 343.92,
+            "end": 363.92,
+            "text": " So I will write def and after that I will write the name of the function.  Create if not exists.  I will keep it as an existing single.  And what I will do here is I will write folder.  And what I will do here is I will say that if this folder does not exist."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 363.92,
+            "end": 379.92,
+            "text": " Then make it.  And this will be the folder in the place of images.  And I will run it by giving the argument of images.  So I will write it like this by doing the folder.  Now I have done here create if not exists folder."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 379.92,
+            "end": 395.92,
+            "text": " I have said here that if this folder does not exist then make it.  After making more, do not return anything.  Because I have to make it.  So I have made new os.micdir.  The name of which I have named it create image if not exists."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 395.92,
+            "end": 413.92,
+            "text": " So any image that I want to make, if it does not exist.  If I want to make any folder then create if not exists function.  It will make it.  So here you can see that I made a new function.  In which I used the os module's mmicdir."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 413.92,
+            "end": 433.92,
+            "text": " So here I have run it.  So my program was successfully without error and it was an exit.  The first problem I was getting was that here you see images that I was already existing.  So if any of my files are already existing then what will happen?  That will throw an error."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 433.92,
+            "end": 479.92,
+            "text": " So here I have made images, docs and media here.  Now what I will do is what I have to put in images, docs and media.  So what I will do is if extension.jpg or png is there then classify it as image.  So I will write images is equal to file for file in files.  Now I am writing in list comprehension."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 479.92,
+            "end": 516.9200000000001,
+            "text": " I am writing in list comprehension.  I will say that the files in which I had files, if the file is in the files,  If it is extension then I will see how to get extension in os module.  For extracting extension from file name.  So here os.part.split ext is something and if you do split ext then extension comes here as its second argument."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 516.9200000000001,
+            "end": 558.92,
+            "text": " So I will say that if os.part.split ext file 0, sorry 0 not 1 equals to equals to.  What should happen?  Here I will say in and after that I will write imgext which is image extension.  So I am writing image extension which is my .png and then my .jpg.  And along with that jpeg and jpeg is joint photographic expert group if I am not wrong."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 558.92,
+            "end": 575.92,
+            "text": " And you can add more extension from these three.  I am considering these three for images.  Now here comes a problem.  Look at the image extension in capital PNG and here look at this small PNG.  So how to solve this problem here?"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 575.92,
+            "end": 600.92,
+            "text": " We will solve this problem and we will say this in lower case.  So how do we convert this in lower case in Python?  So I will lower this and if I lower this then it will come in lower case.  So I am saying that if its extension is converted to lower case then this is an image.  So I will get all the files in images."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 600.92,
+            "end": 641.92,
+            "text": " So I will print and see the images and I will run it here and look at this PNG and jpeg and jpeg and jpeg.  Then I will say that my docs, I will classify them.  I will say that I have to classify docs.  So I will write doc extensions is equal to .dxt and along with that .docx and along with that .doc and what documents we have here.  We have extensions, PDF is there."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 641.92,
+            "end": 673.92,
+            "text": " So I will save this and I will write docs is equal to .file for file in files if os.par.split.ext  The first file of split.ext is also lower in .doc.ext.  And if I print docs here then all docs will be available.  See this is .dxt here.  So here I will get this .dxt."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 673.92,
+            "end": 696.92,
+            "text": " So I have collected all docs here and after that I will collect media.  I will write that the extensions of media will be my extension.  One will be mp4 and the media will be extension.  If mp3 is done then you can see that the files are in your folder.  You can include them here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 696.92,
+            "end": 719.92,
+            "text": " mp4, mp3 and along with that .flv are also there.  There are many extensions.  You can write that here and the commonly used ones that you can get in your computer.  If you write them then maybe it will be better.  So here I will write media is equal to media."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 719.92,
+            "end": 735.92,
+            "text": " And I will copy it.  There are many typing here.  We should not need this much typing practice.  And I will write in media.ext.  So I have done media.ext."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 735.92,
+            "end": 749.92,
+            "text": " Image extensions, doc extensions, media extensions.  So I have made three things here.  One is my image, one is my media and one is my doc.  You can make more in all the categories you want to break.  You can break others."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 749.92,
+            "end": 763.92,
+            "text": " You can make others folders.  The rest of your extensions can be in others folder.  So I will make others folders.  I will make others.  And I will do one thing here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 763.92,
+            "end": 777.92,
+            "text": " I will remove my files from that.  I will do one thing here.  I will write files is equal to os.list here.  .remove and main.py.  I do not want to play with this file."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 777.92,
+            "end": 793.92,
+            "text": " This is the file that is doing all this.  So here it says none type object is not retrieable.  I have done some mistakes here.  I am trying to see where I have made mistakes.  So it says none type object is not retrieable."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 793.92,
+            "end": 803.92,
+            "text": " So what is none?  So files are also none.  So it does not return anything.  So I will have to do one thing here.  I will have to write files.remove."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 803.92,
+            "end": 814.92,
+            "text": " And now I will run it.  So here in this, what is it?  Main.py is not there.  There is one thing here.  This is my .vs code."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 814.92,
+            "end": 824.92,
+            "text": " So you have to keep that in mind.  What do you want to move?  What do you want to not move?  I have removed the files.remove.  Main.py."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 824.92,
+            "end": 840.92,
+            "text": " Please do not do anything with this.  I have told this to my Python interpreter.  Through script.  Now I will tell you that the other files will come in other files.  So I will tell you that if"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 840.92,
+            "end": 854.92,
+            "text": " If our files do not exist in this.  In this media ext.  So which one will come in this?  So it will come in my other files.  So I will do one thing here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 854.92,
+            "end": 866.92,
+            "text": " I will do all the files in this.  And I will tell you that if that file is not in this.  In this.  In this.  In this."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 866.92,
+            "end": 878.92,
+            "text": " So I will tell you that if file is not in this.  Sorry.  I want the extension of this.  So I will tell you that  This file."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 878.92,
+            "end": 892.92,
+            "text": " Its extension is not in this media ext.  And I will do one thing.  I will make a variable named ext.  The typing will be longer.  So I am telling you that"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 892.92,
+            "end": 904.92,
+            "text": " If ext is not in media ext.  Not in media ext.  And  Not in this.  Write more or write more."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 904.92,
+            "end": 914.92,
+            "text": " Write more or write more.  Not in this.  Or ext not in.  If any of these things are true.  Then what will happen?"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 914.92,
+            "end": 924.92,
+            "text": " Then this will be my executable.  If it is in this.  It is not in this.  It is not in this.  I will add it in other."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 924.92,
+            "end": 934.92,
+            "text": " So I will write it in the end.  So I will tell you that  It is not in this.  It is not in this.  For example,"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 934.92,
+            "end": 944.92,
+            "text": " We have created .mp8 file.  We have made it.  Then .mp5 is the file of Matlab.  What will you do?  You have to come to the code."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 944.92,
+            "end": 954.92,
+            "text": " You cannot put the document.  Or .js file.  So what will happen?  It will not be in media ext.  Not in media ext."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 954.92,
+            "end": 964.92,
+            "text": " Not in dog ext.  And  Along with that  I will write it in  imgxt."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 964.92,
+            "end": 974.92,
+            "text": " Then what will we do?  Then we will say  Put it in others.  So we will say  append that file."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 974.92,
+            "end": 984.92,
+            "text": " And before that we will make a folder with others.  Others is equal to  A blank list.  So we will say  Others is equal to blank."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 984.92,
+            "end": 994.92,
+            "text": " So now if at this point  I print others here.  So you see  Three of my different  Others are here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 994.92,
+            "end": 1004.92,
+            "text": " Codotrar,  JS  Now a problem is that  Dogs, images, media and others  This is"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1004.92,
+            "end": 1014.92,
+            "text": " I have come.  This is also here.  I do not want this.  I do not want to move folders.  I just want to move files."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1014.92,
+            "end": 1024.92,
+            "text": " So a file is  How to check the folder in os.  Let's look up this.  How to check  for file and folder in"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1024.92,
+            "end": 1034.92,
+            "text": " os module in python.  So we will write this.  So  Here see  The first link is"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1034.92,
+            "end": 1044.92,
+            "text": " os.part.is file.  So it is enough for me.  So os.part.is file.  So here I will do that.  This is in others."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1044.92,
+            "end": 1054.92,
+            "text": " So here is os.part.is file.  file  file is also necessary.  Then it will be added.  So codotrar"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1054.92,
+            "end": 1064.92,
+            "text": " and delete.js is here.  First I got my vscode.  And many things were here.  So I show you vscode.  And folders are also here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1064.92,
+            "end": 1074.92,
+            "text": " So now I am ready  To move my files  in corresponding folders.  So what will I do?  I will write on my internet."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1074.92,
+            "end": 1084.92,
+            "text": " How to move files  and folders using os module  in python.  And here  I will write in os module"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1084.92,
+            "end": 1098.92,
+            "text": " in os module  python.  So here it says more copy directories.  Now  Here see moving files."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1098.92,
+            "end": 1108.92,
+            "text": " See here.  Here is os.replacing function.  We will use os.replace  and will replace  and move this file."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1108.92,
+            "end": 1118.92,
+            "text": " Here.  So what I will do here is  I will write that  replace os.replace in corresponding folders.  So if"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1118.92,
+            "end": 1128.92,
+            "text": " I will put this media folder.  So  what I will do here is  I will write  for media in"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1128.92,
+            "end": 1138.92,
+            "text": " media.  And I will say that  what I will do with the files  with those files  I will move them."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1138.92,
+            "end": 1148.92,
+            "text": " So I will replace os.replace  and I will say that  what I will do with the media.  I will make an app string.  I will say that"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1148.92,
+            "end": 1158.92,
+            "text": " in media folder  move it there.  So there it will move.  So if I  run it"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1158.92,
+            "end": 1168.92,
+            "text": " run it.  So here see  my video.mp4 is in media folder.  So the files of media  are in media."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1168.92,
+            "end": 1178.92,
+            "text": " And what I will do here is  I will do with the other folders.  So as I have done with the media  I will do with others  and with"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1178.92,
+            "end": 1188.92,
+            "text": " others.  So this is the principle  in programming.  So here we say  do not repeat os.replace."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1188.92,
+            "end": 1198.92,
+            "text": " I will make a function  by using dry.  And I will write  move function.  And I will put"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1198.92,
+            "end": 1208.92,
+            "text": " these things in the move function.  I will put it in the move.  And  I  will give it"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1208.92,
+            "end": 1218.92,
+            "text": " two things.  Folder name and files.  So the media  will be files.  And here I will"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1218.92,
+            "end": 1228.92,
+            "text": " file it just to  know  what is our name.  It should be good.  So here I have made an app string."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1228.92,
+            "end": 1238.92,
+            "text": " Folder name.  And here I have moved it.  First I will do the files.  So I will write the move function.  And I will say that the name of the folder is"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1238.92,
+            "end": 1248.92,
+            "text": " media  and the file is media.  Similarly  I have made the media.  So I will write images."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1248.92,
+            "end": 1260.92,
+            "text": " So I will say  here  images  images.  And after that"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1260.92,
+            "end": 1270.92,
+            "text": " here I will write  docs.  And after that I will write  docs.  After docs"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1270.92,
+            "end": 1280.92,
+            "text": " there was media and then there was  ads.  I should have made it as ad.  I don't know why I made it as ad.  It would have been better if I had made it as ad."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1280.92,
+            "end": 1290.92,
+            "text": " So I will do one thing. I will rename it as ad.  And here I will do ad.  Ok.  Everything is in s.  Let's put it in s."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1290.92,
+            "end": 1300.92,
+            "text": " And what I will do here  I will do ad.  So here I will do s.  Now I will run it.  See all the clutters are clear."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1300.92,
+            "end": 1310.92,
+            "text": " Corresponding folders are in s.  PNG  Docs are in my doc.  So all these clutters are clear.  So I have to clear the clutters of my files."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1310.92,
+            "end": 1320.92,
+            "text": " So what I will do?  This is the main dot py.  I will copy the main dot py.  I will run it in that folder.  And all the folders will reach"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1320.92,
+            "end": 1330.92,
+            "text": " their destination.  Ok.  I will remove the main dot py.  You can log in here.  You can log in here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1330.92,
+            "end": 1340.92,
+            "text": " But it is so fast  that you don't need to log in.  Ok.  So if I run it again, then nothing will happen.  Now you can do this too."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1340.92,
+            "end": 1350.92,
+            "text": " To make it smart, you can add a count.  So many files and folders are in here.  Your clutters are clear.  So you can show me the kind of creativity.  Show me too."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1350.92,
+            "end": 1360.92,
+            "text": " Tell me in the comments what you have done.  So I am making it a little bit  beautiful.  To make it beautiful, I have  put it in the main."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1362.92,
+            "end": 1372.92,
+            "text": " And I am  fixing it.  Now you can write here  what you have done.  I will leave all these things here."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1372.92,
+            "end": 1382.92,
+            "text": " Save it.  After saving it,  you can take it anywhere and clear the clutter.  So I will do one thing.  I will make a clutter."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1382.92,
+            "end": 1392.92,
+            "text": " And see if it works.  So guys, as you can see, I have made a clutter.  I have made the whole project.  I have made the whole band.  I will go to the media."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1392.92,
+            "end": 1402.92,
+            "text": " I have put the video.  And I have put some images in it.  But here I have put another clutter.  I will run my main.py.  And see if my main.py"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1402.92,
+            "end": 1412.92,
+            "text": " does the main work.  Or not.  So I will do it.  If I don't want to open the vscode,  I will click shift and right click."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1412.92,
+            "end": 1422.92,
+            "text": " Open the PowerShell window here.  And I will do python main.py.  I will enter.  And see this whole clutter is clear.  I have gone to my corresponding folders."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1422.92,
+            "end": 1432.92,
+            "text": " So now I will open the docs.  See all the documents have come to me.  Open the images.  See all the images have come here.  And after that I will open the media."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1432.92,
+            "end": 1442.92,
+            "text": " So the media has come. And something else has come in the address.  Maybe you will feel some folders of others.  Dot lock is a document.  It is not a document.  But if you feel it is, you can put it in your documents."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1442.92,
+            "end": 1452.92,
+            "text": " If you want to make a folder of zips  with a lot of zip files.  You can do that too.  So what you have to do is  follow the same method."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1452.92,
+            "end": 1462.92,
+            "text": " Follow the same method.  Follow the same method.  And you will be able to  easily copy your files  in the corresponding folders."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1462.92,
+            "end": 1472.92,
+            "text": " And you will be able to clear your clutter.  So quickly we have cleared our clutter.  Clutter never feels good in the computer.  And a simple Python program.  When you use your program"
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1472.92,
+            "end": 1482.92,
+            "text": " and clear your clutter  of your computer.  Then something else comes in the fun.  Give it to your friends too.  I have made this."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1482.92,
+            "end": 1492.92,
+            "text": " See Azma.  So I hope you understood this.  You must have understood it.  If you do not access this playlist.  So do access this playlist."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1492.92,
+            "end": 1502.92,
+            "text": " And do practice Python programs.  We will take more programs.  And all the practices will be  here with us.  So that's all for now."
+        },
+        {
+            "number": null,
+            "title": "I Created an Automatic Folder Cleaner",
+            "start": 1502.92,
+            "end": 1526.92,
+            "text": " Do not forget to like this video.  Thank you so much guys for watching this video.  And I will see you next time.  Subscribe to our channel."
+        }
+    ],
+    "text": " Guys, I had made a playlist of a Python practice program before. And some of you liked it very much. So, in my playlist of Python practice programs, I had put some exciting Python programs. If you don't know, I will continue that series and make some of the best Python programs in this series. And today's program is very exciting. And that is a use case that you can read. And I have named it as clear the clutter. So, how can the clutter be? The clutter can be that you will have a lot of files here. Like HTML files, JPG files, PNG files. And what you have to do is that you have to arrange all the files in a folder. For example, I have a file here. I am making a new text document here. And this will be, I have this.txt. And I will have PNG file. And then I will have a lot of different types of files. And after putting all those files here, I would like them to be their own folders. And after being folders, what will happen is that I will make a folder of txt files and text files. And put all the txt files in it. And then I will make a folder of images and put all the images files in it. And you may need to do this. You can run this program in your computer. And it will be very clean. I am telling you in your computer. So I am going to start with a lot of files here. Which I will drop in this folder. And also open this folder in VS Code. So these are the files that I have copied here. And after copying, we are going to use OS module here. I want to tell you something. The Python program that I am going to make here. And also, the functions that I will tell you here, I am not getting them. So I am going to take an internet reference. So first of all, I will make a main.py here. I have made the main.py. And after making the main.py, I will arrange all the folders. The files here. I will first list them here. And after that, I will arrange them. So here, I am asking you to select Python interpreter. I have installed multiple versions of Python. So if you ever want to make a folder of Python, you can do it. So if you ever have such an error, then click below. Select Python. Everything will be fine. So first of all, let me tell you something. The OS that I am going to do here. The operating system module of Python in OS. It is so user friendly that you might need to see the documentation. But if you study it, feel free to search. You can search on the internet. How do you do this and how do you do that. And you will get everything. Here if I write files is equal to os.listdir. And after doing this, I will print the files. You can't do this and that. You can't do that. Or you can't do that. I want to tell you something. All the modules, you have to do a course of a module. So any new module, you have to see the documentation and it will start. So I did this. I ran the listdir function. And here I ran it. So all the vscode, apng file, rr file, js file, all the files are here. And here it lists all the files. And it also lists this script. It also lists main.py. So for now I will remove this Python file. And after removing this Python file, I will copy all the files. So I will do this. I will put my files in different folders. So first of all, if I write. I will write os.makedir. So I wrote os.ma. So I don't need to remember this. I don't need to remember this. Makedir function should be remembered. Nothing like that. So I will write here. Suppose images. os.makedir images. So it will list these files and make an image folder. But look, an image folder is here. So what happens with makedir is that your folder becomes. So what can we do here? We can make a folder. So I will make images folder. And along with making images folder. Now here see. If you click on the control on your makedir. It tells you that create a leaf directory and all intermediate ones. Works like mkdir except that any intermediate path segment will be created. So here it says that it will make all your directories. So I will write only os.makedir images. And after that what I will do here. Along with images, I will make a dox name. And I will make a media name folder. So I will make these three folders. I will run it. And here see. There is a problem. It says that your images folder is created. So my program is throwing error. So what I have to do here is I will have to write an if statement. I will have to say that if os.part.exists. If images. If it does not do it then make it. If not of os.part.exists. If it does not do it then make it. If I wrap this thing in a function then it will be very good for me. So I will write def and after that I will write the name of the function. Create if not exists. I will keep it as an existing single. And what I will do here is I will write folder. And what I will do here is I will say that if this folder does not exist. Then make it. And this will be the folder in the place of images. And I will run it by giving the argument of images. So I will write it like this by doing the folder. Now I have done here create if not exists folder. I have said here that if this folder does not exist then make it. After making more, do not return anything. Because I have to make it. So I have made new os.micdir. The name of which I have named it create image if not exists. So any image that I want to make, if it does not exist. If I want to make any folder then create if not exists function. It will make it. So here you can see that I made a new function. In which I used the os module's mmicdir. So here I have run it. So my program was successfully without error and it was an exit. The first problem I was getting was that here you see images that I was already existing. So if any of my files are already existing then what will happen? That will throw an error. So here I have made images, docs and media here. Now what I will do is what I have to put in images, docs and media. So what I will do is if extension.jpg or png is there then classify it as image. So I will write images is equal to file for file in files. Now I am writing in list comprehension. I am writing in list comprehension. I will say that the files in which I had files, if the file is in the files, If it is extension then I will see how to get extension in os module. For extracting extension from file name. So here os.part.split ext is something and if you do split ext then extension comes here as its second argument. So I will say that if os.part.split ext file 0, sorry 0 not 1 equals to equals to. What should happen? Here I will say in and after that I will write imgext which is image extension. So I am writing image extension which is my .png and then my .jpg. And along with that jpeg and jpeg is joint photographic expert group if I am not wrong. And you can add more extension from these three. I am considering these three for images. Now here comes a problem. Look at the image extension in capital PNG and here look at this small PNG. So how to solve this problem here? We will solve this problem and we will say this in lower case. So how do we convert this in lower case in Python? So I will lower this and if I lower this then it will come in lower case. So I am saying that if its extension is converted to lower case then this is an image. So I will get all the files in images. So I will print and see the images and I will run it here and look at this PNG and jpeg and jpeg and jpeg. Then I will say that my docs, I will classify them. I will say that I have to classify docs. So I will write doc extensions is equal to .dxt and along with that .docx and along with that .doc and what documents we have here. We have extensions, PDF is there. So I will save this and I will write docs is equal to .file for file in files if os.par.split.ext The first file of split.ext is also lower in .doc.ext. And if I print docs here then all docs will be available. See this is .dxt here. So here I will get this .dxt. So I have collected all docs here and after that I will collect media. I will write that the extensions of media will be my extension. One will be mp4 and the media will be extension. If mp3 is done then you can see that the files are in your folder. You can include them here. mp4, mp3 and along with that .flv are also there. There are many extensions. You can write that here and the commonly used ones that you can get in your computer. If you write them then maybe it will be better. So here I will write media is equal to media. And I will copy it. There are many typing here. We should not need this much typing practice. And I will write in media.ext. So I have done media.ext. Image extensions, doc extensions, media extensions. So I have made three things here. One is my image, one is my media and one is my doc. You can make more in all the categories you want to break. You can break others. You can make others folders. The rest of your extensions can be in others folder. So I will make others folders. I will make others. And I will do one thing here. I will remove my files from that. I will do one thing here. I will write files is equal to os.list here. .remove and main.py. I do not want to play with this file. This is the file that is doing all this. So here it says none type object is not retrieable. I have done some mistakes here. I am trying to see where I have made mistakes. So it says none type object is not retrieable. So what is none? So files are also none. So it does not return anything. So I will have to do one thing here. I will have to write files.remove. And now I will run it. So here in this, what is it? Main.py is not there. There is one thing here. This is my .vs code. So you have to keep that in mind. What do you want to move? What do you want to not move? I have removed the files.remove. Main.py. Please do not do anything with this. I have told this to my Python interpreter. Through script. Now I will tell you that the other files will come in other files. So I will tell you that if If our files do not exist in this. In this media ext. So which one will come in this? So it will come in my other files. So I will do one thing here. I will do all the files in this. And I will tell you that if that file is not in this. In this. In this. In this. So I will tell you that if file is not in this. Sorry. I want the extension of this. So I will tell you that This file. Its extension is not in this media ext. And I will do one thing. I will make a variable named ext. The typing will be longer. So I am telling you that If ext is not in media ext. Not in media ext. And Not in this. Write more or write more. Write more or write more. Not in this. Or ext not in. If any of these things are true. Then what will happen? Then this will be my executable. If it is in this. It is not in this. It is not in this. I will add it in other. So I will write it in the end. So I will tell you that It is not in this. It is not in this. For example, We have created .mp8 file. We have made it. Then .mp5 is the file of Matlab. What will you do? You have to come to the code. You cannot put the document. Or .js file. So what will happen? It will not be in media ext. Not in media ext. Not in dog ext. And Along with that I will write it in imgxt. Then what will we do? Then we will say Put it in others. So we will say append that file. And before that we will make a folder with others. Others is equal to A blank list. So we will say Others is equal to blank. So now if at this point I print others here. So you see Three of my different Others are here. Codotrar, JS Now a problem is that Dogs, images, media and others This is I have come. This is also here. I do not want this. I do not want to move folders. I just want to move files. So a file is How to check the folder in os. Let's look up this. How to check for file and folder in os module in python. So we will write this. So Here see The first link is os.part.is file. So it is enough for me. So os.part.is file. So here I will do that. This is in others. So here is os.part.is file. file file is also necessary. Then it will be added. So codotrar and delete.js is here. First I got my vscode. And many things were here. So I show you vscode. And folders are also here. So now I am ready To move my files in corresponding folders. So what will I do? I will write on my internet. How to move files and folders using os module in python. And here I will write in os module in os module python. So here it says more copy directories. Now Here see moving files. See here. Here is os.replacing function. We will use os.replace and will replace and move this file. Here. So what I will do here is I will write that replace os.replace in corresponding folders. So if I will put this media folder. So what I will do here is I will write for media in media. And I will say that what I will do with the files with those files I will move them. So I will replace os.replace and I will say that what I will do with the media. I will make an app string. I will say that in media folder move it there. So there it will move. So if I run it run it. So here see my video.mp4 is in media folder. So the files of media are in media. And what I will do here is I will do with the other folders. So as I have done with the media I will do with others and with others. So this is the principle in programming. So here we say do not repeat os.replace. I will make a function by using dry. And I will write move function. And I will put these things in the move function. I will put it in the move. And I will give it two things. Folder name and files. So the media will be files. And here I will file it just to know what is our name. It should be good. So here I have made an app string. Folder name. And here I have moved it. First I will do the files. So I will write the move function. And I will say that the name of the folder is media and the file is media. Similarly I have made the media. So I will write images. So I will say here images images. And after that here I will write docs. And after that I will write docs. After docs there was media and then there was ads. I should have made it as ad. I don't know why I made it as ad. It would have been better if I had made it as ad. So I will do one thing. I will rename it as ad. And here I will do ad. Ok. Everything is in s. Let's put it in s. And what I will do here I will do ad. So here I will do s. Now I will run it. See all the clutters are clear. Corresponding folders are in s. PNG Docs are in my doc. So all these clutters are clear. So I have to clear the clutters of my files. So what I will do? This is the main dot py. I will copy the main dot py. I will run it in that folder. And all the folders will reach their destination. Ok. I will remove the main dot py. You can log in here. You can log in here. But it is so fast that you don't need to log in. Ok. So if I run it again, then nothing will happen. Now you can do this too. To make it smart, you can add a count. So many files and folders are in here. Your clutters are clear. So you can show me the kind of creativity. Show me too. Tell me in the comments what you have done. So I am making it a little bit beautiful. To make it beautiful, I have put it in the main. And I am fixing it. Now you can write here what you have done. I will leave all these things here. Save it. After saving it, you can take it anywhere and clear the clutter. So I will do one thing. I will make a clutter. And see if it works. So guys, as you can see, I have made a clutter. I have made the whole project. I have made the whole band. I will go to the media. I have put the video. And I have put some images in it. But here I have put another clutter. I will run my main.py. And see if my main.py does the main work. Or not. So I will do it. If I don't want to open the vscode, I will click shift and right click. Open the PowerShell window here. And I will do python main.py. I will enter. And see this whole clutter is clear. I have gone to my corresponding folders. So now I will open the docs. See all the documents have come to me. Open the images. See all the images have come here. And after that I will open the media. So the media has come. And something else has come in the address. Maybe you will feel some folders of others. Dot lock is a document. It is not a document. But if you feel it is, you can put it in your documents. If you want to make a folder of zips with a lot of zip files. You can do that too. So what you have to do is follow the same method. Follow the same method. Follow the same method. And you will be able to easily copy your files in the corresponding folders. And you will be able to clear your clutter. So quickly we have cleared our clutter. Clutter never feels good in the computer. And a simple Python program. When you use your program and clear your clutter of your computer. Then something else comes in the fun. Give it to your friends too. I have made this. See Azma. So I hope you understood this. You must have understood it. If you do not access this playlist. So do access this playlist. And do practice Python programs. We will take more programs. And all the practices will be here with us. So that's all for now. Do not forget to like this video. Thank you so much guys for watching this video. And I will see you next time. Subscribe to our channel."
+}
